@@ -12,8 +12,15 @@ if (pliki.length === 0) pliki.push("pl/common.json");
 
 const SUF = /_(0|1|2|plural)$/;
 const wstawki = (s) => [...s.matchAll(/\{\{\s*[^}]+?\s*\}\}|\$t\([^)]*\)|%[sd]/g)].map((m) => m[0].replace(/\s+/g, "")).sort();
-const znaczniki = (s) => [...s.matchAll(/\[\/?[a-z*]+[^\]]*\]|<\/?[a-zA-Z0-9]+[^>]*>/g)]
-  .map((m) => m[0].replace(/=.*\]$/, "]").replace(/\s.*>$/, ">")).sort();
+// Znaczniki: BBCode [b]…[/b] oraz HTML/JSX tylko numerowane (<1>, </1>, <1/>) albo mające zamknięcie w tym samym tekście
+// (<a>…</a>, <modLink>…</modLink>) — samotne „<Nothing>”, „<No category>” to zwykły tekst do tłumaczenia.
+const znaczniki = (s) => {
+  const bb = [...s.matchAll(/\[\/?[a-z*]+[^\]]*\]/g)].map((m) => m[0].replace(/=.*\]$/, "]"));
+  const html = [...s.matchAll(/<(\/?)([a-zA-Z0-9]+)[^<>]*?(\/?)>/g)]
+    .filter((m) => /^\d+$/.test(m[2]) || m[3] === "/" || s.includes(`</${m[2]}>`))
+    .map((m) => `<${m[1]}${m[2]}${m[3]}>`);
+  return [...bb, ...html].sort();
+};
 const nl = (s) => (s.match(/\n/g) ?? []).length;
 const rowne = (a, b) => a.length === b.length && a.every((x, i) => x === b[i]);
 
@@ -34,8 +41,10 @@ for (const [k, v] of Object.entries(pl)) {
   if (!v.trim()) { blad(`puste tłumaczenie ${krotko(k)}`); continue; }
   const wO = wstawki(zrodlo);
   const wT = wstawki(v);
-  // w formach liczby mnogiej wolno pominąć {{count}} (np. „jeden plik”), ale nie dodać obcych wstawek
-  const okLiczba = k !== zrodlo && wT.every((x) => wO.includes(x)) && wO.filter((x) => !/count/.test(x)).every((x) => wT.includes(x));
+  // w formach liczby mnogiej wolno pominąć albo dodać {{count}} (i18next zawsze je podaje; angielskie _plural też dodają),
+  // ale żadnej innej wstawki nie wolno zgubić ani dodać
+  const bezCount = (a) => a.filter((x) => !/^\{\{count\}\}$/.test(x));
+  const okLiczba = k !== zrodlo && rowne(bezCount(wO), bezCount(wT));
   if (!rowne(wO, wT) && !okLiczba) blad(`wstawki ${JSON.stringify(wO)} → ${JSON.stringify(wT)} w ${krotko(k)}`);
   if (!rowne(znaczniki(zrodlo), znaczniki(v))) blad(`znaczniki różnią się w ${krotko(k)}`);
   if (nl(zrodlo) !== nl(v)) blad(`nowe linie ${nl(zrodlo)} → ${nl(v)} w ${krotko(k)}`);

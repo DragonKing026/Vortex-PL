@@ -1,0 +1,23 @@
+{
+ "{{count}} deleted navmesh_0": "jeden usunięty navmesh",
+ "{{count}} deleted navmesh_1": "{{ count }} usunięte navmeshe",
+ "{{count}} deleted navmesh_2": "{{ count }} usuniętych navmeshy",
+ "{{count}} deleted navmesh_few": "{{ count }} usunięte navmeshe",
+ "{{count}} deleted navmesh_many": "{{ count }} usuniętych navmeshy",
+ "{{count}} deleted navmesh_one": "jeden usunięty navmesh",
+ "{{count}} deleted navmesh_other": "{{ count }} usuniętych navmeshy",
+ "{{count}} deleted reference_0": "jedno usunięte odwołanie",
+ "{{count}} deleted reference_1": "{{ count }} usunięte odwołania",
+ "{{count}} deleted reference_2": "{{ count }} usuniętych odwołań",
+ "{{count}} deleted reference_few": "{{ count }} usunięte odwołania",
+ "{{count}} deleted reference_many": "{{ count }} usuniętych odwołań",
+ "{{count}} deleted reference_one": "jedno usunięte odwołanie",
+ "{{count}} deleted reference_other": "{{ count }} usuniętych odwołań",
+ "{{count}} ITM record_0": "jeden rekord ITM",
+ "{{count}} ITM record_1": "{{ count }} rekordy ITM",
+ "{{count}} ITM record_2": "{{ count }} rekordów ITM",
+ "{{count}} ITM record_few": "{{ count }} rekordy ITM",
+ "{{count}} ITM record_many": "{{ count }} rekordów ITM",
+ "{{count}} ITM record_one": "jeden rekord ITM",
+ "{{count}} ITM record_other": "{{ count }} rekordów ITM"
+}

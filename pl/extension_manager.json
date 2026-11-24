@@ -1,0 +1,12 @@
+{
+ "linkDialog": {
+  "buttons": {
+   "later": "Później",
+   "update": "Zaktualizuj zaznaczone"
+  },
+  "intro": "Vortex znalazł rozszerzenia zainstalowane z nieznanego źródła i wskazał możliwe zamienniki w Nexus Mods.",
+  "replaceWith": "Zastąp przez",
+  "select": "Wybierz rozszerzenia, które chcesz zastąpić. Niezaznaczone rozszerzenia pozostaną bez zmian i Vortex nie zapyta o nie ponownie.",
+  "title": "Dostępne aktualizacje rozszerzeń Vortexa"
+ }
+}

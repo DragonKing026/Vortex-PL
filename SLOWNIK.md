@@ -97,3 +97,22 @@ Teksty oznaczone `"liczba": true` dostają cztery wpisy (format i18next v3, pols
 | Cancel / OK / Continue / Close / Yes / No | Anuluj / OK / Kontynuuj / Zamknij / Tak / Nie | |
 | More / Less / Details | Więcej / Mniej / Szczegóły | |
 | Never / Ignore / Retry / Skip | Nigdy / Ignoruj / Ponów / Pomiń | |
+
+## Pojęcia ustalone przy tłumaczeniu 2.11.0
+
+| Angielski | Polski | Uwagi |
+| --- | --- | --- |
+| revision (kolekcji) | rewizja | |
+| log / logs | dziennik / dzienniki | nie „logi” |
+| changelog | lista zmian | |
+| health check | kontrola stanu | |
+| patch / binary patching | łatka / łatanie binarne | |
+| Workshop (kolekcje) | warsztat | |
+| INI tweak | poprawka INI | |
+| instance | instancja | |
+| snapshot | migawka | |
+| issue tracker | system zgłoszeń | |
+| savegame, autosave, quicksave | zapis gry, autozapis, szybki zapis | |
+| Vortex (odmiana) | Vortexa, w Vortexie | „Zamknij Vortexa” |
+| enable / disable wstawiane w zdanie (`{{enable}}`) | włączyć / wyłączyć | bezokolicznik; przycisk „Enable” = „Włącz” |
+| `<None>`, `<No category>` … | `<Brak>`, `<Brak kategorii>` … | tłumaczyć — to tekst, nie znacznik |

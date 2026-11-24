@@ -1,0 +1,44 @@
+{
+ "collection_update_warning": {
+  "batch": {
+   "acknowledge": "Rozumiem, że aktualizacja tych modów może wpłynąć na moją kolekcję.",
+   "caution": "Jeśli kurator zaleca te aktualizacje, możesz kontynuować. W przeciwnym razie aktualizacja może sprawić, że kolekcje przestaną działać zgodnie z założeniami.",
+   "curator_version": "Te kolekcje używają wersji wybranej przez kuratora.",
+   "intro": "Niektóre z tych modów należą do następujących kolekcji:",
+   "title": "Zaktualizować te mody?",
+   "update_all": "Zaktualizuj wszystkie",
+   "update_non_collection": "Zaktualizuj mody spoza kolekcji"
+  },
+  "cancel": "Anuluj",
+  "single": {
+   "acknowledge": "Rozumiem, że aktualizacja tego moda może wpłynąć na moją kolekcję.",
+   "caution": "Jeśli kurator zaleca tę aktualizację, możesz kontynuować. W przeciwnym razie aktualizacja może sprawić, że kolekcja przestanie działać zgodnie z założeniami.",
+   "curator_version": "Te kolekcje używają wersji wybranej przez kuratora.",
+   "intro": "Ten mod należy do następujących kolekcji:",
+   "title": "Zaktualizować ten mod?",
+   "update_anyway": "Zaktualizuj mimo to"
+  }
+ },
+ "manualInstaller": {
+  "cancel": "Anuluj",
+  "createFolder": "Utwórz folder",
+  "dontAskAgain": "Nie pytaj ponownie",
+  "folder": "Folder",
+  "gameFolder": "Folder gry",
+  "install": "Zainstaluj",
+  "intro": "Wybierz folder w katalogu gry, do którego zostanie zainstalowany {{modName}}.",
+  "invalidFolder": "Folder musi znajdować się w katalogu gry",
+  "newFolder": "Nowy folder",
+  "preview": "Pliki zostaną zainstalowane do:",
+  "skipTopFolder": "Pomiń folder najwyższego poziomu ({{folder}})",
+  "title": "Wybierz folder instalacji",
+  "useAsDefault": "Używaj tego folderu dla kolejnych modów tej gry",
+  "useForAll_0": "Użyj tego folderu dla wszystkich pozostałych modów (jeszcze {{count}})",
+  "useForAll_1": "Użyj tego folderu dla wszystkich pozostałych modów (jeszcze {{count}})",
+  "useForAll_2": "Użyj tego folderu dla wszystkich pozostałych modów (jeszcze {{count}})",
+  "useForAll_few": "Użyj tego folderu dla wszystkich pozostałych modów (jeszcze {{count}})",
+  "useForAll_many": "Użyj tego folderu dla wszystkich pozostałych modów (jeszcze {{count}})",
+  "useForAll_one": "Użyj tego folderu dla wszystkich pozostałych modów (jeszcze {{count}})",
+  "useForAll_other": "Użyj tego folderu dla wszystkich pozostałych modów (jeszcze {{count}})"
+ }
+}

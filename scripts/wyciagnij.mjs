@@ -39,6 +39,9 @@ function dodaj(tekst, plik, zrodlo, liczba = false) {
   const s = tekst;
   if (!/[A-Za-z]/.test(s)) return;
   if (s.length > 4000) return;
+  // klucze plików locales, nie teksty: „detail::item::x” (separator Vortexa), „collection:browse.title”, „common:::back”
+  // — ich tłumaczenie jest w teksty/pl-locales.json
+  if (/::/.test(s) || /^[\w-]+:[\w.]+$/.test(s)) return;
   if (zrodlo !== "t") {
     // identyfikatory, ścieżki, adresy, klasy CSS
     if (!/\s/.test(s) && !/^[A-Z][a-z]/.test(s)) return;

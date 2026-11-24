@@ -1,0 +1,365 @@
+{
+ "common": {
+  "Do you really want to remove this mod{{insert}}?_0": "Czy na pewno chcesz usunąć ten mod{{insert}}?",
+  "Do you really want to remove this mod{{insert}}?_1": "Czy na pewno chcesz usunąć te {{ count }} mody{{insert}}?",
+  "Do you really want to remove this mod{{insert}}?_2": "Czy na pewno chcesz usunąć tych {{ count }} modów{{insert}}?",
+  "Do you really want to delete this archive?_0": "Czy na pewno chcesz usunąć to archiwum?",
+  "Do you really want to delete this archive?_1": "Czy na pewno chcesz usunąć te {{ count }} archiwa?",
+  "Do you really want to delete this archive?_2": "Czy na pewno chcesz usunąć tych {{ count }} archiwów?",
+  "{{ count }} download_0": "{{ count }} pobranie",
+  "{{ count }} download_1": "{{ count }} pobrania",
+  "{{ count }} download_2": "{{ count }} pobrań",
+  "{{ count }} minute ago_0": "{{ count }} minutę temu",
+  "{{ count }} minute ago_1": "{{ count }} minuty temu",
+  "{{ count }} minute ago_2": "{{ count }} minut temu",
+  "{{ count }} hour ago_0": "{{ count }} godzinę temu",
+  "{{ count }} hour ago_1": "{{ count }} godziny temu",
+  "{{ count }} hour ago_2": "{{ count }} godzin temu",
+  "{{ count }} day ago_0": "{{ count }} dzień temu",
+  "{{ count }} day ago_1": "{{ count }} dni temu",
+  "{{ count }} day ago_2": "{{ count }} dni temu",
+  "{{ count }} week ago_0": "{{ count }} tydzień temu",
+  "{{ count }} week ago_1": "{{ count }} tygodnie temu",
+  "{{ count }} week ago_2": "{{ count }} tygodni temu",
+  "{{ count }} month ago_0": "{{ count }} miesiąc temu",
+  "{{ count }} month ago_1": "{{ count }} miesiące temu",
+  "{{ count }} month ago_2": "{{ count }} miesięcy temu",
+  "{{ count }} year ago_0": "{{ count }} rok temu",
+  "{{ count }} year ago_1": "{{ count }} lata temu",
+  "{{ count }} year ago_2": "{{ count }} lat temu",
+  "{{ count }} error_0": "{{ count }} błąd",
+  "{{ count }} error_1": "{{ count }} błędy",
+  "{{ count }} error_2": "{{ count }} błędów",
+  "{{ count }} active mod_0": "{{ count }} aktywny mod",
+  "{{ count }} active mod_1": "{{ count }} aktywne mody",
+  "{{ count }} active mod_2": "{{ count }} aktywnych modów",
+  "{{ count }} file_0": "{{ count }} plik",
+  "{{ count }} file_1": "{{ count }} pliki",
+  "{{ count }} file_2": "{{ count }} plików",
+  "{{ count }} item selected_0": "Zaznaczono {{ count }} element",
+  "{{ count }} item selected_1": "Zaznaczono {{ count }} elementy",
+  "{{ count }} item selected_2": "Zaznaczono {{ count }} elementów",
+  "{{ count }} comments": "{{ count }} komentarzy",
+  "{{ count }} comments_0": "1 komentarz",
+  "{{ count }} comments_1": "{{ count }} komentarze",
+  "{{ count }} comments_2": "{{ count }} komentarzy",
+  "Enable All": "Włącz wszystkie",
+  "Enable All_0": "Włącz",
+  "Enable All_1": "Włącz wszystkie",
+  "Enable All_2": "Włącz wszystkie",
+  "Install All": "Zainstaluj wszystkie",
+  "Install All_0": "Zainstaluj",
+  "Install All_1": "Zainstaluj wszystkie",
+  "Install All_2": "Zainstaluj wszystkie",
+  "{{ count }} notification is being suppressed_0": "{{ count }} powiadomienie jest wyciszone",
+  "{{ count }} notification is being suppressed_1": "{{ count }} powiadomienia są wyciszone",
+  "{{ count }} notification is being suppressed_2": "{{ count }} powiadomień jest wyciszonych",
+  "{{ count }} extensions will be updated": "Zostanie zaktualizowanych {{ count }} rozszerzeń",
+  "{{ count }} extensions will be updated_0": "Zostanie zaktualizowane rozszerzenie",
+  "{{ count }} extensions will be updated_1": "Zostaną zaktualizowane {{ count }} rozszerzenia",
+  "{{ count }} extensions will be updated_2": "Zostanie zaktualizowanych {{ count }} rozszerzeń",
+  "actions": {
+   "search": "Szukaj"
+  },
+  "view_all": "Pokaż wszystko",
+  "back": "Wstecz",
+  "refresh": "Odśwież",
+  "settings": "Ustawienia",
+  "beta": "Beta",
+  "hide": "Ukryj",
+  "hide_all": "Ukryj wszystkie",
+  "unhide": "Pokaż",
+  "unhide_all": "Pokaż wszystkie",
+  "active": "Aktywne",
+  "hidden": "Ukryte",
+  "helpful": "Pomocne",
+  "not_helpful": "Niepomocne",
+  "thanks_for_your_feedback": "Dziękujemy za opinię"
+ },
+ "collection": {
+  "browse": {
+   "title": "Przeglądaj kolekcje ({{total}})",
+   "selectGame": "Wybierz grę, aby przeglądać kolekcje.",
+   "noCollections": {
+    "title": "Nie znaleziono kolekcji dla tej gry",
+    "message": "Przeglądaj mody na stronie, aby zacząć budować własny zestaw."
+   },
+   "searchPlaceholder": "Szukaj kolekcji...",
+   "searchTooShort": "Wyszukiwanie wymaga co najmniej 2 znaków. Wpisz więcej tekstu albo wyczyść pole wyszukiwania.",
+   "resultsCount": "Wyniki: {{total}}",
+   "sortBy": "Sortuj według",
+   "refresh": "Odśwież",
+   "tabs": {
+    "collections": "Kolekcje",
+    "mods": "Mody"
+   },
+   "modsComingSoon": {
+    "title": "Przeglądanie modów już wkrótce",
+    "description": "Wkrótce będzie można przeglądać mody bezpośrednio w Vortexie. Do tego czasu odwiedź Nexus Mods, aby wyszukiwać i pobierać mody.",
+    "openWebsite": "Otwórz stronę Nexus Mods"
+   }
+  },
+  "pagination": {
+   "goTo": "Przejdź do:",
+   "pageNumber": "Numer strony",
+   "go": "Przejdź"
+  }
+ },
+ "extension_manager": {
+  "linkDialog": {
+   "title": "Dostępne aktualizacje rozszerzeń Vortexa",
+   "intro": "Vortex znalazł rozszerzenia zainstalowane z nieznanego źródła i wskazał możliwe zamienniki w Nexus Mods.",
+   "select": "Wybierz rozszerzenia, które chcesz zastąpić. Niezaznaczone rozszerzenia pozostaną bez zmian i Vortex nie zapyta o nie ponownie.",
+   "replaceWith": "Zastąp przez",
+   "buttons": {
+    "later": "Później",
+    "update": "Zaktualizuj zaznaczone"
+   }
+  }
+ },
+ "gamebryo-plugin-management": {
+  "{{count}} ITM record_0": "jeden rekord ITM",
+  "{{count}} ITM record_1": "{{ count }} rekordy ITM",
+  "{{count}} ITM record_2": "{{ count }} rekordów ITM",
+  "{{count}} deleted navmesh_0": "jeden usunięty navmesh",
+  "{{count}} deleted navmesh_1": "{{ count }} usunięte navmeshe",
+  "{{count}} deleted navmesh_2": "{{ count }} usuniętych navmeshy",
+  "{{count}} deleted reference_0": "jedno usunięte odwołanie",
+  "{{count}} deleted reference_1": "{{ count }} usunięte odwołania",
+  "{{count}} deleted reference_2": "{{ count }} usuniętych odwołań"
+ },
+ "health_check": {
+  "actions": {
+   "install_all": "Zainstaluj wszystko jednym kliknięciem ({{count}})"
+  },
+  "divider": {
+   "and": "Oraz",
+   "or": "Lub"
+  },
+  "shared": {
+   "mod_may_be_required_for": "Brakujący mod może być wymagany przez: {{modName}}",
+   "requires_files_0": "Do poprawnego działania wymaga instalacji {{ count }} dodatkowego pliku moda:",
+   "requires_files_1": "Do poprawnego działania wymaga instalacji {{ count }} dodatkowych plików moda:",
+   "requires_files_2": "Do poprawnego działania wymaga instalacji {{ count }} dodatkowych plików moda:",
+   "requires_pick_0": "Do poprawnego działania wymaga wybrania {{ count }} dodatkowego pliku moda:",
+   "requires_pick_1": "Do poprawnego działania wymaga wybrania {{ count }} dodatkowych plików moda:",
+   "requires_pick_2": "Do poprawnego działania wymaga wybrania {{ count }} dodatkowych plików moda:",
+   "wrong_version_installed_0": "Do poprawnego działania wymaga zainstalowania innej wersji tego pliku moda:",
+   "wrong_version_installed_1": "Do poprawnego działania wymaga zainstalowania innej wersji {{ count }} istniejących plików moda:",
+   "wrong_version_installed_2": "Do poprawnego działania wymaga zainstalowania innej wersji {{ count }} istniejących plików moda:",
+   "wrong_version_enabled_0": "Do poprawnego działania wymaga włączenia innej wersji tego zainstalowanego pliku moda:",
+   "wrong_version_enabled_1": "Do poprawnego działania wymaga włączenia innej wersji {{ count }} zainstalowanych plików moda:",
+   "wrong_version_enabled_2": "Do poprawnego działania wymaga włączenia innej wersji {{ count }} zainstalowanych plików moda:",
+   "correct_version_uninstalled_0": "Do poprawnego działania wymaga zainstalowania tego wcześniej pobranego pliku moda:",
+   "correct_version_uninstalled_1": "Do poprawnego działania wymaga zainstalowania {{ count }} wcześniej pobranych plików moda:",
+   "correct_version_uninstalled_2": "Do poprawnego działania wymaga zainstalowania {{ count }} wcześniej pobranych plików moda:"
+  },
+  "listing": {
+   "title": "Kontrola stanu",
+   "subtitle": "Sprawdź swój zestaw modów pod kątem problemów i dowiedz się, jak je rozwiązać.",
+   "last_updated": "Ostatnia aktualizacja: {{time}}",
+   "section": {
+    "warning": {
+     "title": "Ostrzeżenia",
+     "description": "Problemy, przez które część twojego zestawu modów może nie działać."
+    },
+    "suggestion": {
+     "title": "Sugestie",
+     "description": "Zmiany, które mogą ulepszyć twój zestaw modów albo dodać opcjonalne dodatki."
+    },
+    "collapse": "Zwiń sekcję",
+    "expand": "Rozwiń sekcję"
+   },
+   "item": {
+    "description": "Brakujący mod: {{dependencyModName}}",
+    "more_count": "+{{ count }} więcej",
+    "missing_for_0": "Brak wymaganego moda dla: {{modName}}",
+    "missing_for_1": "Brak wymaganych modów dla: {{modName}}",
+    "missing_for_2": "Brak wymaganych modów dla: {{modName}}",
+    "or_join": "lub"
+   },
+   "no_results_active": {
+    "title": "Kontrola stanu zakończona pomyślnie",
+    "message": "Gotowe do gry"
+   },
+   "no_results_hidden": {
+    "title": "Brak ukrytych elementów"
+   },
+   "no_results_logged_out": {
+    "title": "Dostępne dodatkowe kontrole",
+    "message": "Kontrola stanu nie znalazła problemów w kontrolach, które mogła wykonać. Zaloguj się, aby sprawdzić także brakujące wymagania z Nexus Mods.",
+    "action": "Zaloguj się, aby dokończyć kontrolę stanu"
+   },
+   "external_mod_install": "Instalacja moda spoza Nexus Mods",
+   "install_one_click": "Zainstaluj jednym kliknięciem ({{count}})",
+   "install_uninstalled": "Zainstaluj (pobrany)",
+   "pick_mod_install": "Wybierz mod do instalacji",
+   "premium_banner": {
+    "description": "Pobieraj wymagania jednym kliknięciem. Bez odwiedzania stron i czekania. <premiumLink>Przejdź na Premium</premiumLink>"
+   }
+  },
+  "detail": {
+   "title": {
+    "suggestion": "Sugestia",
+    "warning": "Ostrzeżenie",
+    "error": "Błąd"
+   },
+   "subtitle": {
+    "suggestion": "Zmiany, które mogą ulepszyć twój zestaw modów.",
+    "warning": "Problemy, przez które część twojego zestawu modów może nie działać.",
+    "error": "Problemy uniemożliwią działanie gry. Napraw je przed grą."
+   },
+   "was_this_helpful": {
+    "suggestion": "Czy ta sugestia była pomocna?",
+    "warning": "Czy to ostrzeżenie było pomocne?",
+    "error": "Czy ten komunikat o błędzie był pomocny?"
+   },
+   "item": {
+    "may_require_file": "Do poprawnego działania może wymagać instalacji tego dodatkowego pliku moda:",
+    "author_note": "Uwaga autora: {{note}}",
+    "mod_page_source_note": "To wymaganie pochodzi ze strony moda, a nie z systemu wymagań plików, więc w twojej konfiguracji może nie być potrzebne. <modLink>Zobacz stronę moda, aby poznać szczegóły</modLink>.",
+    "open_external_mod_page": "Otwórz zewnętrzną stronę moda",
+    "external_hosted_note": "Ten mod jest udostępniany poza Nexus Mods. Przed instalacją przeczytaj opis.",
+    "after_installing": "Po instalacji kliknij „Potwierdź instalację”. Nie możemy automatycznie wykryć modów zainstalowanych z zewnątrz.",
+    "confirm_install": "Potwierdź instalację",
+    "missing_for_0": "Brak wymaganego moda dla: <modLink>{{modName}}</modLink>",
+    "missing_for_1": "Brak wymaganych modów dla: <modLink>{{modName}}</modLink>",
+    "missing_for_2": "Brak wymaganych modów dla: <modLink>{{modName}}</modLink>",
+    "install_via_mod_page": "Zainstaluj przez stronę moda",
+    "view_mod_page": "Zobacz stronę moda",
+    "install_one_click": "Zainstaluj jednym kliknięciem",
+    "downloading": "Pobieranie...",
+    "installing": "Instalowanie...",
+    "pick_one": "Wybierz jeden z nich",
+    "install_required": "Wymagana instalacja",
+    "different_version_required": "Wymagana instalacja innej wersji",
+    "current_version": "Bieżąca wersja",
+    "required_version": "Wymagana wersja:",
+    "enable_required": "Włącz wymaganą wersję",
+    "view_in_mods": "Pokaż w modach",
+    "enable_this_version": "Włącz tę wersję",
+    "install_uninstalled": "Zainstaluj (pobrany)",
+    "adult": "Dla dorosłych",
+    "installed": "Zainstalowany",
+    "enabled": "Włączony",
+    "disabled": "Wyłączony"
+   },
+   "feedback_modal": {
+    "title": "Dziękujemy za informację",
+    "description": "Pomóż nam ulepszyć ten komunikat — napisz, co poszło nie tak.",
+    "options": {
+     "incorrect_requirement": "Błędne wymaganie",
+     "requirement_already_installed": "Wymaganie jest już zainstalowane",
+     "explanation_was_unclear": "Wyjaśnienie było niejasne",
+     "other": "Inne"
+    },
+    "buttons": {
+     "cancel": "Pomiń",
+     "confirm": "Wyślij opinię"
+    }
+   }
+  },
+  "author_notes_modal": {
+   "title": "Przejrzyj uwagi autorów modów",
+   "description": "Niektóre sugerowane mody mają dodatkowe wskazówki od autorów i nie zawsze są wymagane.",
+   "prompt": "Przeczytaj uwagi poniżej i wybierz mody do instalacji.",
+   "required_for": "Dla modów:",
+   "buttons": {
+    "cancel": "Anuluj",
+    "install": "Zainstaluj zaznaczone ({{count}})"
+   }
+  },
+  "settings": {
+   "title": "Kontrola stanu (beta)",
+   "description": "Wykrywa problemy z listą modów i proponuje poprawki. Wkrótce pojawi się więcej kontroli.",
+   "mod_requirements": "Sugestie brakujących wymagań modów",
+   "file_requirements": "Ostrzeżenia o brakujących wymaganych plikach"
+  },
+  "premium": {
+   "modal": {
+    "title": {
+     "single": "Pomiń stronę i zainstaluj od razu.",
+     "all": "Pomiń stronę i zainstaluj od razu wszystkie wymagania."
+    },
+    "description": {
+     "single": "Instalacja jednym kliknięciem w aplikacji to funkcja Premium.\n\nUżytkownicy bez Premium pobierają pliki ze stron modów, gdzie reklamy pomagają utrzymać serwis.",
+     "all": "Instalacja jednym kliknięciem w aplikacji to funkcja Premium.\n\nUżytkownicy bez Premium pobierają pliki ze stron modów, gdzie reklamy pomagają utrzymać serwis."
+    },
+    "benefits_title": "Z Premium otrzymujesz:",
+    "benefits": {
+     "downloads": "Pobieranie i aktualizacje modów jednym kliknięciem w aplikacji",
+     "collections": "Instalacja kolekcji jednym kliknięciem",
+     "speed": "Pobieranie bez ograniczenia prędkości",
+     "ad_free": "Brak reklam na zawsze, nawet jeśli później zrezygnujesz"
+    },
+    "buttons": {
+     "primary": "Odblokuj instalację jednym kliknięciem",
+     "secondary": {
+      "single": "Zainstaluj przez stronę moda (za darmo)",
+      "all": "Wróć i otwórz strony modów"
+     }
+    }
+   }
+  }
+ },
+ "mod_management": {
+  "collection_update_warning": {
+   "cancel": "Anuluj",
+   "single": {
+    "title": "Zaktualizować ten mod?",
+    "intro": "Ten mod należy do następujących kolekcji:",
+    "curator_version": "Te kolekcje używają wersji wybranej przez kuratora.",
+    "caution": "Jeśli kurator zaleca tę aktualizację, możesz kontynuować. W przeciwnym razie aktualizacja może sprawić, że kolekcja przestanie działać zgodnie z założeniami.",
+    "acknowledge": "Rozumiem, że aktualizacja tego moda może wpłynąć na moją kolekcję.",
+    "update_anyway": "Zaktualizuj mimo to"
+   },
+   "batch": {
+    "title": "Zaktualizować te mody?",
+    "intro": "Niektóre z tych modów należą do następujących kolekcji:",
+    "curator_version": "Te kolekcje używają wersji wybranej przez kuratora.",
+    "caution": "Jeśli kurator zaleca te aktualizacje, możesz kontynuować. W przeciwnym razie aktualizacja może sprawić, że kolekcje przestaną działać zgodnie z założeniami.",
+    "acknowledge": "Rozumiem, że aktualizacja tych modów może wpłynąć na moją kolekcję.",
+    "update_all": "Zaktualizuj wszystkie",
+    "update_non_collection": "Zaktualizuj mody spoza kolekcji"
+   }
+  },
+  "manualInstaller": {
+   "title": "Wybierz folder instalacji",
+   "intro": "Wybierz folder w katalogu gry, do którego zostanie zainstalowany {{modName}}.",
+   "folder": "Folder",
+   "gameFolder": "Folder gry",
+   "newFolder": "Nowy folder",
+   "createFolder": "Utwórz folder",
+   "invalidFolder": "Folder musi znajdować się w katalogu gry",
+   "skipTopFolder": "Pomiń folder najwyższego poziomu ({{folder}})",
+   "preview": "Pliki zostaną zainstalowane do:",
+   "useAsDefault": "Używaj tego folderu dla kolejnych modów tej gry",
+   "dontAskAgain": "Nie pytaj ponownie",
+   "useForAll_0": "Użyj tego folderu dla wszystkich pozostałych modów (jeszcze {{count}})",
+   "useForAll_1": "Użyj tego folderu dla wszystkich pozostałych modów (jeszcze {{count}})",
+   "useForAll_2": "Użyj tego folderu dla wszystkich pozostałych modów (jeszcze {{count}})",
+   "cancel": "Anuluj",
+   "install": "Zainstaluj"
+  }
+ },
+ "support_bundle": {
+  "dialog": {
+   "title": "Utwórz pakiet diagnostyczny",
+   "intro": "Vortex pakuje swoje pliki dziennika, bieżący stan aplikacji i ostatnie zrzuty awarii do jednego archiwum. Dane logowania nie są dołączane.",
+   "sendTo": "Wyślij archiwum zespołowi Vortexa z krótkim opisem problemu — na forum Vortexa albo na Discordzie:",
+   "links": {
+    "forums": "Forum pomocy Vortexa",
+    "discord": "Discord Nexus Mods"
+   },
+   "building": "Tworzenie pakietu diagnostycznego...",
+   "archiveReady": "Pakiet diagnostyczny jest gotowy.",
+   "failed": "Vortex nie mógł utworzyć pakietu diagnostycznego.",
+   "buttons": {
+    "open": "Pokaż w folderze",
+    "cancel": "Anuluj",
+    "close": "Zamknij",
+    "tryAgain": "Spróbuj ponownie"
+   }
+  }
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "dialog": {
+  "archiveReady": "Pakiet diagnostyczny jest gotowy.",
+  "building": "Tworzenie pakietu diagnostycznego...",
+  "buttons": {
+   "cancel": "Anuluj",
+   "close": "Zamknij",
+   "open": "Pokaż w folderze",
+   "tryAgain": "Spróbuj ponownie"
+  },
+  "failed": "Vortex nie mógł utworzyć pakietu diagnostycznego.",
+  "intro": "Vortex pakuje swoje pliki dziennika, bieżący stan aplikacji i ostatnie zrzuty awarii do jednego archiwum. Dane logowania nie są dołączane.",
+  "links": {
+   "discord": "Discord Nexus Mods",
+   "forums": "Forum pomocy Vortexa"
+  },
+  "sendTo": "Wyślij archiwum zespołowi Vortexa z krótkim opisem problemu — na forum Vortexa albo na Discordzie:",
+  "title": "Utwórz pakiet diagnostyczny"
+ }
+}

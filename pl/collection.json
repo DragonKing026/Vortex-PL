@@ -1,0 +1,29 @@
+{
+ "browse": {
+  "modsComingSoon": {
+   "description": "Wkrótce będzie można przeglądać mody bezpośrednio w Vortexie. Do tego czasu odwiedź Nexus Mods, aby wyszukiwać i pobierać mody.",
+   "openWebsite": "Otwórz stronę Nexus Mods",
+   "title": "Przeglądanie modów już wkrótce"
+  },
+  "noCollections": {
+   "message": "Przeglądaj mody na stronie, aby zacząć budować własny zestaw.",
+   "title": "Nie znaleziono kolekcji dla tej gry"
+  },
+  "refresh": "Odśwież",
+  "resultsCount": "Wyniki: {{total}}",
+  "searchPlaceholder": "Szukaj kolekcji...",
+  "searchTooShort": "Wyszukiwanie wymaga co najmniej 2 znaków. Wpisz więcej tekstu albo wyczyść pole wyszukiwania.",
+  "selectGame": "Wybierz grę, aby przeglądać kolekcje.",
+  "sortBy": "Sortuj według",
+  "tabs": {
+   "collections": "Kolekcje",
+   "mods": "Mody"
+  },
+  "title": "Przeglądaj kolekcje ({{total}})"
+ },
+ "pagination": {
+  "go": "Przejdź",
+  "goTo": "Przejdź do:",
+  "pageNumber": "Numer strony"
+ }
+}

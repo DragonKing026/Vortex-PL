@@ -1,0 +1,202 @@
+{
+ "actions": {
+  "install_all": "Zainstaluj wszystko jednym kliknięciem ({{count}})"
+ },
+ "author_notes_modal": {
+  "buttons": {
+   "cancel": "Anuluj",
+   "install": "Zainstaluj zaznaczone ({{count}})"
+  },
+  "description": "Niektóre sugerowane mody mają dodatkowe wskazówki od autorów i nie zawsze są wymagane.",
+  "prompt": "Przeczytaj uwagi poniżej i wybierz mody do instalacji.",
+  "required_for": "Dla modów:",
+  "title": "Przejrzyj uwagi autorów modów"
+ },
+ "detail": {
+  "feedback_modal": {
+   "buttons": {
+    "cancel": "Pomiń",
+    "confirm": "Wyślij opinię"
+   },
+   "description": "Pomóż nam ulepszyć ten komunikat — napisz, co poszło nie tak.",
+   "options": {
+    "explanation_was_unclear": "Wyjaśnienie było niejasne",
+    "incorrect_requirement": "Błędne wymaganie",
+    "other": "Inne",
+    "requirement_already_installed": "Wymaganie jest już zainstalowane"
+   },
+   "title": "Dziękujemy za informację"
+  },
+  "item": {
+   "adult": "Dla dorosłych",
+   "after_installing": "Po instalacji kliknij „Potwierdź instalację”. Nie możemy automatycznie wykryć modów zainstalowanych z zewnątrz.",
+   "author_note": "Uwaga autora: {{note}}",
+   "confirm_install": "Potwierdź instalację",
+   "current_version": "Bieżąca wersja",
+   "different_version_required": "Wymagana instalacja innej wersji",
+   "disabled": "Wyłączony",
+   "downloading": "Pobieranie...",
+   "enable_required": "Włącz wymaganą wersję",
+   "enable_this_version": "Włącz tę wersję",
+   "enabled": "Włączony",
+   "external_hosted_note": "Ten mod jest udostępniany poza Nexus Mods. Przed instalacją przeczytaj opis.",
+   "install_one_click": "Zainstaluj jednym kliknięciem",
+   "install_required": "Wymagana instalacja",
+   "install_uninstalled": "Zainstaluj (pobrany)",
+   "install_via_mod_page": "Zainstaluj przez stronę moda",
+   "installed": "Zainstalowany",
+   "installing": "Instalowanie...",
+   "may_require_file": "Do poprawnego działania może wymagać instalacji tego dodatkowego pliku moda:",
+   "missing_for_0": "Brak wymaganego moda dla: <modLink>{{modName}}</modLink>",
+   "missing_for_1": "Brak wymaganych modów dla: <modLink>{{modName}}</modLink>",
+   "missing_for_2": "Brak wymaganych modów dla: <modLink>{{modName}}</modLink>",
+   "missing_for_few": "Brak wymaganych modów dla: <modLink>{{modName}}</modLink>",
+   "missing_for_many": "Brak wymaganych modów dla: <modLink>{{modName}}</modLink>",
+   "missing_for_one": "Brak wymaganego moda dla: <modLink>{{modName}}</modLink>",
+   "missing_for_other": "Brak wymaganych modów dla: <modLink>{{modName}}</modLink>",
+   "mod_page_source_note": "To wymaganie pochodzi ze strony moda, a nie z systemu wymagań plików, więc w twojej konfiguracji może nie być potrzebne. <modLink>Zobacz stronę moda, aby poznać szczegóły</modLink>.",
+   "open_external_mod_page": "Otwórz zewnętrzną stronę moda",
+   "pick_one": "Wybierz jeden z nich",
+   "required_version": "Wymagana wersja:",
+   "view_in_mods": "Pokaż w modach",
+   "view_mod_page": "Zobacz stronę moda"
+  },
+  "subtitle": {
+   "error": "Problemy uniemożliwią działanie gry. Napraw je przed grą.",
+   "suggestion": "Zmiany, które mogą ulepszyć twój zestaw modów.",
+   "warning": "Problemy, przez które część twojego zestawu modów może nie działać."
+  },
+  "title": {
+   "error": "Błąd",
+   "suggestion": "Sugestia",
+   "warning": "Ostrzeżenie"
+  },
+  "was_this_helpful": {
+   "error": "Czy ten komunikat o błędzie był pomocny?",
+   "suggestion": "Czy ta sugestia była pomocna?",
+   "warning": "Czy to ostrzeżenie było pomocne?"
+  }
+ },
+ "divider": {
+  "and": "Oraz",
+  "or": "Lub"
+ },
+ "listing": {
+  "external_mod_install": "Instalacja moda spoza Nexus Mods",
+  "install_one_click": "Zainstaluj jednym kliknięciem ({{count}})",
+  "install_uninstalled": "Zainstaluj (pobrany)",
+  "item": {
+   "description": "Brakujący mod: {{dependencyModName}}",
+   "missing_for_0": "Brak wymaganego moda dla: {{modName}}",
+   "missing_for_1": "Brak wymaganych modów dla: {{modName}}",
+   "missing_for_2": "Brak wymaganych modów dla: {{modName}}",
+   "missing_for_few": "Brak wymaganych modów dla: {{modName}}",
+   "missing_for_many": "Brak wymaganych modów dla: {{modName}}",
+   "missing_for_one": "Brak wymaganego moda dla: {{modName}}",
+   "missing_for_other": "Brak wymaganych modów dla: {{modName}}",
+   "more_count": "+{{ count }} więcej",
+   "or_join": "lub"
+  },
+  "last_updated": "Ostatnia aktualizacja: {{time}}",
+  "no_results_active": {
+   "message": "Gotowe do gry",
+   "title": "Kontrola stanu zakończona pomyślnie"
+  },
+  "no_results_hidden": {
+   "title": "Brak ukrytych elementów"
+  },
+  "no_results_logged_out": {
+   "action": "Zaloguj się, aby dokończyć kontrolę stanu",
+   "message": "Kontrola stanu nie znalazła problemów w kontrolach, które mogła wykonać. Zaloguj się, aby sprawdzić także brakujące wymagania z Nexus Mods.",
+   "title": "Dostępne dodatkowe kontrole"
+  },
+  "pick_mod_install": "Wybierz mod do instalacji",
+  "premium_banner": {
+   "description": "Pobieraj wymagania jednym kliknięciem. Bez odwiedzania stron i czekania. <premiumLink>Przejdź na Premium</premiumLink>"
+  },
+  "section": {
+   "collapse": "Zwiń sekcję",
+   "expand": "Rozwiń sekcję",
+   "suggestion": {
+    "description": "Zmiany, które mogą ulepszyć twój zestaw modów albo dodać opcjonalne dodatki.",
+    "title": "Sugestie"
+   },
+   "warning": {
+    "description": "Problemy, przez które część twojego zestawu modów może nie działać.",
+    "title": "Ostrzeżenia"
+   }
+  },
+  "subtitle": "Sprawdź swój zestaw modów pod kątem problemów i dowiedz się, jak je rozwiązać.",
+  "title": "Kontrola stanu"
+ },
+ "premium": {
+  "modal": {
+   "benefits": {
+    "ad_free": "Brak reklam na zawsze, nawet jeśli później zrezygnujesz",
+    "collections": "Instalacja kolekcji jednym kliknięciem",
+    "downloads": "Pobieranie i aktualizacje modów jednym kliknięciem w aplikacji",
+    "speed": "Pobieranie bez ograniczenia prędkości"
+   },
+   "benefits_title": "Z Premium otrzymujesz:",
+   "buttons": {
+    "primary": "Odblokuj instalację jednym kliknięciem",
+    "secondary": {
+     "all": "Wróć i otwórz strony modów",
+     "single": "Zainstaluj przez stronę moda (za darmo)"
+    }
+   },
+   "description": {
+    "all": "Instalacja jednym kliknięciem w aplikacji to funkcja Premium.\n\nUżytkownicy bez Premium pobierają pliki ze stron modów, gdzie reklamy pomagają utrzymać serwis.",
+    "single": "Instalacja jednym kliknięciem w aplikacji to funkcja Premium.\n\nUżytkownicy bez Premium pobierają pliki ze stron modów, gdzie reklamy pomagają utrzymać serwis."
+   },
+   "title": {
+    "all": "Pomiń stronę i zainstaluj od razu wszystkie wymagania.",
+    "single": "Pomiń stronę i zainstaluj od razu."
+   }
+  }
+ },
+ "settings": {
+  "description": "Wykrywa problemy z listą modów i proponuje poprawki. Wkrótce pojawi się więcej kontroli.",
+  "file_requirements": "Ostrzeżenia o brakujących wymaganych plikach",
+  "mod_requirements": "Sugestie brakujących wymagań modów",
+  "title": "Kontrola stanu (beta)"
+ },
+ "shared": {
+  "correct_version_uninstalled_0": "Do poprawnego działania wymaga zainstalowania tego wcześniej pobranego pliku moda:",
+  "correct_version_uninstalled_1": "Do poprawnego działania wymaga zainstalowania {{ count }} wcześniej pobranych plików moda:",
+  "correct_version_uninstalled_2": "Do poprawnego działania wymaga zainstalowania {{ count }} wcześniej pobranych plików moda:",
+  "correct_version_uninstalled_few": "Do poprawnego działania wymaga zainstalowania {{ count }} wcześniej pobranych plików moda:",
+  "correct_version_uninstalled_many": "Do poprawnego działania wymaga zainstalowania {{ count }} wcześniej pobranych plików moda:",
+  "correct_version_uninstalled_one": "Do poprawnego działania wymaga zainstalowania tego wcześniej pobranego pliku moda:",
+  "correct_version_uninstalled_other": "Do poprawnego działania wymaga zainstalowania {{ count }} wcześniej pobranych plików moda:",
+  "mod_may_be_required_for": "Brakujący mod może być wymagany przez: {{modName}}",
+  "requires_files_0": "Do poprawnego działania wymaga instalacji {{ count }} dodatkowego pliku moda:",
+  "requires_files_1": "Do poprawnego działania wymaga instalacji {{ count }} dodatkowych plików moda:",
+  "requires_files_2": "Do poprawnego działania wymaga instalacji {{ count }} dodatkowych plików moda:",
+  "requires_files_few": "Do poprawnego działania wymaga instalacji {{ count }} dodatkowych plików moda:",
+  "requires_files_many": "Do poprawnego działania wymaga instalacji {{ count }} dodatkowych plików moda:",
+  "requires_files_one": "Do poprawnego działania wymaga instalacji {{ count }} dodatkowego pliku moda:",
+  "requires_files_other": "Do poprawnego działania wymaga instalacji {{ count }} dodatkowych plików moda:",
+  "requires_pick_0": "Do poprawnego działania wymaga wybrania {{ count }} dodatkowego pliku moda:",
+  "requires_pick_1": "Do poprawnego działania wymaga wybrania {{ count }} dodatkowych plików moda:",
+  "requires_pick_2": "Do poprawnego działania wymaga wybrania {{ count }} dodatkowych plików moda:",
+  "requires_pick_few": "Do poprawnego działania wymaga wybrania {{ count }} dodatkowych plików moda:",
+  "requires_pick_many": "Do poprawnego działania wymaga wybrania {{ count }} dodatkowych plików moda:",
+  "requires_pick_one": "Do poprawnego działania wymaga wybrania {{ count }} dodatkowego pliku moda:",
+  "requires_pick_other": "Do poprawnego działania wymaga wybrania {{ count }} dodatkowych plików moda:",
+  "wrong_version_enabled_0": "Do poprawnego działania wymaga włączenia innej wersji tego zainstalowanego pliku moda:",
+  "wrong_version_enabled_1": "Do poprawnego działania wymaga włączenia innej wersji {{ count }} zainstalowanych plików moda:",
+  "wrong_version_enabled_2": "Do poprawnego działania wymaga włączenia innej wersji {{ count }} zainstalowanych plików moda:",
+  "wrong_version_enabled_few": "Do poprawnego działania wymaga włączenia innej wersji {{ count }} zainstalowanych plików moda:",
+  "wrong_version_enabled_many": "Do poprawnego działania wymaga włączenia innej wersji {{ count }} zainstalowanych plików moda:",
+  "wrong_version_enabled_one": "Do poprawnego działania wymaga włączenia innej wersji tego zainstalowanego pliku moda:",
+  "wrong_version_enabled_other": "Do poprawnego działania wymaga włączenia innej wersji {{ count }} zainstalowanych plików moda:",
+  "wrong_version_installed_0": "Do poprawnego działania wymaga zainstalowania innej wersji tego pliku moda:",
+  "wrong_version_installed_1": "Do poprawnego działania wymaga zainstalowania innej wersji {{ count }} istniejących plików moda:",
+  "wrong_version_installed_2": "Do poprawnego działania wymaga zainstalowania innej wersji {{ count }} istniejących plików moda:",
+  "wrong_version_installed_few": "Do poprawnego działania wymaga zainstalowania innej wersji {{ count }} istniejących plików moda:",
+  "wrong_version_installed_many": "Do poprawnego działania wymaga zainstalowania innej wersji {{ count }} istniejących plików moda:",
+  "wrong_version_installed_one": "Do poprawnego działania wymaga zainstalowania innej wersji tego pliku moda:",
+  "wrong_version_installed_other": "Do poprawnego działania wymaga zainstalowania innej wersji {{ count }} istniejących plików moda:"
+ }
+}
