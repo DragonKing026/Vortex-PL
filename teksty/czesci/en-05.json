@@ -1,0 +1,1346 @@
+{
+ "src/renderer/src/extensions/extension_manager/util.ts": {
+  "Failed to install the extension \"{{extensionName}}\", please check the notifications.": {
+   "liczba": false
+  },
+  "Installation failed": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/extension_manager/views/LinkExtensionsDialog.tsx": {
+  "linkDialog::buttons::later": {
+   "liczba": false
+  },
+  "linkDialog::buttons::update": {
+   "liczba": false
+  },
+  "linkDialog::intro": {
+   "liczba": false
+  },
+  "linkDialog::replaceWith": {
+   "liczba": false
+  },
+  "linkDialog::select": {
+   "liczba": false
+  },
+  "linkDialog::title": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/file_based_loadorder/index.ts": {
+  "Export Load Order": {
+   "liczba": false
+  },
+  "Failed to export load order": {
+   "liczba": false
+  },
+  "Failed to set load order": {
+   "liczba": false
+  },
+  "Failed to sort mods": {
+   "liczba": false
+  },
+  "File came from another load order": {
+   "liczba": false
+  },
+  "Load order exported": {
+   "liczba": false
+  },
+  "Load order imported": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/file_based_loadorder/views/FileBasedLoadOrderPage.tsx": {
+  "Deploy Mods": {
+   "liczba": false
+  },
+  "Load Order Export": {
+   "liczba": false
+  },
+  "Load Order Import": {
+   "liczba": false
+  },
+  "Purge Mods": {
+   "liczba": false
+  },
+  "Refresh List": {
+   "liczba": false
+  },
+  "Sort by Deploy Order": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/file_based_loadorder/views/FilterBox.tsx": {
+  "Search for a specific load order entry...": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/file_based_loadorder/views/InfoPanel.tsx": {
+  "No validation errors.": {
+   "liczba": false
+  },
+  "Validation Error Console:": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/file_based_loadorder/views/LoadOrderCollections.tsx": {
+  " Note that the game you've created this collection for relies on a load order file which the game extension creates when deploying your mods - to ensure that the correct load order is published alongside this collection, please remember to deploy your mods!": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/file_based_loadorder/views/LoadOrderPanel.tsx": {
+  "Must clear filter to apply changes": {
+   "liczba": false
+  },
+  "Please make sure to deploy": {
+   "liczba": false
+  },
+  "You don't have any orderable entries": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/file_preview/index.ts": {
+  "Preview not supported": {
+   "liczba": false
+  },
+  "Select files to open": {
+   "liczba": false
+  },
+  "Sorry, preview for this file type is not supported. You should check the extensions panel if there is one that supports it.": {
+   "liczba": false
+  },
+  "The files you select below will be opened with whatever application is set up in your operating system to handle it, if any.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/firststeps_dashlet/Dashlet.tsx": {
+  "Let's get you set up": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/firststeps_dashlet/index.ts": {
+  "ToDo List": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/firststeps_dashlet/todos.tsx": {
+  "<Invalid Drive>": {
+   "liczba": false
+  },
+  "<No staging folder>": {
+   "liczba": false
+  },
+  "Discovery running": {
+   "liczba": false
+  },
+  "Downloads are on drive": {
+   "liczba": false
+  },
+  "Mods are staged on drive": {
+   "liczba": false
+  },
+  "Profile Management": {
+   "liczba": false
+  },
+  "Scan for missing games": {
+   "liczba": false
+  },
+  "Select a game to manage": {
+   "liczba": false
+  },
+  "You can change the download location here": {
+   "liczba": false
+  },
+  "You can change the mod staging location here": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/gamebryo_plugin_management/archiveCheck.ts": {
+  "an unknown game": {
+   "liczba": false
+  },
+  "Checking archives": {
+   "liczba": false
+  },
+  "Error checking for archive errors": {
+   "liczba": false
+  },
+  "Incompatible Archives": {
+   "liczba": false
+  },
+  "Is loaded by {{plugin}}, but is intended for use in {{games}}.": {
+   "liczba": false
+  },
+  "not managed by Vortex": {
+   "liczba": false
+  },
+  "Some of the archives in your load order are incompatible with {{thisGame}}. Using incompatible archives may cause your game to crash on load.": {
+   "liczba": false
+  },
+  "You can fix this problem yourself by removing any mods that are not intended to be used with {{thisGame}}. If you downloaded these mods from the correct game site at Nexus Mods, you should inform the mod author of this issue. Archives for this game must be {{ext}} files (v{{ver}}).": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/gamebryo_plugin_management/autosort.ts": {
+  "{{master}} is a master and {{regular}} isn't": {
+   "liczba": false
+  },
+  "Apply Selected": {
+   "liczba": false
+  },
+  "assets (content of BSA/BA2) overlap": {
+   "liczba": false
+  },
+  "custom": {
+   "liczba": false
+  },
+  "Cyclic interaction": {
+   "liczba": false
+  },
+  "Failed to create necessary directory": {
+   "liczba": false
+  },
+  "Failed to update masterlist": {
+   "liczba": false
+  },
+  "groups are connected": {
+   "liczba": false
+  },
+  "groups are connected like this: {{path}}": {
+   "liczba": false
+  },
+  "hardcoded": {
+   "liczba": false
+  },
+  "Invalid fix instruction for cycle, please report this": {
+   "liczba": false
+  },
+  "Invalid plugins skipped": {
+   "liczba": false
+  },
+  "LOOT operation failed": {
+   "liczba": false
+  },
+  "LOOT reported a cyclic interaction between rules.<br />In the simplest case this is something like [i]\"A needs to load after B\"[/i] and [i]\"B needs to load after A\"[/i] but it can be more complicated, involving multiple plugins and groups and [i]their[/i] order.<br />": {
+   "liczba": false
+  },
+  "LOOT sorting successful": {
+   "liczba": false
+  },
+  "masterlist": {
+   "liczba": false
+  },
+  "overlap (asset)": {
+   "liczba": false
+  },
+  "overlap (record)": {
+   "liczba": false
+  },
+  "Plugins not sorted because of cyclic rules": {
+   "liczba": false
+  },
+  "records (content of ESx) overlap": {
+   "liczba": false
+  },
+  "Remove custom group assignment to \"{{name}}\"": {
+   "liczba": false
+  },
+  "Remove custom rule between \"{{name}}\" and \"{{next}}\"": {
+   "liczba": false
+  },
+  "Reset customized groups between \"{{first}}@{{firstGroup}}\" and \"{{second}}@{{secondGroup}}\"": {
+   "liczba": false
+  },
+  "Some plugins are invalid and were skipped": {
+   "liczba": false
+  },
+  "These plugins could not be parsed by LOOT and were skipped so the rest of your load order could still sort. Reinstall or remove them to fix it:": {
+   "liczba": false
+  },
+  "This group was manually assigned": {
+   "liczba": false
+  },
+  "this is a custom rule": {
+   "liczba": false
+  },
+  "this is a masterlist rule": {
+   "liczba": false
+  },
+  "This might be a temporary network error. If it persists, please delete \"{{masterlistPath}}\" to force Vortex to download a new copy.": {
+   "liczba": false
+  },
+  "tie breaker": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/gamebryo_plugin_management/index.ts": {
+  "Blueprint plugin used as master": {
+   "liczba": false
+  },
+  "Failed to change profile": {
+   "liczba": false
+  },
+  "Failed to rename plugin": {
+   "liczba": false
+  },
+  "has Blueprint master": {
+   "liczba": false
+  },
+  "History": {
+   "liczba": false
+  },
+  "is incompatible with": {
+   "liczba": false
+  },
+  "Manage Groups": {
+   "liczba": false
+  },
+  "Plugin dependencies unfulfilled": {
+   "liczba": false
+  },
+  "Plugin rules have been reset to defaults": {
+   "liczba": false
+  },
+  "Plugins shouldn't exceed mod index {{maxIndex}} for a total of {{count}} plugins (including base game and DLCs) as the game will behave oddly otherwise. Please disable or attempt to mark plugins as light (if applicable) in the Plugins page": {
+   "liczba": false
+  },
+  "Reset": {
+   "liczba": false
+  },
+  "Reset Plugin Rules": {
+   "liczba": false
+  },
+  "Some of the enabled plugins have dependencies or incompatibilities that are not obeyed in your current setup": {
+   "liczba": false
+  },
+  "The following enabled plugins declare a Blueprint plugin as a master. Starfield strips Blueprint masters from non-Blueprint plugins at load, which will break references and corrupt your save. These plugins must be disabled or rebuilt against a non-Blueprint master:": {
+   "liczba": false
+  },
+  "This will remove ALL custom plugin rules, plugin group assignments, and custom groups. Only rules from the LOOT masterlist will remain.\n\nThis cannot be undone.": {
+   "liczba": false
+  },
+  "Your userlist contains multiple entries for \"{{name}}\". This is not allowed and Vortex shouldn't create entries like that, although earlier versions may have.\nPlease close vortex and remove duplicate entries from \"{{userlistPath}}\".": {
+   "liczba": false
+  },
+  "Your userlist contains multiple identical \"{{plugin}} after {{reference}}\"rules. LOOT will not be able to sort plugins with this userlist.\nTo fix this, please close vortex and remove duplicate entries from \"{{userlistPath}}\".": {
+   "liczba": false
+  },
+  "Your userlist refers to groups that don't exist: {{missing}}[br][/br]The most likely reason is that the masterlist has changed and dropped the group.[br][/br]This can be fixed automatically by removing all references to these groups.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/gamebryo_plugin_management/indexlock.tsx": {
+  "Lock Mod Index": {
+   "liczba": false
+  },
+  "Use this to directly control the mod index of a plugin.\nThis will completely override the order generated automatically and is only intended as a temporary measure or during mod development.\n\nPlease note that if the index you choose is not possible because it's too low or too high, the plugin is prepended/appended to the list and will not have the expected mod index.\n\nFurther note: This lets you place non-master esps before masters but the game will not load them in this order.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/gamebryo_plugin_management/pluginSync.ts": {
+  "Failed to watch mod directory": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/gamebryo_plugin_management/util/LootErrorReporter.ts": {
+  "Failed to initialize LOOT": {
+   "liczba": false
+  },
+  "Failed to load master-/userlist": {
+   "liczba": false
+  },
+  "Failed to parse plugins": {
+   "liczba": false
+  },
+  "Failed to report plugin cycle": {
+   "liczba": false
+  },
+  "LOOT process died": {
+   "liczba": false
+  },
+  "Plugins not sorted because: {{msg}}": {
+   "liczba": false
+  },
+  "There were errors getting plugin information from LOOT": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/gamebryo_plugin_management/util/lootErrors.ts": {
+  "a masterlist condition could not be evaluated": {
+   "liczba": false
+  },
+  "LOOT answered unintelligibly": {
+   "liczba": false
+  },
+  "LOOT could not parse {{plugins}}": {
+   "liczba": false
+  },
+  "LOOT stopped unexpectedly": {
+   "liczba": false
+  },
+  "something went wrong in LOOT; the details are in the Vortex log": {
+   "liczba": false
+  },
+  "the group \"{{group}}\" does not exist": {
+   "liczba": false
+  },
+  "Vortex asked LOOT for something it could not accept": {
+   "liczba": false
+  },
+  "Vortex couldn't load LOOT's library (node-loot.node): {{reason}}. Reinstalling Vortex usually fixes this.": {
+   "liczba": false
+  },
+  "Windows blocked LOOT's library (node-loot.node) with an Application Control policy, such as Smart App Control. Plugins can't be sorted until that policy allows it.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/gamebryo_plugin_management/util/missingMasters.ts": {
+  "a plugin {{requirement}}": {
+   "liczba": false
+  },
+  "LOOT could not load \"{{master}}\"": {
+   "liczba": false
+  },
+  "requires \"{{master}}\" to be enabled, but it is disabled": {
+   "liczba": false
+  },
+  "requires \"{{master}}\" to be installed, but it is missing": {
+   "liczba": false
+  },
+  "requires \"{{master}}\", which is in the game folder but not in Vortex's plugin list": {
+   "liczba": false
+  },
+  "requires \"{{master}}\", which is installed but not deployed": {
+   "liczba": false
+  },
+  "requires \"{{master}}\", which was in the game folder when Vortex last scanned it but is gone": {
+   "liczba": false
+  },
+  "Some of the enabled plugins depend on others that are not available:": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/gamebryo_plugin_management/util/onModEnabled.ts": {
+  "A mod could no longer be found on disk. Please don't delete mods manually but uninstall them through Vortex.": {
+   "liczba": false
+  },
+  "Failed to read mod": {
+   "liczba": false
+  },
+  "Please activate \"{{ gameId }}\" to enable plugins manually": {
+   "liczba": false
+  },
+  "The mod \"{{ modName }}\" contains multiple plugins": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/gamebryo_plugin_management/util/pluginFileConflict.ts": {
+  "Another tool or the game changed the plugin list files. Keep those changes or revert to the load order Vortex manages?": {
+   "liczba": false
+  },
+  "Keep": {
+   "liczba": false
+  },
+  "Plugin list changed outside Vortex": {
+   "liczba": false
+  },
+  "Plugin list could not be read": {
+   "liczba": false
+  },
+  "Plugin list was empty": {
+   "liczba": false
+  },
+  "Vortex could not read your plugin list files, so it does not know your current load order. Keep the files as they are, or overwrite them with what Vortex has? Overwriting will disable the plugins it never managed to read.": {
+   "liczba": false
+  },
+  "Your plugin list file was empty. Vortex restored the load order, but could not tell which plugins were enabled, so they are all disabled. Please enable them again.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/gamebryo_plugin_management/util/PluginHistory.ts": {
+  "{{oldState}} plugin": {
+   "liczba": false
+  },
+  "Convert to {{ conversion }}": {
+   "liczba": false
+  },
+  "File no longer exists": {
+   "liczba": false
+  },
+  "Plugin was converted to {{ conversion }}: {{ name }}": {
+   "liczba": false
+  },
+  "Plugin was disabled: {{ name }} (Profile: {{ profileName }})": {
+   "liczba": false
+  },
+  "Plugin was enabled: {{ name }} (Profile: {{ profileName }})": {
+   "liczba": false
+  },
+  "Plugin was ghosted: {{ name }} (Profile: {{ profileName }})": {
+   "liczba": false
+  },
+  "Plugins were sorted": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/gamebryo_plugin_management/util/pluginLight.ts": {
+  "Failed to change the plugin's light flag": {
+   "liczba": false
+  },
+  "Plugin file is in use": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/gamebryo_plugin_management/util/UserlistPersistor.ts": {
+  "Failed to read userlist file for this game. Repair or delete this file and then try to start Vortex again": {
+   "liczba": false
+  },
+  "Masterlist invalid": {
+   "liczba": false
+  },
+  "Userlist invalid": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/gamebryo_plugin_management/views/DependencyIcon.tsx": {
+  "Drag to another connector to define load order rules.": {
+   "liczba": false
+  },
+  "Drag to another plugin to set userlist rule": {
+   "liczba": false
+  },
+  "Incompatible:": {
+   "liczba": false
+  },
+  "load {{ reference }} after {{ name }}": {
+   "liczba": false
+  },
+  "Loads after:": {
+   "liczba": false
+  },
+  "Requires:": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/gamebryo_plugin_management/views/GroupEditor.tsx": {
+  "Add Group": {
+   "liczba": false
+  },
+  "Group Name": {
+   "liczba": false
+  },
+  "Groups": {
+   "liczba": false
+  },
+  "Hold ctrl and drag a line from one group to another to define a rule.": {
+   "liczba": false
+  },
+  "Masterlist groups and rules can't be removed.": {
+   "liczba": false
+  },
+  "Remove custom groups": {
+   "liczba": false
+  },
+  "Reset...": {
+   "liczba": false
+  },
+  "Revert pre-configured groups to default": {
+   "liczba": false
+  },
+  "Right click a line/node to remove the corresponding rule/group.": {
+   "liczba": false
+  },
+  "Right click empty area to create new Group.": {
+   "liczba": false
+  },
+  "This will remove customizations you have made to groups. This can't be undone!": {
+   "liczba": false
+  },
+  "Use the mouse wheel to zoom, drag on an empty area to pan the view": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/gamebryo_plugin_management/views/LockIndex.tsx": {
+  "Actual index differs. If this is the case after sorting it may be this index isn't possible.": {
+   "liczba": false
+  },
+  "Automatic": {
+   "liczba": false
+  },
+  "Locked to index": {
+   "liczba": false
+  },
+  "Sorted automatically": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/gamebryo_plugin_management/views/PluginFlags.tsx": {
+  "Blueprint plugin - force-loaded by the game and pinned to the end of the load order. Managed by the game, not Vortex.": {
+   "liczba": false
+  },
+  "Could be light": {
+   "liczba": false
+  },
+  "Designed for a different game": {
+   "liczba": false
+  },
+  "Dummy plugin": {
+   "liczba": false
+  },
+  "Failed to parse this plugin": {
+   "liczba": false
+  },
+  "Light": {
+   "liczba": false
+  },
+  "Loaded by the engine, can't be configured": {
+   "liczba": false
+  },
+  "Loads an archive": {
+   "liczba": false
+  },
+  "LOOT Messages": {
+   "liczba": false
+  },
+  "Master": {
+   "liczba": false
+  },
+  "Not deployed": {
+   "liczba": false
+  },
+  "Requires cleaning (LOOT)": {
+   "liczba": false
+  },
+  "Verified clean (LOOT)": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/gamebryo_plugin_management/views/PluginList.tsx": {
+  "  Full: {{ count }} /  {{ limit }}": {
+   "liczba": false
+  },
+  " Light: {{ count }} / 4096": {
+   "liczba": false
+  },
+  "{{count}} deleted navmesh": {
+   "liczba": true
+  },
+  "{{count}} deleted reference": {
+   "liczba": true
+  },
+  "{{count}} ITM record": {
+   "liczba": true
+  },
+  "{{tool}} found {{things}}.": {
+   "liczba": false
+  },
+  "A light plugin doesn't occupy a regular load order slot. Only some plugins can be made light directly.": {
+   "liczba": false
+  },
+  "Active": {
+   "liczba": false
+  },
+  "and": {
+   "liczba": false
+  },
+  "Author of the plugin": {
+   "liczba": false
+  },
+  "Auto load order sorting is powered by ": {
+   "liczba": false
+  },
+  "Autosort Disabled": {
+   "liczba": false
+  },
+  "Autosort Enabled": {
+   "liczba": false
+  },
+  "Create Group: {{group}}": {
+   "liczba": false
+  },
+  "Current": {
+   "liczba": false
+  },
+  "Deploy now": {
+   "liczba": false
+  },
+  "Disable automatic load order sorting powered by LOOT": {
+   "liczba": false
+  },
+  "Enable automatic load order sorting powered by LOOT": {
+   "liczba": false
+  },
+  "Failed to convert plugin": {
+   "liczba": false
+  },
+  "Flags": {
+   "liczba": false
+  },
+  "Ghost": {
+   "liczba": false
+  },
+  "In addition you can have up to 256 medium plugins, and 4096 light plugins.": {
+   "liczba": false
+  },
+  "In addition you can have up to 4096 light plugins.": {
+   "liczba": false
+  },
+  "Is plugin enabled in current profile": {
+   "liczba": false
+  },
+  "Loading plugins": {
+   "liczba": false
+  },
+  "LOOT can automatically calculate a load order that satisfies all plugin dependencies and maximises each plugin’s impact on your game. It can also detect many issues, and provides a large number of plugin-specific usage notes. While LOOT can correctly handle the vast majority of plugins without help, some plugins need additional metadata to be sorted correctly, especially for mods that have yet to be added to the LOOT masterlist by volunteers. If a plugin is not listed in the masterlist, you can control its load order by assigning it to the appropriate group.": {
+   "liczba": false
+  },
+  "LOOT cleaning info": {
+   "liczba": false
+  },
+  "LOOT Messages (inlined)": {
+   "liczba": false
+  },
+  "LOOT Messages (only updates on sort)": {
+   "liczba": false
+  },
+  "Mark as Light": {
+   "liczba": false
+  },
+  "Mark as Regular": {
+   "liczba": false
+  },
+  "Masters": {
+   "liczba": false
+  },
+  "Medium: {{ count }} /  256": {
+   "liczba": false
+  },
+  "Mod": {
+   "liczba": false
+  },
+  "Mod Index": {
+   "liczba": false
+  },
+  "No plugins, something seems to have gone wrong": {
+   "liczba": false
+  },
+  "nothing! This plugin is clean": {
+   "liczba": false
+  },
+  "Only plugins with .esp extension can be converted": {
+   "liczba": false
+  },
+  "Plugin version": {
+   "liczba": false
+  },
+  "Plugins shouldn't exceed mod index {{maxIndex}} for a total of {{count}} plugins (including base game and DLCs).": {
+   "liczba": false
+  },
+  "Read about mod cleaning": {
+   "liczba": false
+  },
+  "Refresh plugin list": {
+   "liczba": false
+  },
+  "Relations to other plugins": {
+   "liczba": false
+  },
+  "Revision of the plugin": {
+   "liczba": false
+  },
+  "Sort Now": {
+   "liczba": false
+  },
+  "Sort your load order using LOOT": {
+   "liczba": false
+  },
+  "Suggested (by LOOT)": {
+   "liczba": false
+  },
+  "The Mod index is the first two hexadecimal digits of all ids this plugin adds to the game": {
+   "liczba": false
+  },
+  "The order in which plugins are loaded. Plugins with higher number overwrite those with lower ones.": {
+   "liczba": false
+  },
+  "This is a regular plugin that could be turned into a light one (also known as an ESPfe). When you do this, it will no longer take up a spot in the load order while still working as usual.": {
+   "liczba": false
+  },
+  "This list may be outdated, you should deploy mods before modifying it.": {
+   "liczba": false
+  },
+  "This plugin already has the light flag set, you can unset it.": {
+   "liczba": false
+  },
+  "This plugin can't be an esl since it contains form-ids outside the valid range": {
+   "liczba": false
+  },
+  "Waiting for mod changes to finish": {
+   "liczba": false
+  },
+  "Waiting for the deployment to finish": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/gamebryo_plugin_management/views/PluginStatusFilter.tsx": {
+  "Loaded by engine": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/gamebryo_plugin_management/views/Settings.tsx": {
+  "Enable externally added plugins automatically": {
+   "liczba": false
+  },
+  "If checked, plugins you add to the game directory outside Vortex (e.g. when you create one with the Creation Kit) will be enabled automatically.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/gamebryo_plugin_management/views/UserlistEditor.tsx": {
+  "Filter by plugin": {
+   "liczba": false
+  },
+  "Is Incompatible With": {
+   "liczba": false
+  },
+  "Must Load After": {
+   "liczba": false
+  },
+  "needs to load after": {
+   "liczba": false
+  },
+  "Select Plugin...": {
+   "liczba": false
+  },
+  "Set Rules": {
+   "liczba": false
+  },
+  "Swap": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/gamemode_management/components/added_games/AddedGames.tsx": {
+  "Add an installed game to start managing its mods.": {
+   "liczba": false
+  },
+  "Added games": {
+   "liczba": false
+  },
+  "Games you're currently managing": {
+   "liczba": false
+  },
+  "No games found": {
+   "liczba": false
+  },
+  "No games managed yet": {
+   "liczba": false
+  },
+  "Recently used": {
+   "liczba": false
+  },
+  "Try adjusting your search terms.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/gamemode_management/components/detected_games/DetectedGames.tsx": {
+  "Browse games": {
+   "liczba": false
+  },
+  "Browse our supported games to add manually": {
+   "liczba": false
+  },
+  "Can't detect games right now": {
+   "liczba": false
+  },
+  "Can't detect games right now. Check your internet connection and try again.": {
+   "liczba": false
+  },
+  "Cancel scan": {
+   "liczba": false
+  },
+  "Couldn't check for new games. Check your internet connection.": {
+   "liczba": false
+  },
+  "Found {{count}} new game": {
+   "liczba": true
+  },
+  "Game detection finished": {
+   "liczba": false
+  },
+  "Games detected": {
+   "liczba": false
+  },
+  "Installed games you haven't added yet.": {
+   "liczba": false
+  },
+  "New games detected": {
+   "liczba": false
+  },
+  "No installed games detected": {
+   "liczba": false
+  },
+  "No new games found": {
+   "liczba": false
+  },
+  "Recently detected": {
+   "liczba": false
+  },
+  "Refresh scan": {
+   "liczba": false
+  },
+  "Retry scan": {
+   "liczba": false
+  },
+  "Scanning for installed games...": {
+   "liczba": false
+  },
+  "We'll show any installed games you haven't added yet here.": {
+   "liczba": false
+  },
+  "We'll show detected games here as we find them.": {
+   "liczba": false
+  },
+  "We're having trouble connecting. Check your internet connection and try again.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/gamemode_management/components/GameCard.tsx": {
+  "Add game": {
+   "liczba": false
+  },
+  "Game options": {
+   "liczba": false
+  },
+  "Manual add": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/gamemode_management/components/GameDetailsModal.tsx": {
+  "Game details": {
+   "liczba": false
+  },
+  "No information about this game": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/gamemode_management/components/NoGamesFound.tsx": {
+  "Can't find the game you're looking for?": {
+   "liczba": false
+  },
+  "It may not be supported yet but adding it yourself may be easier than you think.": {
+   "liczba": false
+  },
+  "Learn how to make an extension": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/gamemode_management/components/search/Search.tsx": {
+  "Clear search": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/gamemode_management/components/supported_games/SupportedGames.tsx": {
+  "All supported games": {
+   "liczba": false
+  },
+  "Game not detected? Add your game manually.": {
+   "liczba": false
+  },
+  "Most Popular": {
+   "liczba": false
+  },
+  "Most Recent": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/gamemode_management/GameModeManager.ts": {
+  "{{searched}} directories were searched, {{numTotal}} games found ({{numDiscovered}} new)": {
+   "liczba": false
+  },
+  "Loading game stores...": {
+   "liczba": false
+  },
+  "Search finished": {
+   "liczba": false
+  },
+  "The mod directory for this game is not writable to your user account.\nIf you have admin rights on this system, Vortex can change the permissions to allow it write access.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/gamemode_management/hooks/useDisplayOptionsAction.hook.tsx": {
+  "Display as": {
+   "liczba": false
+  },
+  "Grid": {
+   "liczba": false
+  },
+  "List": {
+   "liczba": false
+  },
+  "Show hidden items": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/gamemode_management/index.ts": {
+  "{{gameName}} no longer found": {
+   "liczba": false
+  },
+  "Ask later": {
+   "liczba": false
+  },
+  "Choose a Game Store": {
+   "liczba": false
+  },
+  "Copied mod type id to clipboard": {
+   "liczba": false
+  },
+  "Discovery failed": {
+   "liczba": false
+  },
+  "Failed to install game extension": {
+   "liczba": false
+  },
+  "Failed to search for games": {
+   "liczba": false
+  },
+  "Failed to set game mode": {
+   "liczba": false
+  },
+  "Game Extension not loaded": {
+   "liczba": false
+  },
+  "Game not found": {
+   "liczba": false
+  },
+  "Game Store": {
+   "liczba": false
+  },
+  "Game Store Changed": {
+   "liczba": false
+  },
+  "Game store changed - mod loaders and tools (e.g. UE4SS) may need to be re-installed.": {
+   "liczba": false
+  },
+  "Game support not installed": {
+   "liczba": false
+  },
+  "Games": {
+   "liczba": false
+  },
+  "In an older version of Vortex you were managing \"{{name}}\", however, the extension for this game is no longer included in the main Vortex release. A new version of this extension is available from a community developer.\n\nIf you wish to continue to manage \"{{name}}\" you will need to install the latest community release of the extension. Alternatively, you can unmanage this game which will remove it from Vortex and delete all installed mods.": {
+   "liczba": false
+  },
+  "Manually Set Location": {
+   "liczba": false
+  },
+  "Mod Type": {
+   "liczba": false
+  },
+  "Open Mod Folder": {
+   "liczba": false
+  },
+  "Other": {
+   "liczba": false
+  },
+  "Preparing game for modding": {
+   "liczba": false
+  },
+  "Recently Managed": {
+   "liczba": false
+  },
+  "Select": {
+   "liczba": false
+  },
+  "Stop managing": {
+   "liczba": false
+  },
+  "Support for this game is provided through an extension. Please click \"Manage\" to install the extension and set it up.": {
+   "liczba": false
+  },
+  "The currently identified game store for your selected game directory is: \"{{gameStore}}\".[br][/br][br][/br]If this is not the correct game store, please choose below. (Games can have game store specific folder structures)[br][/br][br][/br]": {
+   "liczba": false
+  },
+  "The game store has changed from \"{{oldStore}}\" to \"{{newStore}}\".\n\nSome mods, mod loaders, and tools such as UE4SS or Script Extenders install files into store-specific directories (e.g. win64 for Steam vs winGDK for Xbox). These may need to be re-installed for the game to function correctly at the new location.": {
+   "liczba": false
+  },
+  "The mod type controls where (and maybe even how) a mod gets deployed. Leave empty (default) unless you know what you're doing.": {
+   "liczba": false
+  },
+  "This directory doesn't appear to contain the game.\nUsually you need to select the top-level game directory, containing the following files:\n{{ files }}": {
+   "liczba": false
+  },
+  "Type of the mod (decides where it gets deployed to)": {
+   "liczba": false
+  },
+  "Unknown": {
+   "liczba": false
+  },
+  "Vortex attempted to manage the game and has encountered a missing file:[br][/br]\"{{errPath}}\".[br][/br][br][/br]Depending on recent changes on your environment and/or the game store through which the game has been purchased, this error could be due to several factors:[br][/br][list][*]The game might be only partially installed/uninstalled or in a corrupt state[*]The game store through which you purchased the game might require additional steps to enable modding capabilities[*]You may have to run the game at least once for certain folders to be created/unlocked[*]You might have installed an unrecognized game variant. Please inform the game extension developer[/list]": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/gamemode_management/util/getDriveList.ts": {
+  "Failed to determine list of disk drives. Please review the settings before scanning for games.": {
+   "liczba": false
+  },
+  "Failed to query list of system drives": {
+   "liczba": false
+  },
+  "Vortex was not able to query the operating system for the list of system drives. If this error persists, please configure the list manually.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/gamemode_management/util/queryGameInfo.ts": {
+  "Space Used": {
+   "liczba": false
+  },
+  "Space Used (No Symlinks)": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/gamemode_management/views/ActiveModCount.tsx": {
+  "{{ count }} active mod": {
+   "liczba": true
+  }
+ },
+ "src/renderer/src/extensions/gamemode_management/views/GameInfoPopover.tsx": {
+  "No Information about this game": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/gamemode_management/views/GamePicker.tsx": {
+  "Manage games to get started.": {
+   "liczba": false
+  },
+  "Search games...": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/gamemode_management/views/GameRow.tsx": {
+  "Location": {
+   "liczba": false
+  },
+  "Show Details": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/gamemode_management/views/GameThumbnail.tsx": {
+  "Contributed by {{name}}": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/gamemode_management/views/ModTypeWidget.tsx": {
+  "Copy ID to clipboard": {
+   "liczba": false
+  },
+  "Deploys to": {
+   "liczba": false
+  },
+  "Does not deploy": {
+   "liczba": false
+  },
+  "ID:": {
+   "liczba": false
+  },
+  "Only available for installed mods": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/gamemode_management/views/PathSelection.tsx": {
+  "Add a search path": {
+   "liczba": false
+  },
+  "Scan": {
+   "liczba": false
+  },
+  "Select directories to scan": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/gamemode_management/views/ProgressFooter.tsx": {
+  "Game discovery": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/gamemode_management/views/RecentlyManagedDashlet.tsx": {
+  "You don't have any recently managed games": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/hardlink_activator/index.ts": {
+  "Can't write to output directory.": {
+   "liczba": false
+  },
+  "File Systems store files in two parts: \n - an index entry that contains the file name, access rights, change and creating times and so on\n - the actual file data\nHard Links work by creating a second index entry referencing the same data as the original. The second index is a full-fledged index, so there is no differentiation between \"original\" and \"link\" after the link was created.\nAdvantages:\n - perfect compatibility with all applications\n - no performance penalty\n - Wide OS and FS support\nDisadvantages:\n - mods have to be on the same partition as the game\n - Due to fact hard links are so \"compatible\", a lot of applications will act as if original and link were separate files. This includes some backup solutions, tools that measure used disk space and so on, so it will often look like the link was actually a copy.": {
+   "liczba": false
+  },
+  "Filesystem doesn't support hard links.": {
+   "liczba": false
+  },
+  "Game not discovered.": {
+   "liczba": false
+  },
+  "Game not fully initialized yet, this should disappear soon.": {
+   "liczba": false
+  },
+  "Please go to Settings->Mods and set the mod staging folder to be on the same drive as the game ({{gameVolume}}).": {
+   "liczba": false
+  },
+  "To resolve this problem, the current user account needs to be given write permission to \"{{modPath}}\".": {
+   "liczba": false
+  },
+  "Works only if mods are installed on the same drive as the game.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/health_check/api/triggers.ts": {
+  "Failed to run health checks": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/health_check/checks/fileRequirementsCheck.ts": {
+  "File requirements check disabled": {
+   "liczba": false
+  },
+  "Validates that file-level mod dependencies are satisfied": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/health_check/checks/modRequirementsCheck.ts": {
+  "Mod requirements check disabled": {
+   "liczba": false
+  },
+  "Validates that all Nexus mod requirements are satisfied": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/health_check/components/author_notes_modal/AuthorNotesModal.tsx": {
+  "author_notes_modal::buttons::cancel": {
+   "liczba": false
+  },
+  "author_notes_modal::buttons::install": {
+   "liczba": true
+  },
+  "author_notes_modal::description": {
+   "liczba": false
+  },
+  "author_notes_modal::prompt": {
+   "liczba": false
+  },
+  "author_notes_modal::required_for": {
+   "liczba": false
+  },
+  "author_notes_modal::title": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/health_check/components/beta_badge/BetaBadge.tsx": {
+  "common:::beta": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/health_check/components/entry_actions/EntryActions.tsx": {
+  "common:::helpful": {
+   "liczba": false
+  },
+  "common:::hide": {
+   "liczba": false
+  },
+  "common:::not_helpful": {
+   "liczba": false
+  },
+  "common:::thanks_for_your_feedback": {
+   "liczba": false
+  },
+  "common:::unhide": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/health_check/components/feedback_modal/FeedbackModal.tsx": {
+  "detail::feedback_modal::buttons::cancel": {
+   "liczba": false
+  },
+  "detail::feedback_modal::buttons::confirm": {
+   "liczba": false
+  },
+  "detail::feedback_modal::description": {
+   "liczba": false
+  },
+  "detail::feedback_modal::title": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/health_check/components/file_requirement/cards/CandidateCard.tsx": {
+  "detail::item::install_via_mod_page": {
+   "liczba": false
+  },
+  "detail::item::view_mod_page": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/health_check/components/file_requirement/cards/EnableCard.tsx": {
+  "detail::item::view_in_mods": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/health_check/components/file_requirement/cards/InstallDownloadedCard.tsx": {
+  "detail::item::install_uninstalled": {
+   "liczba": false
+  },
+  "detail::item::installing": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/health_check/components/file_requirement/FileRequirement.tsx": {
+  "detail::item::adult": {
+   "liczba": false
+  },
+  "detail::item::disabled": {
+   "liczba": false
+  },
+  "detail::item::enabled": {
+   "liczba": false
+  },
+  "detail::item::installed": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/health_check/components/file_requirement/ListingRow.tsx": {
+  "detail::item::enable_this_version": {
+   "liczba": false
+  },
+  "detail::item::install_one_click": {
+   "liczba": false
+  },
+  "listing::install_one_click": {
+   "liczba": true
+  },
+  "listing::install_uninstalled": {
+   "liczba": false
+  },
+  "listing::item::more_count": {
+   "liczba": true
+  },
+  "listing::item::or_join": {
+   "liczba": false
+  },
+  "listing::pick_mod_install": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/health_check/components/file_requirement/RequirementBody.tsx": {
+  "actions::install_all": {
+   "liczba": true
+  },
+  "detail::item::downloading": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/health_check/components/file_requirement/rows/ReplaceRows.tsx": {
+  "detail::item::current_version": {
+   "liczba": false
+  },
+  "detail::item::required_version": {
+   "liczba": false
+  }
+ }
+}

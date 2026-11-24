@@ -1,0 +1,1420 @@
+{
+ "extensions/script-extender-installer/src/nexusModsDownloader.ts": {
+  "Can't see the right version? Visit the mod page.": {
+   "liczba": false
+  },
+  "Select script extender version": {
+   "liczba": false
+  },
+  "Vortex could not automatically determine the correct version of {{name}} for your game. \n\nYou have {{title}} version {{version}} installed from {{store}}.\n\nPlease select the file you wish to download below.": {
+   "liczba": false
+  }
+ },
+ "extensions/script-extender-installer/src/silverlockDownloader.ts": {
+  "{{name}} not found": {
+   "liczba": false
+  },
+  "{{name}} not installed": {
+   "liczba": false
+  },
+  "Error browsing for download": {
+   "liczba": false
+  },
+  "Looks like you selected the wrong file. Please try again.": {
+   "liczba": false
+  },
+  "Open in browser": {
+   "liczba": false
+  },
+  "Open in Vortex": {
+   "liczba": false
+  },
+  "Script Extender Mismatch - {{file}}": {
+   "liczba": false
+  },
+  "Script Extender Update": {
+   "liczba": false
+  },
+  "To install {{name}}, download the latest 7z archive for {{gameName}}.": {
+   "liczba": false
+  },
+  "Vortex could not detect {{name}}. This means it is either not installed or installed incorrectly.\n\nFor the best modding experience, we recommend installing the script extender by visiting {{website}}, Vortex can open the download page using the options below.\n\nIf you ignore this notice, Vortex will not remind you again until it is restarted.": {
+   "liczba": false
+  },
+  "Vortex has detected a newer version of {{name}} ({{latest}}) available to download from {{website}}. You currently have version {{current}} installed.\nThe buttons below will open the script extender download page where you can download it directly into Vortex or through your browser. Please ensure you select the correct build for your game version. \n\nIf you ignore this message, Vortex will not remind you again until you restart it.": {
+   "liczba": false
+  }
+ },
+ "extensions/test-gameversion/src/index.ts": {
+  "Game updated": {
+   "liczba": false
+  },
+  "Incompatible mods": {
+   "liczba": false
+  },
+  "Installed Version": {
+   "liczba": false
+  },
+  "Some mods are incompatible with the current game version, please check if updates are available:": {
+   "liczba": false
+  }
+ },
+ "extensions/test-setup/src/index.ts": {
+  "\"{{value}}\" vs \"{{expected}}\"": {
+   "liczba": false
+  },
+  "No Vortex uninstall key": {
+   "liczba": false
+  },
+  "The uninstall key for Vortex is missing or corrupted. This may lead to problems the next time Vortex gets updated. Please reinstall Vortex.": {
+   "liczba": false
+  },
+  "Vortex uninstall key is incomplete": {
+   "liczba": false
+  },
+  "Vortex uninstall path doesn't match current executable": {
+   "liczba": false
+  }
+ },
+ "extensions/theme-switcher/src/operations.ts": {
+  "Failed to read theme directory": {
+   "liczba": false
+  },
+  "Unable to save theme": {
+   "liczba": false
+  }
+ },
+ "extensions/theme-switcher/src/SettingsDebug.tsx": {
+  "Clone": {
+   "liczba": false
+  },
+  "Enter text": {
+   "liczba": false
+  },
+  "Theme Name": {
+   "liczba": false
+  }
+ },
+ "extensions/theme-switcher/src/SettingsTheme.tsx": {
+  "Appearance": {
+   "liczba": false
+  },
+  "Are you sure you want to remove the theme \"{{theme}}\"": {
+   "liczba": false
+  },
+  "Confirm removal": {
+   "liczba": false
+  },
+  "Please clone this theme to modify it.": {
+   "liczba": false
+  },
+  "Reload": {
+   "liczba": false
+  },
+  "Some community themes were designed for the new UI and may not display correctly in the legacy one.": {
+   "liczba": false
+  },
+  "Some community themes were designed for the old UI and may not display correctly in the new one.": {
+   "liczba": false
+  },
+  "Theme": {
+   "liczba": false
+  },
+  "Use legacy Vortex UI": {
+   "liczba": false
+  }
+ },
+ "extensions/theme-switcher/src/ThemeEditor.tsx": {
+  "Apply": {
+   "liczba": false
+  },
+  "Dark Theme": {
+   "liczba": false
+  },
+  "Dashlet Height": {
+   "liczba": false
+  },
+  "Dashlet Height:": {
+   "liczba": false
+  },
+  "Edit CSS manually...": {
+   "liczba": false
+  },
+  "Every dashlet (the widgets on the Dashboards) has a height that is a multiple of this value and a width of either 1/3, 2/3 or 3/3 of the window width. Here you can adjust the base height of dashlets but we can't promise every dashlet will look good or even be usable with non-default height.": {
+   "liczba": false
+  },
+  "Font Family (Headings):": {
+   "liczba": false
+  },
+  "Font Family:": {
+   "liczba": false
+  },
+  "Font Size:": {
+   "liczba": false
+  },
+  "Makes all system fonts installed on the system available in the Font dropdowns. This function seems to cause Vortex to crash for a very small number of users and we have not been able to identify what sets the affected systems apart yet.": {
+   "liczba": false
+  },
+  "Margins:": {
+   "liczba": false
+  },
+  "Read system fonts": {
+   "liczba": false
+  },
+  "Revert": {
+   "liczba": false
+  },
+  "System Fonts": {
+   "liczba": false
+  },
+  "The quick brown fox jumps over the lazy dog": {
+   "liczba": false
+  },
+  "Titlebar Rows:": {
+   "liczba": false
+  },
+  "When this is enabled, grays are essentially inverted, so a light gray becomes a dark gray and vice versa.\nIf your theme is mostly light foreground colors on dark background, this will produce better contrast.": {
+   "liczba": false
+  }
+ },
+ "extensions/titlebar-launcher/src/TitlebarToggle.tsx": {
+  "Enable toolbar": {
+   "liczba": false
+  }
+ },
+ "src/main/src/Application.ts": {
+  "Admin rights detected": {
+   "liczba": false
+  },
+  "Data corrupted": {
+   "liczba": false
+  },
+  "Downgrade detected": {
+   "liczba": false
+  },
+  "Error": {
+   "liczba": false
+  },
+  "Installation corrupted": {
+   "liczba": false
+  },
+  "Startup failed": {
+   "liczba": false
+  },
+  "The application state which contains things like your Vortex settings, meta data about mods and other important data is corrupted and can't be read. This could be a result of hard disk corruption, a power outage or something similar. Vortex will now try to repair the database, usually this should work fine but please check that settings, mod list and so on are ok before you deploy anything. If not, you can go to settings->workarounds and restore a backup which shouldn't lose you more than an hour of progress.": {
+   "liczba": false
+  },
+  "Your \"My Documents\" folder is missing or is misconfigured. Please ensure that the folder is properly configured and accessible, then try again.": {
+   "liczba": false
+  },
+  "Your Vortex installation has been corrupted. This could be the result of a virus or manual manipulation. Vortex might still appear to work (partially) but we suggest you reinstall it. For more information please refer to Vortex's log files.": {
+   "liczba": false
+  }
+ },
+ "src/main/src/errorHandling.ts": {
+  "An unrecoverable error occurred": {
+   "liczba": false
+  },
+  "Are you sure?": {
+   "liczba": false
+  },
+  "The error was unhandled which may lead to unforeseen consequences including data loss. Continue at your own risk. Please do not report any issues that arise from here on out, as they are very likely to be caused by the unhandled error. ": {
+   "liczba": false
+  }
+ },
+ "src/main/src/MainWindow.ts": {
+  "Vortex": {
+   "liczba": false
+  }
+ },
+ "src/main/src/TrayIcon.ts": {
+  "Quit": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/contexts/builtInPages.ts": {
+  "Game settings": {
+   "liczba": false
+  },
+  "Settings": {
+   "liczba": false
+  },
+  "Tools": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/controls/Collapse.tsx": {
+  "common": {
+   "liczba": false
+  },
+  "Hide": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/controls/CopyClipboardInput.tsx": {
+  "Failed to access clipboard": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/controls/Dropzone.tsx": {
+  "{{label}} cannot be empty.": {
+   "liczba": false
+  },
+  "browse for file": {
+   "liczba": false
+  },
+  "enter URL": {
+   "liczba": false
+  },
+  "File(s)": {
+   "liczba": false
+  },
+  "URL(s)": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/controls/ErrorBoundary.tsx": {
+  "Failed to render": {
+   "liczba": false
+  },
+  "Failed to render.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/controls/ExtensionGate.tsx": {
+  "Extension failed to render": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/controls/FormFields.tsx": {
+  "Change": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/controls/More.tsx": {
+  "Learn more": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/controls/PlaceholderTextArea.tsx": {
+  "Paste": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/controls/ReactSelectWrap.tsx": {
+  "Select...": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/controls/Table.tsx": {
+  "{{ count }} item selected": {
+   "liczba": true
+  },
+  "Actions": {
+   "liczba": false
+  },
+  "Clear all filters": {
+   "liczba": false
+  },
+  "Deselect All": {
+   "liczba": false
+  },
+  "Did you know? You can select multiple items using ctrl+click or shift+click or select everything using ctrl+a and then do things with all selected items at once.": {
+   "liczba": false
+  },
+  "This table is filtered, showing {{shown}}/{{hidden}} items.": {
+   "liczba": false
+  },
+  "Toggle Columns": {
+   "liczba": false
+  },
+  "Toggle Inlines": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/controls/table/DateTimeFilter.tsx": {
+  "Equal": {
+   "liczba": false
+  },
+  "Greater-than or Equal": {
+   "liczba": false
+  },
+  "Less-than or Equal": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/controls/table/GameFilter.tsx": {
+  "Current Game": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/controls/table/GroupingRow.tsx": {
+  "Collapse all": {
+   "liczba": false
+  },
+  "Expand all": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/controls/table/HeaderCell.tsx": {
+  "Group the table by this attribute": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/controls/table/TableDetail.tsx": {
+  "<Nothing>": {
+   "liczba": false
+  },
+  "Multiple items selected": {
+   "liczba": false
+  },
+  "Various": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/controls/table/TableRow.tsx": {
+  "Not installed": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/controls/Usage.tsx": {
+  "Show Usage Instructions": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/ExtensionManager.ts": {
+  "An unexpected error occurred while Vortex was loading extension:<br/><br/>{{message}}<br/><br/>This is often caused by a bad installation of the app, a security app interfering with Vortex or a problem with the Microsoft Visual C++ Redistributable installed on your PC. To solve this issue please try the following:<br/><br/>- Wait a moment and try starting Vortex again<br/>- Reinstall Vortex from the Nexus Mods website<br/>- Install the latest Microsoft Visual C++ Redistributable ([url]{{url}}[/url])<br/>- Disable anti-virus or other security apps that might interfere and install Vortex again<br/><br/>If the issue persists, please create a thread in our support forum for further assistance.": {
+   "liczba": false
+  },
+  "Close Vortex": {
+   "liczba": false
+  },
+  "Extension failed to initialize. If this isn't an official extension, please report the error to the respective author.": {
+   "liczba": false
+  },
+  "Extension failed to load": {
+   "liczba": false
+  },
+  "Extension failed to migrate": {
+   "liczba": false
+  },
+  "Extension invalid": {
+   "liczba": false
+  },
+  "Extension slow": {
+   "liczba": false
+  },
+  "Failed to connect meta database": {
+   "liczba": false
+  },
+  "Invalid event handler": {
+   "liczba": false
+  },
+  "Please check that there is no other instance of Vortex still running.": {
+   "liczba": false
+  },
+  "Retry": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/about_dialog/index.ts": {
+  "About": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/about_dialog/views/AboutPage.tsx": {
+  "License": {
+   "liczba": false
+  },
+  "Released under": {
+   "liczba": false
+  },
+  "Third-party libraries": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/analytics/gameFolderCheck/index.ts": {
+  "Can't check the game folder": {
+   "liczba": false
+  },
+  "Check Game Folder": {
+   "liczba": false
+  },
+  "Game folder check failed": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/analytics/index.ts": {
+  "Find out more about how your data helps us improve": {
+   "liczba": false
+  },
+  "Help us improve your modding experience": {
+   "liczba": false
+  },
+  "No, don’t share data": {
+   "liczba": false
+  },
+  "With your permission, we will collect analytics information and send it to our team to help us improve quality and performance. This information is sent anonymously and will never be shared with a 3rd party.[br][/br][br][/br][url={{help-article}}]More about the data we track[/url] | [url={{privacy-policy}}]Privacy Policy[/url]": {
+   "liczba": false
+  },
+  "Yes, share anonymous data": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/analytics/views/SettingsAnalytics.tsx": {
+  "Allow this app to collect usage data to improve your experience": {
+   "liczba": false
+  },
+  "Data & Privacy": {
+   "liczba": false
+  },
+  "Help us provide you with the best modding experience. With your permission, we will collect analytics information and send it to our team to help us improve quality and performance. This information is sent anonymously and will never be shared with a 3rd party.": {
+   "liczba": false
+  },
+  "More about the data we track": {
+   "liczba": false
+  },
+  "Privacy Policy": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/browse_nexus/components/browse_collections/BrowseCollections.tsx": {
+  "collection:browse.modsComingSoon.openWebsite": {
+   "liczba": false
+  },
+  "collection:browse.noCollections.message": {
+   "liczba": false
+  },
+  "collection:browse.noCollections.title": {
+   "liczba": false
+  },
+  "collection:browse.refresh": {
+   "liczba": false
+  },
+  "collection:browse.resultsCount": {
+   "liczba": false
+  },
+  "collection:browse.searchPlaceholder": {
+   "liczba": false
+  },
+  "common:actions.search": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/browse_nexus/components/browse_mods/browse_mods_bar/BrowseModsBar.tsx": {
+  "{{total}} results": {
+   "liczba": true
+  },
+  "Filter": {
+   "liczba": false
+  },
+  "Most popular": {
+   "liczba": false
+  },
+  "New releases": {
+   "liczba": false
+  },
+  "Remove time range filter": {
+   "liczba": false
+  },
+  "Trending": {
+   "liczba": false
+  },
+  "View options": {
+   "liczba": false
+  },
+  "Views": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/browse_nexus/components/browse_mods/BrowseMods.tsx": {
+  "List {{percent}}%": {
+   "liczba": false
+  },
+  "No mod to show": {
+   "liczba": false
+  },
+  "Pick a mod from the list to see its details.": {
+   "liczba": false
+  },
+  "Resize the list and details": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/browse_nexus/components/browse_mods/mod_card/ModCard.tsx": {
+  "Adult": {
+   "liczba": false
+  },
+  "by {{author}}": {
+   "liczba": false
+  },
+  "Downloads: {{total}}": {
+   "liczba": false
+  },
+  "Endorsements: {{total}}": {
+   "liczba": false
+  },
+  "Updated {{date}}": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/browse_nexus/components/browse_mods/mod_details/mod_gallery/ModGallery.tsx": {
+  "Earlier images": {
+   "liczba": false
+  },
+  "Image {{index}} of {{count}}": {
+   "liczba": true
+  },
+  "Images": {
+   "liczba": false
+  },
+  "Later images": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/browse_nexus/components/browse_mods/mod_details/mod_tags/ModTags.tsx": {
+  "+{{count}} more": {
+   "liczba": true
+  },
+  "Tags": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/browse_nexus/components/browse_mods/mod_details/ModDetails.tsx": {
+  "Created": {
+   "liczba": false
+  },
+  "Details": {
+   "liczba": false
+  },
+  "Endorsements": {
+   "liczba": false
+  },
+  "File size": {
+   "liczba": false
+  },
+  "Mod details": {
+   "liczba": false
+  },
+  "Open mod page": {
+   "liczba": false
+  },
+  "The mod's description couldn't be loaded.": {
+   "liczba": false
+  },
+  "Total DLs": {
+   "liczba": false
+  },
+  "Unique DLs": {
+   "liczba": false
+  },
+  "Updated": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/browse_nexus/components/browse_mods/mod_filters/ModFilters.tsx": {
+  "1 year": {
+   "liczba": false
+  },
+  "14 days": {
+   "liczba": false
+  },
+  "24 hours": {
+   "liczba": false
+  },
+  "28 days": {
+   "liczba": false
+  },
+  "7 days": {
+   "liczba": false
+  },
+  "All time": {
+   "liczba": false
+  },
+  "Dates": {
+   "liczba": false
+  },
+  "Filters": {
+   "liczba": false
+  },
+  "Last 14 days": {
+   "liczba": false
+  },
+  "Last 24 hours": {
+   "liczba": false
+  },
+  "Last 28 days": {
+   "liczba": false
+  },
+  "Last 7 days": {
+   "liczba": false
+  },
+  "Last year": {
+   "liczba": false
+  },
+  "More filters coming soon...": {
+   "liczba": false
+  },
+  "Reset {{count}} filters to default": {
+   "liczba": true
+  },
+  "Reset 1 filter to default": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/browse_nexus/components/browse_mods/mod_list/ModList.tsx": {
+  "No mods found": {
+   "liczba": false
+  },
+  "Something went wrong": {
+   "liczba": false
+  },
+  "The mods couldn't be loaded. Try again, or go to another page.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/browse_nexus/components/browse_mods/mod_sort_options/ModSortOptions.tsx": {
+  "Date added": {
+   "liczba": false
+  },
+  "Date updated": {
+   "liczba": false
+  },
+  "Downloads": {
+   "liczba": false
+  },
+  "Highest first": {
+   "liczba": false
+  },
+  "Lowest first": {
+   "liczba": false
+  },
+  "Newest first": {
+   "liczba": false
+  },
+  "Oldest first": {
+   "liczba": false
+  },
+  "Sort by": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/browse_nexus/components/mods_coming_soon/ModsComingSoon.tsx": {
+  "collection:browse.modsComingSoon.description": {
+   "liczba": false
+  },
+  "collection:browse.modsComingSoon.title": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/browse_nexus/hooks/use_add_collection/useAddCollection.hook.ts": {
+  "Adult content warning": {
+   "liczba": false
+  },
+  "Failed to add collection": {
+   "liczba": false
+  },
+  "Open site preferences": {
+   "liczba": false
+  },
+  "The collection \"[b]{{collectionName}}[/b]\" has been classified as adult content because it contains: nudity, sexualisation, extreme violence and gore, or excessive profanity.<br/><br/>Your site preferences are set to hide adult content, you can update your preferences on the Nexus Mods website.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/browse_nexus/hooks/use_collection_search/useCollectionSearch.hook.ts": {
+  "collection:browse.searchTooShort": {
+   "liczba": false
+  },
+  "Highest Rated": {
+   "liczba": false
+  },
+  "Most Downloaded": {
+   "liczba": false
+  },
+  "Most Endorsed": {
+   "liczba": false
+  },
+  "Recently Listed": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/browse_nexus/views/browse_page/browse_sections/BrowseSections.tsx": {
+  "Collections": {
+   "liczba": false
+  },
+  "Discover and install mods for {{game}}.": {
+   "liczba": false
+  },
+  "Discover and install mods.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/browser/index.ts": {
+  "Failed to download via browser": {
+   "liczba": false
+  },
+  "This window will close as soon as you click a valid download link": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/browser/views/BrowserView.tsx": {
+  "Attention": {
+   "liczba": false
+  },
+  "Copy URL to clipboard": {
+   "liczba": false
+  },
+  "If you have security concerns or don't fully trust this page, please don't continue. Don't navigate away from pages you don't trust.": {
+   "liczba": false
+  },
+  "Please be aware that Vortex is based on Electron which in turn is based on Chrome, but it will not always be the newest version. Also, we can't rule out that electron might contain it's own security issues pertaining to website access.": {
+   "liczba": false
+  },
+  "Skip": {
+   "liczba": false
+  },
+  "Vortex is about to open an external web page:": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/category_management/hooks/CategoryToolbarActionsHook.ts": {
+  "Add Top Level": {
+   "liczba": false
+  },
+  "Collapse All": {
+   "liczba": false
+  },
+  "Expand All": {
+   "liczba": false
+  },
+  "Fetch from Nexus Mods": {
+   "liczba": false
+  },
+  "Hide Empty": {
+   "liczba": false
+  },
+  "Show Empty": {
+   "liczba": false
+  },
+  "Sort A-Z": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/category_management/hooks/CategoryTreeActionsHook.ts": {
+  "Failed to fetch categories from Nexus Mods": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/category_management/index.ts": {
+  "<No category>": {
+   "liczba": false
+  },
+  "Categories": {
+   "liczba": false
+  },
+  "Category": {
+   "liczba": false
+  },
+  "Mod Category": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/category_management/util/CategoryFilter.tsx": {
+  "Search: ": {
+   "liczba": false
+  },
+  "Unassigned": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/category_management/views/CategoryAddParent.tsx": {
+  "Add category name...": {
+   "liczba": false
+  },
+  "Category name": {
+   "liczba": false
+  },
+  "Create": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/category_management/views/CategoryList.tsx": {
+  "Filter categories": {
+   "liczba": false
+  },
+  "Filter categories...": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/category_management/views/CategoryListFetchError.tsx": {
+  "Try again": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/category_management/views/CategoryListItem.tsx": {
+  "Add subcategory": {
+   "liczba": false
+  },
+  "Edit": {
+   "liczba": false
+  },
+  "Expand/Collapse": {
+   "liczba": false
+  },
+  "New Sub-Category": {
+   "liczba": false
+  },
+  "Rename category": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/category_management/views/CategoryListNoResults.tsx": {
+  "Create Category": {
+   "liczba": false
+  },
+  "No categories": {
+   "liczba": false
+  },
+  "No categories matching \"{{searchTerm}}\"": {
+   "liczba": false
+  },
+  "Sync with Nexus Mods": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/category_management/views/CategorySubtitle.tsx": {
+  " ({{ sub }} sub-categories with {{ nested }} mod(s))": {
+   "liczba": false
+  },
+  "{{ count }} mod(s)": {
+   "liczba": true
+  }
+ },
+ "src/renderer/src/extensions/collections/collectionCreate.ts": {
+  "Add Mods to Collection": {
+   "liczba": false
+  },
+  "Choose which collection you want the selected mods to be added": {
+   "liczba": false
+  },
+  "Collection is empty": {
+   "liczba": false
+  },
+  "Please select the (modifiable) collection to remove the mods from": {
+   "liczba": false
+  },
+  "Remove Mods from Collection": {
+   "liczba": false
+  },
+  "The generated quick collection is empty. Please ensure the Nexus Mods sourced mods you want to include are enabled and deployed.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/collections/collectionExport.ts": {
+  "Errors creating collection": {
+   "liczba": false
+  },
+  "Failed to upload collection": {
+   "liczba": false
+  },
+  "Mod not found on nexusmods.com: {{modName}} (modId: {{modId}}, fileId: {{fileId}}), it may have been removed.": {
+   "liczba": false
+  },
+  "Mod not found on nexusmods.com: {{modName}} (modId: {{modId}}), it may have been removed.": {
+   "liczba": false
+  },
+  "Mod with file id {{fileId}} not found": {
+   "liczba": false
+  },
+  "Mod with id {{modId}} not found": {
+   "liczba": false
+  },
+  "The server can't find one of the files in the collection, are mod id and file id for it set correctly?": {
+   "liczba": false
+  },
+  "The server rejected this collection": {
+   "liczba": false
+  },
+  "There were errors creating the collection, do you want to proceed anyway?": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/collections/eventHandlers.ts": {
+  "Failed to download collection": {
+   "liczba": false
+  },
+  "Failed to update collection": {
+   "liczba": false
+  },
+  "Keep All": {
+   "liczba": false
+  },
+  "Remove All": {
+   "liczba": false
+  },
+  "Remove mods from old revision?": {
+   "liczba": false
+  },
+  "Remove selected": {
+   "liczba": false
+  },
+  "Review Mods": {
+   "liczba": false
+  },
+  "The following mods are not present in the latest revision of \"{{collectionName}}\". Please select the ones to remove.": {
+   "liczba": false
+  },
+  "There are {{count}} mods installed that are not present in the latest revision of \"{{collectionName}}\". It is recommended that you remove the unused mods to avoid compatibility issues going forward. If you choose to keep the mods installed they will no longer be associated with this Collection and will be managed as if they have been installed individually. Would you like to remove the old mods now?": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/collections/index.ts": {
+  "\"{{collectionName}}\" - This collection is intended for {{expectedGame}} and cannot be installed to {{actualGame}}": {
+   "liczba": false
+  },
+  "Add to Collection...": {
+   "liczba": false
+  },
+  "Already queued mod installations will still finish": {
+   "liczba": false
+  },
+  "an unsupported game": {
+   "liczba": false
+  },
+  "Apply Collection Rules": {
+   "liczba": false
+  },
+  "Clone collection \"{{collectionName}}\"?": {
+   "liczba": false
+  },
+  "Cloning a collection means you can make edits to the collection in the workshop and share your changes with the community.\nIf this collection is your own, your uploads will be revisions of that existing collection, otherwise you will create a new collection associated with your own account.": {
+   "liczba": false
+  },
+  "Collection": {
+   "liczba": false
+  },
+  "Collection can't be installed as another one is being installed already": {
+   "liczba": false
+  },
+  "Collection created": {
+   "liczba": false
+  },
+  "Collection incomplete": {
+   "liczba": false
+  },
+  "Collection not installed": {
+   "liczba": false
+  },
+  "Collection paused": {
+   "liczba": false
+  },
+  "Collection pausing": {
+   "liczba": false
+  },
+  "Collection(s) this mod was installed from (if any)": {
+   "liczba": false
+  },
+  "Delete mod archives": {
+   "liczba": false
+  },
+  "Did the Collection work for you?": {
+   "liczba": false
+  },
+  "Don't show again": {
+   "liczba": false
+  },
+  "Edit Collection": {
+   "liczba": false
+  },
+  "failed to add mod to collection": {
+   "liczba": false
+  },
+  "Failed to check collection for update": {
+   "liczba": false
+  },
+  "Failed to init collection": {
+   "liczba": false
+  },
+  "failed to install icon set": {
+   "liczba": false
+  },
+  "Failed to link collection": {
+   "liczba": false
+  },
+  "Failed to remove collection": {
+   "liczba": false
+  },
+  "failed to remove mod from collection": {
+   "liczba": false
+  },
+  "Failed to remove mods": {
+   "liczba": false
+  },
+  "Init Collection": {
+   "liczba": false
+  },
+  "Link Collection": {
+   "liczba": false
+  },
+  "Mod instructions": {
+   "liczba": false
+  },
+  "None": {
+   "liczba": false
+  },
+  "Not logged in": {
+   "liczba": false
+  },
+  "Remove from Collection...": {
+   "liczba": false
+  },
+  "Remove mods": {
+   "liczba": false
+  },
+  "Removing {{name}}": {
+   "liczba": false
+  },
+  "Resume": {
+   "liczba": false
+  },
+  "Take me to instructions": {
+   "liczba": false
+  },
+  "This collection will be removed from Vortex and unlinked from any associated mods. You can also choose to uninstall mods related to this collection and delete the downloaded archives.\n\nPlease note, some mods may be required by multiple collections.\n\nAre you sure you want to remove \"{{collectionName}}\" from your collections?": {
+   "liczba": false
+  },
+  "Update": {
+   "liczba": false
+  },
+  "Update Collection": {
+   "liczba": false
+  },
+  "Updating Collection Information": {
+   "liczba": false
+  },
+  "You can only edit collections that are fully installed in this setup. Please ensure you install the collection with all optional items, then clone the collection into the Workshop.": {
+   "liczba": false
+  },
+  "You can refer back to closed mod instructions at any time in the Instructions tab on the Collections page.": {
+   "liczba": false
+  },
+  "You have been logged out. Please log in and resume.": {
+   "liczba": false
+  },
+  "You have to be logged in with Nexus Mods to install collections.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/collections/initweaks.ts": {
+  "Failed to enable collection ini tweaks": {
+   "liczba": false
+  },
+  "Failed to remove INI tweak": {
+   "liczba": false
+  },
+  "Please enter a name for the ini tweak": {
+   "liczba": false
+  },
+  "Remove INI Tweak": {
+   "liczba": false
+  },
+  "You are about to remove an INI tweak \"{{fileName}}\" from the collection. Are you sure you wish to proceed ?": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/collections/tools.ts": {
+  "The collection you just installed set up tools to be run from the dashboard, however not all were found locally. It's possible that these tools will be available after the next deployment completes, otherwise you may have to edit the configuration for the tool to adjust them to your own setup.": {
+   "liczba": false
+  },
+  "Tool not found": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/collections/util/apply_collection_rules/applyCollectionRules.ts": {
+  "Failed to apply collection rules": {
+   "liczba": false
+  },
+  "Failed to read collection info": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/collections/util/binaryPatching.ts": {
+  "Can't save local edits": {
+   "liczba": false
+  },
+  "Creating patch for {{fileName}}": {
+   "liczba": false
+  },
+  "Failed to determine checksum for file": {
+   "liczba": false
+  },
+  "failed to patch": {
+   "liczba": false
+  },
+  "The local modifications to file \"{{fileName}}\" can not be included in the collection.\nWe don't allow edits that exceed a certain percentage of the original file size.\nIf you continue anyway this file will be installed unmodified for users.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/collections/util/cloneCollection.ts": {
+  "Clone Collection": {
+   "liczba": false
+  },
+  "Contribute": {
+   "liczba": false
+  },
+  "Copy of {{name}}": {
+   "liczba": false
+  },
+  "Failed to clone collection": {
+   "liczba": false
+  },
+  "You have edit permissions for the collection \"{{name}}\", but you are not the owner.[br][/br]Would you like to clone it as your own collection, or contribute to the existing one?[br][/br][br][/br]": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/collections/util/createCollection.ts": {
+  "Failed to create collection": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/collections/util/createCollectionFromProfile.ts": {
+  "Create a collection containing the mods enabled in your current profile.": {
+   "liczba": false
+  },
+  "New collection from profile": {
+   "liczba": false
+  },
+  "Please enter a name for your new collection": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/collections/util/defaults.ts": {
+  "Failed to ascertain default install mode": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/collections/util/gameSupport/gamebryo.tsx": {
+  "assigned to group": {
+   "liczba": false
+  },
+  "Group": {
+   "liczba": false
+  },
+  "incompatible with": {
+   "liczba": false
+  },
+  "No userlist loaded, is the gamebryo-plugin-management extension disabled?": {
+   "liczba": false
+  },
+  "Remove plugin rule": {
+   "liczba": false
+  },
+  "Rules you remove here are also removed from your actual setup.": {
+   "liczba": false
+  },
+  "The collection will include your custom load order rules so that users of your collection will get the same load order.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/collections/util/InfoCache.ts": {
+  "Failed to cache collection mod rules": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/collections/util/InstallDriver.ts": {
+  "Already installing a collection": {
+   "liczba": false
+  },
+  "Game version mismatch": {
+   "liczba": false
+  },
+  "Installing Collection": {
+   "liczba": false
+  },
+  "The version of the game you have installed is different to the one the curator used when creating this collection.[br][/br][br][/br]Your game version: [style=dialog-success-text]{{actual}}[/style][br][/br]Recommended game version: [style=dialog-danger-text]{{intended}}[/style][br][/br][br][/br]If you choose to continue, some or all of the mods included in the collection may not work properly for you. This will require manual troubleshooting to correct. For users who are not familiar with modding, we do not recommend continuing with installation.[br][/br][br][/br]You can also check the description, comments and bug reports on the Collection page to see if others have been successful while playing with the game version you have installed or to request advice from the curator.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/collections/util/makeProgressFunction.ts": {
+  "Building Collection": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/collections/util/modToCollection.ts": {
+  "\"{{modName}}\" cannot be exported using the replicate install mode.[br][/br][br][/br]The hashes of some of the files in your staging folder do not match the hashes of the files in the mod's archive, which is guaranteed to cause issues for the end user.[br][/br][br][/br] Please consider using binary patching or bundle your changes instead.": {
+   "liczba": false
+  },
+  "Collection export failed": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/collections/util/profileLink.ts": {
+  "Link": {
+   "liczba": false
+  },
+  "Link Collection to Profile": {
+   "liczba": false
+  },
+  "Select the collection to associate with this profile. \"Update Collection\" will sync this profile's mods into the selected collection.": {
+   "liczba": false
+  },
+  "Unlink": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/collections/util/readCollection.ts": {
+  "Collection validation mismatch": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/collections/util/showQuickCollectionRestrictionsDialog.ts": {
+  "Quick Collection": {
+   "liczba": false
+  },
+  "Quick Collections create a backup of your mod list for easy import by another PC or mod manager. They can be created in a few clicks but do not include all the features of a \"full\" collection.[br][/br][br][/br]Your Quick Collection will include:[br][/br][list][*] All mods downloaded from Nexus Mods that are currently enabled and deployed.[*] Installer choices for mods that support installers (such as FOMODs).[*] File conflict rules.[*] Load order rules.[/list][br][/br]Quick Collections do NOT include:[br][/br][list][*] Mods from sources other than Nexus Mods.[*] Alterations you have made to mods after installing them.[*] Outputs of automated tools generated on your PC (FNIS, Script Merger, etc).[*] Mods that you have created on your PC and added to Vortex.[/list]": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/collections/util/transformCollection.ts": {
+  "Name must be between {{min}}-{{max}} characters long": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/collections/util/uploadCollection.ts": {
+  "Collection isn't fully installed": {
+   "liczba": false
+  },
+  "Collection submitted": {
+   "liczba": false
+  },
+  "Failed to upload to API": {
+   "liczba": false
+  },
+  "Resolve conflicts before uploading": {
+   "liczba": false
+  },
+  "Share on Nexus Mods": {
+   "liczba": false
+  },
+  "Upload": {
+   "liczba": false
+  },
+  "You can only upload collections that are fully installed on this system.\nIf you have removed mods that were part of this collection you may want to remove them from the collection as well. If this collection is connected to a profile you can simply update from that.": {
+   "liczba": false
+  },
+  "You have unresolved mod conflicts in your current mods setup. Please resolve them before uploading a collection.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/collections/views/AddModsDialog.tsx": {
+  "Add Selection": {
+   "liczba": false
+  },
+  "Mods need to be in an installed state in order to add them to a collection. If the mod you want to add is not in this list, make sure it's installed.": {
+   "liczba": false
+  },
+  "Select (click, shift-click, ...) installed mods you want to add to your collection below:": {
+   "liczba": false
+  },
+  "The variant": {
+   "liczba": false
+  },
+  "The version": {
+   "liczba": false
+  },
+  "Variant": {
+   "liczba": false
+  },
+  "Version": {
+   "liczba": false
+  },
+  "You can also add mods to a collection from the mods screen: Right-click > Add to Collection": {
+   "liczba": false
+  },
+  "You don't have any installed mods": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/collections/views/CollectionList/index.tsx": {
+  "Deleting a collection will not remove the mods that have been added to it.\n\nAny changes made to this collection since the last upload to Nexus Mods will be lost.\n\nAre you sure you want to remove \"{{collectionName}}\" from your Workshop?": {
+   "liczba": false
+  },
+  "Download the latest meta information about your installed and owned collections. This will reset local changes to names of collections in your workshop.": {
+   "liczba": false
+  },
+  "Failed to install dependencies": {
+   "liczba": false
+  },
+  "Removal failed": {
+   "liczba": false
+  },
+  "Remove Collection (Workshop)": {
+   "liczba": false
+  },
+  "Return to overview": {
+   "liczba": false
+  },
+  "This collection has been uploaded with a different account ({{uploadAuthor}}) than you're using now ({{currentUser}}). If you edit and upload this collection now it will be uploaded as a new collection by your current user.": {
+   "liczba": false
+  },
+  "View All Collections": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/collections/views/CollectionList/StartPage.tsx": {
+  "Added Collections": {
+   "liczba": false
+  },
+  "Collection Name": {
+   "liczba": false
+  },
+  "Create a collection": {
+   "liczba": false
+  },
+  "Create an empty collection which you can manually add mods to.": {
+   "liczba": false
+  },
+  "Date created": {
+   "liczba": false
+  },
+  "Date downloaded": {
+   "liczba": false
+  },
+  "Discover more collections": {
+   "liczba": false
+  },
+  "Failed to create quick collection": {
+   "liczba": false
+  },
+  "From Profile": {
+   "liczba": false
+  },
+  "Invalid characters, only letters, numbers, space and - are allowed.": {
+   "liczba": false
+  },
+  "Name A-Z": {
+   "liczba": false
+  },
+  "New empty Collection": {
+   "liczba": false
+  },
+  "Open My Collections Page": {
+   "liczba": false
+  },
+  "Recently updated": {
+   "liczba": false
+  },
+  "Sort by:": {
+   "liczba": false
+  },
+  "The name bust be between {{min}}-{{max}} characters long": {
+   "liczba": false
+  },
+  "View and manage collections created by other users.": {
+   "liczba": false
+  },
+  "Workshop": {
+   "liczba": false
+  }
+ }
+}

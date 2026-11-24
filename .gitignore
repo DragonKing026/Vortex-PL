@@ -1,0 +1,5 @@
+node_modules/
+vortex-src/
+dist/
+build/
+.claude/worktrees/

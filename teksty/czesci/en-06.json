@@ -1,0 +1,1342 @@
+{
+ "src/renderer/src/extensions/health_check/components/mod_requirement/DetailView.tsx": {
+  "detail::item::after_installing": {
+   "liczba": false
+  },
+  "detail::item::author_note": {
+   "liczba": false
+  },
+  "detail::item::confirm_install": {
+   "liczba": false
+  },
+  "detail::item::external_hosted_note": {
+   "liczba": false
+  },
+  "detail::item::may_require_file": {
+   "liczba": false
+  },
+  "detail::item::open_external_mod_page": {
+   "liczba": false
+  },
+  "shared::mod_may_be_required_for": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/health_check/components/mod_requirement/ListingRow.tsx": {
+  "listing::external_mod_install": {
+   "liczba": false
+  },
+  "listing::item::description": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/health_check/components/premium_modal/PremiumModal.tsx": {
+  "premium::modal::benefits_title": {
+   "liczba": false
+  },
+  "premium::modal::benefits::ad_free": {
+   "liczba": false
+  },
+  "premium::modal::benefits::collections": {
+   "liczba": false
+  },
+  "premium::modal::benefits::downloads": {
+   "liczba": false
+  },
+  "premium::modal::benefits::speed": {
+   "liczba": false
+  },
+  "premium::modal::buttons::primary": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/health_check/core/HealthCheckRegistry.ts": {
+  "Health check timed out": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/health_check/core/LegacyTestAdapter.ts": {
+  "Check passed": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/health_check/core/perModRunner.ts": {
+  "No mods installed; nothing to check.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/health_check/index.ts": {
+  "Health check": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/health_check/views/HealthCheckDetailPage.tsx": {
+  "common:::back": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/health_check/views/HealthCheckPage.tsx": {
+  "common:::active": {
+   "liczba": false
+  },
+  "common:::hidden": {
+   "liczba": false
+  },
+  "common:::refresh": {
+   "liczba": false
+  },
+  "common:::settings": {
+   "liczba": false
+  },
+  "listing::last_updated": {
+   "liczba": false
+  },
+  "listing::no_results_active::message": {
+   "liczba": false
+  },
+  "listing::no_results_active::title": {
+   "liczba": false
+  },
+  "listing::no_results_hidden::title": {
+   "liczba": false
+  },
+  "listing::no_results_logged_out::action": {
+   "liczba": false
+  },
+  "listing::no_results_logged_out::message": {
+   "liczba": false
+  },
+  "listing::no_results_logged_out::title": {
+   "liczba": false
+  },
+  "listing::subtitle": {
+   "liczba": false
+  },
+  "listing::title": {
+   "liczba": false
+  },
+  "Login Failed": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/health_check/views/SettingsHealthCheck.tsx": {
+  "settings::description": {
+   "liczba": false
+  },
+  "settings::file_requirements": {
+   "liczba": false
+  },
+  "settings::mod_requirements": {
+   "liczba": false
+  },
+  "settings::title": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/history_management/HistoryDialog.tsx": {
+  "Event history": {
+   "liczba": false
+  },
+  "Please note that this is not \"Undo\"! This screen allows you to revert specific actions but we make no promises that this actually returns Vortex or your game to the state before that action. Not every Action can be undone.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/history_management/index.ts": {
+  "Failed to revert event": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/ini_prep/index.ts": {
+  "Failed to bake settings files": {
+   "liczba": false
+  },
+  "Failed to create backups of the ini files for this game.": {
+   "liczba": false
+  },
+  "Failed to purge ini edits": {
+   "liczba": false
+  },
+  "Failed to write ini file": {
+   "liczba": false
+  },
+  "Ini file": {
+   "liczba": false
+  },
+  "Ini files were not restored": {
+   "liczba": false
+  },
+  "Optional ini modifications": {
+   "liczba": false
+  },
+  "To avoid data loss, ini tweaks are not going to be applied in this session.\nPlease fix the problem and restart Vortex.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/ini_prep/TweakList.tsx": {
+  "Ini Tweaks": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/installer_dotnet/index.ts": {
+  "File locked": {
+   "liczba": false
+  },
+  "Please follow the instructions in the .NET installer. If you can't see the installer window, please check if it's hidden behind another window.[br][/br][br][/br]Please note: In rare cases you will need to restart windows before .NET works properly.": {
+   "liczba": false
+  },
+  "The file \"{{fileName}}\" is locked, probably because it's being accessed by another process.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/installer_fomod_ipc/utils/VortexIPCConnection.ts": {
+  "Continue Installation": {
+   "liczba": false
+  },
+  "Installation Timeout": {
+   "liczba": false
+  },
+  "The installation of mod \"{{ modName }}\" is taking longer than expected.[br][/br][br][/br]This may happen because the mod has a custom dialog that Vortex is not aware of.[br][/br]In this case, you may need to interact with the mod's installer manually outside of Vortex to proceed.[br][/br][br][/br]Would you like to continue with the installation, or cancel it?": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/installer_fomod_ipc/views/Sandbox.tsx": {
+  "Enable Sandbox": {
+   "liczba": false
+  },
+  "Installer Sandbox": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/installer_fomod_native/installer.ts": {
+  "Invalid fomod": {
+   "liczba": false
+  },
+  "This fomod failed validation. Vortex tends to be stricter validating installers than other tools to ensure mods actually work as expected.\nYou can try installing it anyway but we strongly suggest you test if it actually works correctly afterwards - and you should still inform the mod author about this issue.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/installer_fomod_shared/index.ts": {
+  "Choices made in the installer": {
+   "liczba": false
+  },
+  "Installer": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/installer_fomod_shared/views/InstallerDialog.tsx": {
+  "Missing group name": {
+   "liczba": false
+  },
+  "Preset": {
+   "liczba": false
+  },
+  "Select at least one": {
+   "liczba": false
+  },
+  "Select at most one": {
+   "liczba": false
+  },
+  "Select exactly one": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/instructions_overlay/InstructionsOverlay.tsx": {
+  "Collapse": {
+   "liczba": false
+  },
+  "Expand": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/mod_load_order/views/LoadOrderCollections.tsx": {
+  " Note that some games will require the mods to be enabled or deployed in order for the load order to be generated.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/mod_management/components/changelog_button/ChangelogButton.tsx": {
+  "Newest Version": {
+   "liczba": false
+  },
+  "View changelog": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/mod_management/components/collection_hover_card/CollectionHoverCard.tsx": {
+  "{{count}} mods": {
+   "liczba": true
+  },
+  "1 mod": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/mod_management/components/collection_revision/CollectionRevision.tsx": {
+  "Couldn't load the changelog": {
+   "liczba": false
+  },
+  "Loading changelog": {
+   "liczba": false
+  },
+  "No changelog for this revision": {
+   "liczba": false
+  },
+  "Update to {{revision}}": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/mod_management/components/collection_update_warning/CollectionUpdateWarning.tsx": {
+  "collection_update_warning::batch::acknowledge": {
+   "liczba": false
+  },
+  "collection_update_warning::batch::caution": {
+   "liczba": false
+  },
+  "collection_update_warning::batch::curator_version": {
+   "liczba": false
+  },
+  "collection_update_warning::batch::intro": {
+   "liczba": false
+  },
+  "collection_update_warning::batch::title": {
+   "liczba": false
+  },
+  "collection_update_warning::batch::update_all": {
+   "liczba": false
+  },
+  "collection_update_warning::batch::update_non_collection": {
+   "liczba": false
+  },
+  "collection_update_warning::cancel": {
+   "liczba": false
+  },
+  "collection_update_warning::single::acknowledge": {
+   "liczba": false
+  },
+  "collection_update_warning::single::caution": {
+   "liczba": false
+  },
+  "collection_update_warning::single::curator_version": {
+   "liczba": false
+  },
+  "collection_update_warning::single::intro": {
+   "liczba": false
+  },
+  "collection_update_warning::single::title": {
+   "liczba": false
+  },
+  "collection_update_warning::single::update_anyway": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/mod_management/components/delete_mods_table_view_modal/DeleteModsTableViewModal.tsx": {
+  "Are you sure you want to delete \"{{name}}\"? This won't delete any mods, but the view and its customisations will be permanently removed.": {
+   "liczba": false
+  },
+  "Delete view": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/mod_management/components/disable_shared_mods_modal/DisableSharedModsModal.tsx": {
+  "{{count}} mods are shared with: {{collections}}": {
+   "liczba": true
+  },
+  "1 mod is shared with: {{collections}}": {
+   "liczba": false
+  },
+  "Disable all mods": {
+   "liczba": false
+  },
+  "Disable mods?": {
+   "liczba": false
+  },
+  "Disabling them may affect those collections. Keep the shared mods enabled to avoid issues.": {
+   "liczba": false
+  },
+  "Keep shared mods enabled": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/mod_management/components/mod_row_actions/ModRowActions.tsx": {
+  "Installing…": {
+   "liczba": false
+  },
+  "Installs the mod into your game, where it can be enabled or disabled.": {
+   "liczba": false
+  },
+  "Uninstalling…": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/mod_management/components/mod_update/ModUpdate.tsx": {
+  "Choose update file": {
+   "liczba": false
+  },
+  "Mod not identified": {
+   "liczba": false
+  },
+  "Mod source unknown": {
+   "liczba": false
+  },
+  "Update to {{version}}": {
+   "liczba": false
+  },
+  "Vortex can't determine the correct update automatically.": {
+   "liczba": false
+  },
+  "Vortex can't identify this mod, so some features, including checking for updates and adding it to Collections, won't work.": {
+   "liczba": false
+  },
+  "Vortex doesn't know where this mod came from, so it can't check for updates.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/mod_management/components/mod_version/ModVersion.tsx": {
+  "default": {
+   "liczba": false
+  },
+  "Remove version": {
+   "liczba": false
+  },
+  "Switch version or variant": {
+   "liczba": false
+  },
+  "Up-to-date": {
+   "liczba": false
+  },
+  "Update available": {
+   "liczba": false
+  },
+  "Versions": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/mod_management/components/mods_drop_target/ModsDropTarget.tsx": {
+  "Archives (.zip, .rar, .7z) are added as mods to your list.": {
+   "liczba": false
+  },
+  "Drop files to add mods": {
+   "liczba": false
+  },
+  "Individual files and folders are packaged into mods before being added.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/mod_management/components/mods_table_column_toggles/ModsTableColumnToggles.tsx": {
+  "Toggle columns": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/mod_management/components/mods_table_group_by/ModsTableGroupBy.tsx": {
+  "Group by": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/mod_management/components/mods_table_switch/ModsTableSwitch.tsx": {
+  "{{count}} items selected": {
+   "liczba": true
+  },
+  "{{name}} actions": {
+   "liczba": false
+  },
+  "{{name}} enabled": {
+   "liczba": false
+  },
+  "Install {{name}}": {
+   "liczba": false
+  },
+  "Never installed": {
+   "liczba": false
+  },
+  "No mods match your search": {
+   "liczba": false
+  },
+  "Selected mods actions": {
+   "liczba": false
+  },
+  "Selected mods enabled": {
+   "liczba": false
+  },
+  "Uninstalled": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/mod_management/components/mods_table_toolbar/ModsTableToolbar.tsx": {
+  "Edit view options": {
+   "liczba": false
+  },
+  "Give feedback": {
+   "liczba": false
+  },
+  "Rename view": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/mod_management/components/mods_table_view_name_modal/ModsTableViewNameModal.tsx": {
+  "Create a new view": {
+   "liczba": false
+  },
+  "Create view": {
+   "liczba": false
+  },
+  "e.g. Author view": {
+   "liczba": false
+  },
+  "Give your view a name. You can customise its columns, grouping and filters after creating it.": {
+   "liczba": false
+  },
+  "Give your view a new name. Your columns, grouping and filters won't change.": {
+   "liczba": false
+  },
+  "Name view": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/mod_management/eventHandlers.ts": {
+  "Deploy": {
+   "liczba": false
+  },
+  "Deployment method changed": {
+   "liczba": false
+  },
+  "Deployment method no longer available": {
+   "liczba": false
+  },
+  "Deployment method no longer supported": {
+   "liczba": false
+  },
+  "Download File Locked": {
+   "liczba": false
+  },
+  "Download invalid": {
+   "liczba": false
+  },
+  "Download Not Ready": {
+   "liczba": false
+  },
+  "Event was triggered with incorrect parameter": {
+   "liczba": false
+  },
+  "Failed to remove mod": {
+   "liczba": false
+  },
+  "Failed to undeploy mod, please try again": {
+   "liczba": false
+  },
+  "From config: {{path}}": {
+   "liczba": false
+  },
+  "From manifest: {{path}}": {
+   "liczba": false
+  },
+  "Game managed by different game extension": {
+   "liczba": false
+  },
+  "Mod not found": {
+   "liczba": false
+  },
+  "Purge": {
+   "liczba": false
+  },
+  "Purge failed": {
+   "liczba": false
+  },
+  "Purge failed, please try again": {
+   "liczba": false
+  },
+  "Staging folder changed": {
+   "liczba": false
+  },
+  "The deployment method used with this game is no longer available. This probably means you removed the corresponding extension or it can no longer be loaded due to a bug.\nVortex can't clean up files deployed with an unsupported method. You should try to restore it, purge deployment and then switch to a different method.": {
+   "liczba": false
+  },
+  "The deployment method you had configured ({{method}}) is no longer applicable.\nPlease resolve the problem described below or go to \"Settings\" and change the deployment method.": {
+   "liczba": false
+  },
+  "The mod you're removing has already been deleted on disk.\nThis makes it impossible for Vortex to cleanly undeploy the mod so you may be left with files left over in your game directory.\nYou should allow Vortex to do a full deployment now to try and clean up as best as possible.\nThe mod will be removed after deployment is finished.": {
+   "liczba": false
+  },
+  "The staging folder configured in Vortex doesn't match what was previously used to deploy mods. This may be caused by manual tampering with the application state or some other kind of data corruption (hardware failure, virus, ...).<br/><br/>[color=red]If you continue with the wrong settings all installed mods may get corrupted![/color].<br/><br/>Please check the following two folders and pick the one that actually contains your mods.": {
+   "liczba": false
+  },
+  "Unknown Download": {
+   "liczba": false
+  },
+  "Use selected": {
+   "liczba": false
+  },
+  "Using default deployment method": {
+   "liczba": false
+  },
+  "You seem to have multiple games inside Vortex trying to manage the same game directory. This can happen in case of total conversions or if you use a third-party extension for a game that has also bundled support in Vortex.\nIf you continue now, Vortex will purge the deployment from the other extension. This is not destructive, you can go back to the other extension any time.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/mod_management/hooks/use_collection_group_actions/useCollectionGroupActions.hook.tsx": {
+  "View collection": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/mod_management/hooks/use_install_mods/useInstallMods.hook.ts": {
+  "Failed to install mod": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/mod_management/hooks/use_mod_actions/useModActions.hook.tsx": {
+  "Add to Collection": {
+   "liczba": false
+  },
+  "Apply collection rules": {
+   "liczba": false
+  },
+  "Check for updates": {
+   "liczba": false
+  },
+  "Combine": {
+   "liczba": false
+  },
+  "Edit collection": {
+   "liczba": false
+  },
+  "Fix missing IDs": {
+   "liczba": false
+  },
+  "Generate mod report": {
+   "liczba": false
+  },
+  "Install recommendations": {
+   "liczba": false
+  },
+  "Manage file conflicts": {
+   "liczba": false
+  },
+  "Open archive": {
+   "liczba": false
+  },
+  "Open in file manager": {
+   "liczba": false
+  },
+  "Open on Nexus Mods": {
+   "liczba": false
+  },
+  "Refresh content": {
+   "liczba": false
+  },
+  "Reinstall": {
+   "liczba": false
+  },
+  "Remove related": {
+   "liczba": false
+  },
+  "Track": {
+   "liczba": false
+  },
+  "Uninstall": {
+   "liczba": false
+  },
+  "Untrack": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/mod_management/hooks/use_mods_table_data_columns/useModsTableDataColumns.hook.tsx": {
+  "Archive name": {
+   "liczba": false
+  },
+  "Downloaded time": {
+   "liczba": false
+  },
+  "Enabled time": {
+   "liczba": false
+  },
+  "Installation time": {
+   "liczba": false
+  },
+  "Mod size": {
+   "liczba": false
+  },
+  "Mod type": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/mod_management/hooks/use_uninstall_mods/useUninstallMods.hook.ts": {
+  "Failed to uninstall mods": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/mod_management/hooks/useDeployMods.hook.ts": {
+  "Failed to activate mods": {
+   "liczba": false
+  },
+  "Mods deployed": {
+   "liczba": false
+  },
+  "You have to select a deployment method first": {
+   "liczba": false
+  },
+  "You need to select a deployment method in settings": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/mod_management/hooks/useModToolbarActions.hook.tsx": {
+  "Apply mods, even when no changes are detected.": {
+   "liczba": false
+  },
+  "Applying mod changes…": {
+   "liczba": false
+  },
+  "Automatically apply changes as you make them.": {
+   "liczba": false
+  },
+  "Check for Updates": {
+   "liczba": false
+  },
+  "Checking for mod updates": {
+   "liczba": false
+  },
+  "Confirm purge": {
+   "liczba": false
+  },
+  "Disable auto-apply": {
+   "liczba": false
+  },
+  "Don't ask again": {
+   "liczba": false
+  },
+  "Enable auto-apply": {
+   "liczba": false
+  },
+  "Error checking for mod updates": {
+   "liczba": false
+  },
+  "Failed to purge mods": {
+   "liczba": false
+  },
+  "Failed to purge mods, please try again": {
+   "liczba": false
+  },
+  "Install From File": {
+   "liczba": false
+  },
+  "Manual apply (Deploy)": {
+   "liczba": false
+  },
+  "Mod changes will need to be applied manually.": {
+   "liczba": false
+  },
+  "Mods purged": {
+   "liczba": false
+  },
+  "Purging will remove all links deployed to the game directory.\nThis is not a destructive operation, on the next deployment all links will be restored.\nUse this operation to force a complete re-deployment or to restore the game directory to an unmodded-state.": {
+   "liczba": false
+  },
+  "Return to the original mod list.": {
+   "liczba": false
+  },
+  "Select archive": {
+   "liczba": false
+  },
+  "Some mods could not be updated automatically.": {
+   "liczba": false
+  },
+  "Switch to beta view": {
+   "liczba": false
+  },
+  "Switch to classic view": {
+   "liczba": false
+  },
+  "Try the new mod list. Some features aren't supported yet.": {
+   "liczba": false
+  },
+  "Update All": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/mod_management/index.ts": {
+  "Can't deploy while the game or a tool is running": {
+   "liczba": false
+  },
+  "Checking for external changes": {
+   "liczba": false
+  },
+  "Checking for mod incompatibilities": {
+   "liczba": false
+  },
+  "Create Mod": {
+   "liczba": false
+  },
+  "Deploying": {
+   "liczba": false
+  },
+  "Deploying mods": {
+   "liczba": false
+  },
+  "Deploying: ": {
+   "liczba": false
+  },
+  "Deployment interrupted": {
+   "liczba": false
+  },
+  "Deployment method \"{{method}}\" does not support all mod types: {{reason}}": {
+   "liczba": false
+  },
+  "Deployment method \"{{method}}\" not available because: {{reason}}": {
+   "liczba": false
+  },
+  "Deployment necessary": {
+   "liczba": false
+  },
+  "Deployment not possible": {
+   "liczba": false
+  },
+  "Deployment target unknown": {
+   "liczba": false
+  },
+  "Disable selected": {
+   "liczba": false
+  },
+  "Enable automatic deployment": {
+   "liczba": false
+  },
+  "Failed to copy files to mod": {
+   "liczba": false
+  },
+  "Failed to create mod": {
+   "liczba": false
+  },
+  "Failed to deploy mod": {
+   "liczba": false
+  },
+  "Failed to deploy mods": {
+   "liczba": false
+  },
+  "Failed to deploy mods, please try again": {
+   "liczba": false
+  },
+  "Failed to install recommendations": {
+   "liczba": false
+  },
+  "Failed to simulate installer": {
+   "liczba": false
+  },
+  "Incompatible mods enabled": {
+   "liczba": false
+  },
+  "Loading deployment manifest": {
+   "liczba": false
+  },
+  "Merging mods": {
+   "liczba": false
+  },
+  "Mod(s) removed": {
+   "liczba": false
+  },
+  "Not an archive": {
+   "liczba": false
+  },
+  "Preparing game settings": {
+   "liczba": false
+  },
+  "Recent changes to the active mods are currently pending, a deployment must be run to apply the latest changes to your game.": {
+   "liczba": false
+  },
+  "Redundant mods": {
+   "liczba": false
+  },
+  "Running post-deployment events": {
+   "liczba": false
+  },
+  "Running pre-deployment events": {
+   "liczba": false
+  },
+  "Saving manifest failed": {
+   "liczba": false
+  },
+  "Saving the manifest failed (see error below). This could lead to errors later on, ": {
+   "liczba": false
+  },
+  "Some mods are redundant": {
+   "liczba": false
+  },
+  "Some of the enabled mods either contain no files or all files they do contain are entirely overwritten by another mod. These redundant mods don't do any harm except slow down deployment a bit.\nIf you believe this to be a mistake, please check the file conflicts [svg]conflict[/svg] for the mod in question.": {
+   "liczba": false
+  },
+  "Source the mod was downloaded from": {
+   "liczba": false
+  },
+  "Starting deployment": {
+   "liczba": false
+  },
+  "The deployment directory for some mod type(s) ({{ types }}) is unknown. Mods of these types will not be deployed. Maybe this/these type(s) require further configuration or external tools.": {
+   "liczba": false
+  },
+  "The following files are not archives and can't be installed directly. Would you like to create a mod containing these files instead?": {
+   "liczba": false
+  },
+  "Use the folder's contents as the mod (folder name becomes the mod name)": {
+   "liczba": false
+  },
+  "Waiting for other operations to complete": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/mod_management/InstallContext.ts": {
+  "{{id}} failed to install": {
+   "liczba": false
+  },
+  "Enable All": {
+   "liczba": false
+  },
+  "Installation canceled": {
+   "liczba": false
+  },
+  "Installing {{ id }}": {
+   "liczba": false
+  },
+  "Preparing": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/mod_management/InstallManager.ts": {
+  "\"{{modName}}\" contains C# scripts that can run code on your computer.[br][/br][br][/br]These scripts give the mod full access to your system and can cause serious harm, including data loss or security breaches.[br][/br]Unless you personally reviewed and trust the source, we strongly recommend you do not install this mod.[br][/br][br][/br]Are you sure you want to continue?": {
+   "liczba": false
+  },
+  "\"{{modName}}\" has several variants installed - please choose which one to replace:": {
+   "liczba": false
+  },
+  "{{modName}} has unsolved dependencies that could not be found automatically. ": {
+   "liczba": false
+  },
+  "{{modName}} requires the following dependencies:": {
+   "liczba": false
+  },
+  "A password is required to extract this archive": {
+   "liczba": false
+  },
+  "An older version of this mod is already installed. You can replace the existing one - which will update all profiles - or install this one alongside it. In the latter case both versions will be available and only the active profile will be updated. ": {
+   "liczba": false
+  },
+  "Archive damaged \"{{archiveName}}\"": {
+   "liczba": false
+  },
+  "Cancel installation": {
+   "liczba": false
+  },
+  "Checking dependencies": {
+   "liczba": false
+  },
+  "Collection Download Failed": {
+   "liczba": false
+  },
+  "Delete & Redownload": {
+   "liczba": false
+  },
+  "Do this for all dependencies": {
+   "liczba": false
+  },
+  "Do this for all recommendations": {
+   "liczba": false
+  },
+  "Do this for all remaining instructions ({{remaining}} more)": {
+   "liczba": false
+  },
+  "Do this for all remaining reinstalls ({{count}} more)": {
+   "liczba": true
+  },
+  "Don't install": {
+   "liczba": false
+  },
+  "Encountered errors extracting this archive. Please verify this file was downloaded correctly.\n[list]{{ errors }}[/list]": {
+   "liczba": false
+  },
+  "Enter a variant name for \"{{modName}}\" to differentiate it from the original": {
+   "liczba": false
+  },
+  "Failed to check dependencies": {
+   "liczba": false
+  },
+  "Failed to remove archive": {
+   "liczba": false
+  },
+  "Install anyway (unsafe)": {
+   "liczba": false
+  },
+  "Install as variant of the existing mod": {
+   "liczba": false
+  },
+  "Install options": {
+   "liczba": false
+  },
+  "Install options - Name mod variant": {
+   "liczba": false
+  },
+  "Install Recommendations": {
+   "liczba": false
+  },
+  "Installation failed, archive is damaged": {
+   "liczba": false
+  },
+  "Installation of dependencies canceled": {
+   "liczba": false
+  },
+  "Installer reported errors": {
+   "liczba": false
+  },
+  "Installer unsupported": {
+   "liczba": false
+  },
+  "Invalid installer": {
+   "liczba": false
+  },
+  "Invalid mod installer instructions": {
+   "liczba": false
+  },
+  "Manually Select": {
+   "liczba": false
+  },
+  "Name cannot contain path separators or any of these characters: / \\ : * ? \" < > |": {
+   "liczba": false
+  },
+  "nested: {{modName}}": {
+   "liczba": false
+  },
+  "Not downloaded yet": {
+   "liczba": false
+  },
+  "Password Protected": {
+   "liczba": false
+  },
+  "Please install them manually": {
+   "liczba": false
+  },
+  "Pre-populate installer options from existing mod": {
+   "liczba": false
+  },
+  "Remember my choice": {
+   "liczba": false
+  },
+  "Require Download & Install": {
+   "liczba": false
+  },
+  "Require Install": {
+   "liczba": false
+  },
+  "Resolving dependencies": {
+   "liczba": false
+  },
+  "Select Variant to Replace": {
+   "liczba": false
+  },
+  "The installer in \"{{name}}\" tried to install files that were not part of the archive.\n This can be due to an invalid mod or an invalid game extension installer.\nPlease report this to the mod author and/or the game extension developer.": {
+   "liczba": false
+  },
+  "The installer uses unimplemented functions": {
+   "liczba": false
+  },
+  "The mod \"{{modName}}\" has a dependency on \"{{refName}}\" which Vortex is not able to fulfill automatically.\n\nVery likely Vortex would also not recognize the rule as fulfilled even if you did install it manually. Therefore the rule has been disabled.\n\nPlease consult the mod instructions on if and how to solve this dependency.": {
+   "liczba": false
+  },
+  "This installer is (partially) unsupported as it's using functionality that hasn't been implemented yet. Please help us fix this by submitting an error report with a link to this mod.": {
+   "liczba": false
+  },
+  "Unfulfillable rule disabled": {
+   "liczba": false
+  },
+  "Unfulfillable rule dropped": {
+   "liczba": false
+  },
+  "Unsafe Mod Detected": {
+   "liczba": false
+  },
+  "Updating may break dependencies": {
+   "liczba": false
+  },
+  "Use this name for all remaining variants ({{count}} more)": {
+   "liczba": true
+  },
+  "Version: {{version}}; InstallTime: {{installTime}}; Variant: {{variant}}": {
+   "liczba": false
+  },
+  "Will be enabled": {
+   "liczba": false
+  },
+  "You're updating a mod that others depend upon and the update doesn't seem to be compatible (according to the dependency information). If you continue we have to disable these dependencies, otherwise you'll continually get warnings about it.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/mod_management/LinkingDeployment.ts": {
+  "Are you sure you want to cancel? This will leave backup files unrestored, you will have to clean those up manually.": {
+   "liczba": false
+  },
+  "Failed to clean up": {
+   "liczba": false
+  },
+  "Keep Existing File": {
+   "liczba": false
+  },
+  "Really cancel": {
+   "liczba": false
+  },
+  "Restore Vortex Backup": {
+   "liczba": false
+  },
+  "Vortex is attempting to restore the below game file using a backup it generated during a deployment event, but the game file appears to already exist - this usually happens when Vortex is used alongside other mod managers or when the user manipulates the game files manually.\n\nIf you choose to restore the Vortex backup, Vortex will erase the existing file and restore the backup; alternatively you can choose to keep the existing file.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/mod_management/modActivation.ts": {
+  "The mod folder for this game is not writable to your user account.\nIf you have admin rights on this system, Vortex can change the permissions to allow it write access.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/mod_management/modAttributes.tsx": {
+  "Downloaded Time": {
+   "liczba": false
+  },
+  "Enabled Time": {
+   "liczba": false
+  },
+  "Installation Time": {
+   "liczba": false
+  },
+  "Never enabled": {
+   "liczba": false
+  },
+  "Time when this mod was enabled (in this profile)": {
+   "liczba": false
+  },
+  "Time when this mod was installed": {
+   "liczba": false
+  },
+  "Time when this mod's archive was downloaded": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/mod_management/modMerging.ts": {
+  "Some archives could not be merged": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/mod_management/preStartDeployHook.ts": {
+  "Deployment": {
+   "liczba": false
+  },
+  "Mod deployment {{more}} is pending.[br][/br]This means that changes made to mods such as updating, enabling/disabling, as well as newly set mod rules need to be deployed to take effect.[br][/br]You can skip this step, ignoring (but not reverting) newly made changes to mods and mod rules, or deploy now to commit the changes.": {
+   "liczba": false
+  },
+  "Pending deployment": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/mod_management/stagingDirectory.ts": {
+  "Mod Staging Folder invalid": {
+   "liczba": false
+  },
+  "Mod Staging Folder missing!": {
+   "liczba": false
+  },
+  "Purging mods": {
+   "liczba": false
+  },
+  "Select staging folder": {
+   "liczba": false
+  },
+  "The staging folder could not be created. You [b][color=red]have[/color][/b] to go to settings->mods and change it to a valid directory [b][color=red]before doing anything else[/color][/b] or you will get further error messages.": {
+   "liczba": false
+  },
+  "This directory is not marked as a staging folder. Are you *sure* it's the right directory?": {
+   "liczba": false
+  },
+  "This is a staging folder but it appears to belong to a different Vortex instance. If you're using Vortex in shared and \"regular\" mode, do not use the same staging folder for both!": {
+   "liczba": false
+  },
+  "Your mod staging folder \"{{path}}\" is missing. This might happen because you deleted it or - if you have it on a removable drive - it is not currently connected.\nIf you continue now, a new staging folder will be created but all your previously managed mods will be lost.\n\nIf you have moved the folder or the drive letter changed, you can browse for the new location manually, but please be extra careful to select the right folder!": {
+   "liczba": false
+  },
+  "Your mod staging folder \"{{path}}\" is not marked correctly. This may be ok if you've updated from a very old version of Vortex and you can ignore this.<br/>[b]However[/b], if you use a removable medium (network or USB drive) and that path does not actually point to your real staging folder, you [b]have[/b] to make sure the actual folder is available and tell Vortex where it is.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/mod_management/texts.ts": {
+  "A dependency rule can accept multiple versions of the same mod. In that case any of the matching versions is enough to satisfy the dependency. This can be useful for example if two mods have the same dependency but one of them doesn't work with the most current one. In that case we can install an older version of the dependency that works for both.\n\nFor details on how version ranges are specified you can google for \"semver ranges\" but the most common forms are:\n - \">=1.2.3\" means: All versions newer than or equal to 1.2.3\n - \"1.2.3 - 1.4.2\" means: All versions between and including 1.2.3 and 1.4.2\n - \"^1.2.3\" means: All versions >= 1.2.3 but < 2.0.0 (not including 2.0.0!)\n - \"1.2.x\" means: All versions >= 1.2.0 and < 1.3.0": {
+   "liczba": false
+  },
+  "A file conflict happens every time two mods contain the same file so one mod has to overwrite the other. This is a very common occurrence in modding.\n\nWhen installing mods manually or through NMM you're asked during mod installation whether to overwrite files or not but with Vortex you make that choice after the installation and you can change your choice at any time without reinstalling the mod.\n\nYou still need to choose though, otherwise files you deploy may be incompatible and the game could become unstable or have all sorts of errors.\n\nIf you don't know which order to use, look for instructions by the mod authors. If the instruction you get says 'Install mod x after mod y' this translates to a mod rule of 'mod x loads after mod y'.\n\nIf you can't find any information, a good rule of thumb is: Load the newest mod (the one released last) after the older one.": {
+   "liczba": false
+  },
+  "If you have multiple copies of the same mod installed (e.g. with different settings made) they will be merged into one line on the mod list between which you can toggle. Use the variant field to distinguish between them. E.g. you could have a \"1k\" and a \"2k\" variant of a mod installed.": {
+   "liczba": false
+  },
+  "The \"Source\" specifies where you got the mod. That source will be consulted for certain features, i.e. to find updates.\n\nOnly sources that are supported by Vortex can be selected.\nIf the mod was removed from the source it may make sense to select no source here to quiet error messages.": {
+   "liczba": false
+  },
+  "The downloads folder holds all mod archives you have downloaded with Vortex. It is shared across all games and includes a subfolder for each of them. e.g. if your downloads folder is set to\n\"D:\\Vortex Downloads\\\", archive files for Skyrim will be stored in: \"D:\\Vortex Downloads\\skyrim\\\".\nBy default Vortex will select a user data directory that is guaranteed to have write access.\nWhen changing the Downloads Folder, the downloads for all your games will be moved to the new location automatically. Make sure the new location has plenty of available space and that you have permission to write files to it.\nYou can use \"variables\" to save yourself some typing:\n - {USERDATA} is replaced with your user data directory.\ne.g. if your Windows account name is Mike,\n \"{USERDATA}\\Downloads\\\" will be converted to:\n\"C:\\Users\\Mike\\AppData\\Roaming\\Vortex\\Downloads\\\"": {
+   "liczba": false
+  },
+  "The file name of the archive which was used to install this mod. If this field is empty, the mod is no longer paired with an archive, probably because the archive was deleted.": {
+   "liczba": false
+  },
+  "To be able to match multiple versions of the same file we need a way to identify a set of related files. When the author provides a common name across all versions we use that, but in this case we need to work with expression matching.\n\nThis uses a so called \"glob pattern\". If you used dos or linux you probably know them:\nUse ? to stand in for any single character and * for any number of any character. So if your file name is \"SkyUI_5_1-3863-5-1\" you can change that to \"SkyUI_*-3863-*\" and it should match any version of SkyUI (The 3863 part is the mod id on Nexus so it should always be the same).": {
+   "liczba": false
+  },
+  "Version of the mod. A warning here means that the mod doesn't follow the recognized versioning standard but that just means Vortex may not be able to provide some of the more advanced features or they are slightly less convenient to use.\n\nVortex supports \"semantic versioning\" (see http://semver.org/) where a version consists of three numbers separated by dots like this: \"1.2.0\".\nIn semantic versioning the first number is the \"major\" version that gets incremented only on a big update that isn't compatible with previous versions so updating may break things (dependencies, save games).\nSecond number is called \"minor\" and gets incremented when new features were introduced.\nThird number is called \"patch\" and gets increased if there were only bugfixes.\nThus \"1.2.5\" should definitively be more stable than \"1.2.4\". \"1.3.0\" should have all the bugfixes of \"1.2.x\" so far but it also adds features so there could be new bugs.\nThese dots are NOT decimal marks, version 1.10.0 is (much) newer than 1.3.0.": {
+   "liczba": false
+  },
+  "Vortex uses default paths to store mods you download and install.\nIf you don't like these defaults or can't use them (i.e. because you need to use the hard link deployment method and the game is on a different drive) then use this input box to change the directories. Existing files will be moved to the new location automatically once you confirm the new paths.\nPlease make sure you have write permission to the new directories. Do NOT use your Vortex application directory!\n\nYou can use \"variables\" to save yourself some typing:\n - {GAME} is replaced with the id of the game\n - {USERDATA} is replaced with a platform dependent data directory that is guaranteed to have write access.\n\nExample: If you change the path to \"d:\\vortex_mods\\{GAME}\" and your active game is Skyrim then all your extracted mods will be in \"d:\\vortex_mods\\skyrim\".": {
+   "liczba": false
+  },
+  "When you install a mod through Vortex it is stored in a separate directory and has no immediate effect on the game. We call the process of actually placing the files into the game directory \"deployment\".\n\nThere are different methods available in Vortex to do this Deployment, the best one will usually get picked automatically, based on which game you're modding and your system configuration.\nAll methods have in common that deployment is way quicker than copying files and consumes no or very little additional disk space.\n\nBy default, deployment happens automatically after you enable/disable a mod.\nIf you want more control you can disable this automation and will then have to manually click a button to start the deployment.\n\nPlease note that parts of Vortex (i.e. the list of plugins for TES games) will only reflect the \"deployed\" state.": {
+   "liczba": false
+  },
+  "When you install a mod through Vortex, its files are stored separately and don't immediately affect the game. Deployment is the process Vortex uses to make those files available in the game directory.\n\nVortex supports different deployment methods and will usually choose the best one automatically based on the game and your system configuration. These methods are much faster than copying files and use little or no additional disk space.\n\nBy default, Vortex applies your changes automatically when you enable or disable a mod. You can turn this automation off if you prefer to make several changes first and then select Apply. Applying your changes will run the required deployment process.\n\nSome parts of Vortex, such as the plugins list for Bethesda games, only reflect changes once they have been applied.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/mod_management/util/activationStore.ts": {
+  "IMPORTANT: This game was modded by another instance of Vortex.\n\nIf you switch between different instances (or between shared and single-user mode) it's better if you purge mods before switching.\n\nVortex can try to clean up now but this is less reliable (*) than doing it from the instance that deployed the files in the first place.\n\nIf you modified any files in the game directory you should back them up before continuing.\n\n(*) This purge relies on a manifest of deployed files, created by that other instance. Files that have been changed since that manifest was created won't be removed to prevent data loss. If the manifest is damaged or outdated the purge may be incomplete. When purging from the \"right\" instance the manifest isn't required, it can reliably deduce which files need to be removed.": {
+   "liczba": false
+  },
+  "IMPORTANT: This game was modded by another instance of Vortex.\n\nVortex can only proceed by purging the mods from that other instance.\n\nThis will irreversibly **destroy** the mod installations from that other instance!\n\nYou should instead cancel now, open that other vortex instance and purge from there. This can also be caused by switching between shared and single-user mode.": {
+   "liczba": false
+  },
+  "Manifest damaged": {
+   "liczba": false
+  },
+  "Purge files from different instance?": {
+   "liczba": false
+  },
+  "Purge mod files?": {
+   "liczba": false
+  },
+  "Purging failed": {
+   "liczba": false
+  },
+  "Restore from backup": {
+   "liczba": false
+  },
+  "The deployment manifest has been corrupted.\nFortunately we have a backup that seems to be intact.": {
+   "liczba": false
+  },
+  "The game folder holds the only copy of these mod files. Purging deletes them permanently.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/mod_management/util/allTypesSupported.ts": {
+  "No deployment method selected": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/mod_management/util/basicInstaller.ts": {
+  "Success": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/mod_management/util/combine.ts": {
+  "Combine Mods": {
+   "liczba": false
+  },
+  "Combining these mods isn't possible": {
+   "liczba": false
+  },
+  "Combining these mods not possible": {
+   "liczba": false
+  },
+  "Failed to combine mods": {
+   "liczba": false
+  },
+  "No deployment method is currently configured for this game.": {
+   "liczba": false
+  },
+  "You are combining the mods listed below into the selected one.<br/>Please be aware that Vortex will then only track updates for the one mod that remains and if you do update or reinstall it, the other mods are gone.<br/>Thus we would suggest you [color=red]only use this to merge in patches/fixes[/color] that become obsolete with the next update anyway.<br/>If there are file conflicts between these mods they will be overwritten in the order specified by mod rules (same way as deployment would have).": {
+   "liczba": false
+  },
+  "You can only combine installed mods.": {
+   "liczba": false
+  },
+  "You can only combine mods that have the same mod type, otherwise they couldn't deploy correctly any more.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/mod_management/util/dependencies.ts": {
+  "Failed to gather dependencies": {
+   "liczba": false
+  },
+  "Failed to look up dependency": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/mod_management/util/deploy.ts": {
+  "Can't purge because game is not discovered": {
+   "liczba": false
+  },
+  "Can't purge while the game or a tool is running": {
+   "liczba": false
+  },
+  "Purging": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/mod_management/util/deploymentFailures.ts": {
+  "Files could not be deployed": {
+   "liczba": false
+  },
+  "Only the first {{count}} are listed, the log has the rest.": {
+   "liczba": false
+  },
+  "Some files could not be deployed": {
+   "liczba": false
+  },
+  "These files could not be written to the game directory, usually because another application had them open. Close it and deploy again.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/mod_management/util/ModHistory.ts": {
+  "Deployment finished": {
+   "liczba": false
+  },
+  "Deployment started": {
+   "liczba": false
+  },
+  "Disable mod": {
+   "liczba": false
+  },
+  "Enable mod": {
+   "liczba": false
+  },
+  "Mod \"{{ name }}\" attribute \"{{ attribute }}\" set: {{ to }}": {
+   "liczba": false
+  },
+  "Mod was disabled: {{ name }} (Profile: {{ profileName }})": {
+   "liczba": false
+  },
+  "Mod was enabled: {{ name }} (Profile: {{ profileName }})": {
+   "liczba": false
+  },
+  "Mod was installed: {{ name }}": {
+   "liczba": false
+  },
+  "Mod was uninstalled: {{ name }}": {
+   "liczba": false
+  },
+  "Revert to {{ from }}": {
+   "liczba": false
+  },
+  "Uninstall mod": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/mod_management/util/mods_table_views/modsTableViews.ts": {
+  "All mods": {
+   "liczba": false
+  },
+  "No {{column}}": {
+   "liczba": false
+  },
+  "No author": {
+   "liczba": false
+  },
+  "No collection": {
+   "liczba": false
+  },
+  "Updates": {
+   "liczba": false
+  }
+ }
+}

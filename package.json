@@ -1,0 +1,14 @@
+{
+  "name": "vortex-pl",
+  "private": true,
+  "description": "Polskie tłumaczenie interfejsu Vortex (Nexus Mods) 2.x",
+  "type": "module",
+  "scripts": {
+    "wyciagnij": "node scripts/wyciagnij.mjs",
+    "sprawdz": "node scripts/sprawdz.mjs",
+    "paczka": "node scripts/paczka.mjs"
+  },
+  "devDependencies": {
+    "typescript": "5.9.3"
+  }
+}

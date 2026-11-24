@@ -1,0 +1,1278 @@
+{
+ "src/renderer/src/extensions/settings_application/SettingsVortex.tsx": {
+  "Multi-User Mode": {
+   "liczba": false
+  },
+  "Per-User": {
+   "liczba": false
+  },
+  "Shared": {
+   "liczba": false
+  },
+  "You need to restart Vortex to activate this change": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/settings_application/texts.ts": {
+  "By default, every user account on your system has its own \"instance\" of Vortex with their own settings, mods, profiles and so on.\n\nIf you want to share these things between all users of your PC, you can toggle to \"Shared\" mode. In this mode all data will be stored in a global location and available to all users on this system.\n\nPlease note that this includes login credentials for Nexus Mods and other, potentially confidential, pieces of information you enter in Vortex.\n\nThis switch is not destructive. The data stored with your user account is not touched while you're in shared mode, so you can toggle back and forth.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/settings_interface/components/ZoomHotkeyIndicator.tsx": {
+  "Zoom in": {
+   "liczba": false
+  },
+  "Zoom out": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/settings_interface/languageOptions.ts": {
+  "Extension": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/settings_interface/SettingsInterface.tsx": {
+  "({{count}} notification is being suppressed)": {
+   "liczba": false
+  },
+  "{{percent}}%": {
+   "liczba": false
+  },
+  "{{percent}}% (Default)": {
+   "liczba": false
+  },
+  "Accessibility": {
+   "liczba": false
+  },
+  "Advanced": {
+   "liczba": false
+  },
+  "Always use compact headers": {
+   "liczba": false
+  },
+  "Automation": {
+   "liczba": false
+  },
+  "Bring Vortex to foreground when starting downloads in browser": {
+   "liczba": false
+  },
+  "Custom Window Title Bar": {
+   "liczba": false
+  },
+  "Customisation": {
+   "liczba": false
+  },
+  "Deploy Mods when Enabled": {
+   "liczba": false
+  },
+  "Disabling GPU acceleration will make the Vortex UI significantly less responsive in places.": {
+   "liczba": false
+  },
+  "Disabling Profile Management": {
+   "liczba": false
+  },
+  "Enable Desktop Notifications": {
+   "liczba": false
+  },
+  "Enable GPU Acceleration": {
+   "liczba": false
+  },
+  "Enable Mods when installed (in current profile)": {
+   "liczba": false
+  },
+  "Enable Profile Management": {
+   "liczba": false
+  },
+  "Hide Top-Level Category": {
+   "liczba": false
+  },
+  "Install Mods when downloaded": {
+   "liczba": false
+  },
+  "Keep page headers compact for less motion and more vertical space.": {
+   "liczba": false
+  },
+  "Language": {
+   "liczba": false
+  },
+  "Minimise non-essential animations and visual effects.": {
+   "liczba": false
+  },
+  "Notifications": {
+   "liczba": false
+  },
+  "Please be aware that toggling this only disables the interface for profiles, meaning profiles don't get deleted and an active profile doesn't get disabled. The last active profile for each game will still be used (i.e. its mod selection and local savegames).": {
+   "liczba": false
+  },
+  "Reduce motion": {
+   "liczba": false
+  },
+  "Reset suppressed notifications": {
+   "liczba": false
+  },
+  "Run Vortex when my computer starts": {
+   "liczba": false
+  },
+  "Start Vortex in the background (Minimized)": {
+   "liczba": false
+  },
+  "Tip: You can also zoom using Ctrl +/− or Ctrl + mouse wheel.": {
+   "liczba": false
+  },
+  "Top-Level Categories": {
+   "liczba": false
+  },
+  "Use relative times (e.g. \"3 months ago\")": {
+   "liczba": false
+  },
+  "When you select a language for the first time you may have to restart Vortex.": {
+   "liczba": false
+  },
+  "Zoom": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/settings_interface/texts.ts": {
+  "Categories are maintained as a tree, so for example the Category \"Audio\" could have child categories \"Effects\" and \"Music\". If you're using the Categories from Nexus, you will find that all categories have a rather useless \"root\" that corresponds to the game name, so the whole path would be \"Skyrim -> Audio -> Effects\".\nThis option will shorten the displayed category by hiding that root.": {
+   "liczba": false
+  },
+  "In advanced mode Vortex will show a couple of features that will be useful to experienced users but would either be confusing to new users or could be used to break things if used incorrectly or accidentally. Hence they are disabled by default.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/settings_metaserver/SettingsMetaserver.tsx": {
+  "Add a Metaserver": {
+   "liczba": false
+  },
+  "Meta Server": {
+   "liczba": false
+  },
+  "Servers to query for meta data.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/settings_metaserver/texts.ts": {
+  "A meta server provides additional information about mods, giving you more details and dependency information about them. By default you get this data from nexusmods.com but it's possible for others to set up their own servers and then you can add those here to use them.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/starter_dashlet/AddToolButton.tsx": {
+  "Add Tool": {
+   "liczba": false
+  },
+  "New...": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/starter_dashlet/EnvButton.tsx": {
+  "Key": {
+   "liczba": false
+  },
+  "Value": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/starter_dashlet/ToolButton.tsx": {
+  "Not configured": {
+   "liczba": false
+  },
+  "Run": {
+   "liczba": false
+  },
+  "Running...": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/starter_dashlet/ToolEditDialog.tsx": {
+  "Command Line": {
+   "liczba": false
+  },
+  "Command Line Parameters": {
+   "liczba": false
+  },
+  "Environment Variables": {
+   "liczba": false
+  },
+  "Hide Vortex": {
+   "liczba": false
+  },
+  "Hide Vortex, restore when closed": {
+   "liczba": false
+  },
+  "If (and only if!) a tool is written as a console application, you have to enable this to allow it to run correctly.": {
+   "liczba": false
+  },
+  "Nothing": {
+   "liczba": false
+  },
+  "On Start": {
+   "liczba": false
+  },
+  "On Start behavior": {
+   "liczba": false
+  },
+  "Run detached": {
+   "liczba": false
+  },
+  "Run in shell": {
+   "liczba": false
+  },
+  "Run the tool as a detached process (default). When you disable this the game/tool will run as a child process and thus if Vortex quits, the tool will also be terminated.": {
+   "liczba": false
+  },
+  "Select image": {
+   "liczba": false
+  },
+  "Select the executable first": {
+   "liczba": false
+  },
+  "Start In": {
+   "liczba": false
+  },
+  "Target": {
+   "liczba": false
+  },
+  "Tools with environments can't be started from the \"Tasks\" list": {
+   "liczba": false
+  },
+  "Use these options if you don't want to leave the Vortex window open while the game is running. In some games this may be necessary to avoid performance problems.\n\nThe \"Close Vortex\" option will close Vortex entirely, meaning it will not use any system resources. This is not usually necessary.\nThe hide options will hide Vortex to the system tray so the window isn't rendered at all.\nWith the \"restore when closed\" option the Vortex window will automatically reappear. Please be aware that this option will not work correctly if you start the game via a \"proxy\", e.g. the script extenders for Elder Scrolls/Fallout games because Vortex will reappear as soon as the proxy closes.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/starter_dashlet/Tools.tsx": {
+  "When you are managing a game, supported tools will appear here": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/sticky_mods/index.ts": {
+  "{{ modName }} is \"sticky\". Disabling it at a later time will probably  make all savegames created with it unusable. Keep a backup!": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/support_bundle/views/SupportBundleDialog.tsx": {
+  "dialog::archiveReady": {
+   "liczba": false
+  },
+  "dialog::building": {
+   "liczba": false
+  },
+  "dialog::buttons::cancel": {
+   "liczba": false
+  },
+  "dialog::buttons::close": {
+   "liczba": false
+  },
+  "dialog::buttons::open": {
+   "liczba": false
+  },
+  "dialog::buttons::tryAgain": {
+   "liczba": false
+  },
+  "dialog::failed": {
+   "liczba": false
+  },
+  "dialog::intro": {
+   "liczba": false
+  },
+  "dialog::links::discord": {
+   "liczba": false
+  },
+  "dialog::links::forums": {
+   "liczba": false
+  },
+  "dialog::sendTo": {
+   "liczba": false
+  },
+  "dialog::title": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/symlink_activator_elevate/index.ts": {
+  "call successful": {
+   "liczba": false
+  },
+  "Clean up": {
+   "liczba": false
+  },
+  "Disable Workaround": {
+   "liczba": false
+  },
+  "Due to a bug you have to disable and re-enable the Workaround \"Allow Symlinks without elevation\"": {
+   "liczba": false
+  },
+  "Elevation not required on non-windows systems": {
+   "liczba": false
+  },
+  "Failed to change privilege": {
+   "liczba": false
+  },
+  "Failed to create task": {
+   "liczba": false
+  },
+  "Failed to deploy using symlinks": {
+   "liczba": false
+  },
+  "Failed to disable task": {
+   "liczba": false
+  },
+  "Failed to remove task": {
+   "liczba": false
+  },
+  "I am sorry for the inconvenience": {
+   "liczba": false
+  },
+  "No need to use the elevated variant, use the regular symlink deployment": {
+   "liczba": false
+  },
+  "Symlink elevation workaround disabled": {
+   "liczba": false
+  },
+  "Symlink elevation workaround not fully disabled": {
+   "liczba": false
+  },
+  "Symlinks are not supported": {
+   "liczba": false
+  },
+  "Unknown error": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/symlink_activator_elevate/Settings.tsx": {
+  "Allow Symlinks without elevation": {
+   "liczba": false
+  },
+  "Allow Symlinks without elevation (old mechanism, pre Vortex v1.4.3)": {
+   "liczba": false
+  },
+  "Create Task": {
+   "liczba": false
+  },
+  "Symlinks": {
+   "liczba": false
+  },
+  "This feature doesn't seem to be supported on your system: {{reason}}": {
+   "liczba": false
+  },
+  "You have to log out the user account or reboot windows for this change to be applied.": {
+   "liczba": false
+  },
+  "You have two ways to get rid of the need to confirm the UAC dialog whenever you deploy mods, both have drawbacks!\nFirst, you can go to windows Settings -> \"Update & Security\" -> \"For developers\" and enable \"Developer Mode\". This will however also install some software and services that you don't actually need as a regular user. If you want to go this route you should cancel now, quit Vortex and restart after enabling \"Developer Mode\".\nThe other option is for Vortex to set up a global task in windows that has the increased permissions and can be triggered by your regular account. You'd only have to confirm the UAC dialog once (every time you toggle this setting). The drawback is that this might be a security risk if anyone gets control of your windows account.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/symlink_activator/index.ts": {
+  "Filesystem doesn't support symbolic links.": {
+   "liczba": false
+  },
+  "Filesystem doesn't support symbolic links. Error: \"{{error}}\"": {
+   "liczba": false
+  },
+  "Game doesn't support symlinks": {
+   "liczba": false
+  },
+  "Incompatible with \"{{name}}\".": {
+   "liczba": false
+  },
+  "Requires admin rights on windows.": {
+   "liczba": false
+  },
+  "Symbolic links are special files containing a reference to another file. They are supported directly by the low-level API of the operating system so any application trying to open a symbolic link will actually open the referenced file unless the application asks specifically to not be redirected.\nAdvantages:\n - good compatibility and availability\n - can link across partitions (unlike hard links)\n - an application that absolutely needs to know can recognize a symlink (unlike hard links)\nDisadvantages:\n - some games and applications refuse to work with symbolic links for no good reason.\n - On windows you need admin rights to create a symbolic link, even when your regular account has write access to source and destination.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/test_runner/index.ts": {
+  "Check failed": {
+   "liczba": false
+  },
+  "Failed to run automatic fix": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/updater/index.ts": {
+  "Checking for updates...": {
+   "liczba": false
+  },
+  "Downgrade to stable?": {
+   "liczba": false
+  },
+  "Restart Now": {
+   "liczba": false
+  },
+  "Stay on current version": {
+   "liczba": false
+  },
+  "View changes": {
+   "liczba": false
+  },
+  "Vortex update failed": {
+   "liczba": false
+  },
+  "Vortex will update on restart": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/updater/SettingsUpdate.tsx": {
+  "Beta": {
+   "liczba": false
+  },
+  "Check now": {
+   "liczba": false
+  },
+  "Checking...": {
+   "liczba": false
+  },
+  "Development versions of Vortex can be unstable and cause irreparable damage to your modding environment. \n\nWe recommend using the Beta channel only if you are comfortable with the risks and are willing to report any issues you encounter. We don't recommend downgrading back from beta to stable.\n\nAre you sure you want to switch to the Beta update channel?": {
+   "liczba": false
+  },
+  "Downloading...": {
+   "liczba": false
+  },
+  "No automatic updates": {
+   "liczba": false
+  },
+  "Stable": {
+   "liczba": false
+  },
+  "Switch to Beta": {
+   "liczba": false
+  },
+  "Switching to Beta update channel": {
+   "liczba": false
+  },
+  "This will stop notifications about Vortex updates.\n\nThis is not recommended as important security and stability updates are released regularly.\n\nAre you sure you want to turn off updates?": {
+   "liczba": false
+  },
+  "Turn off updates": {
+   "liczba": false
+  },
+  "Turning off updates": {
+   "liczba": false
+  },
+  "Update Channel": {
+   "liczba": false
+  },
+  "Updates are off in development mode. Set VORTEX_DEV_UPDATER=1 before starting Vortex to turn them on.": {
+   "liczba": false
+  },
+  "Very old versions of Vortex will be locked out of network features eventually so please do keep Vortex up-to-date.": {
+   "liczba": false
+  },
+  "Vortex is running in development mode. Updates will be checked and downloaded but can't be installed.": {
+   "liczba": false
+  },
+  "Vortex was installed through a third-party service which will take care of updating it.": {
+   "liczba": false
+  },
+  "You can choose to either receive automatic updates only after they went through some community testing (Stable) or to always get the newest features (Beta). Manual checking for updates is restricted to once per minute.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/updater/whats_new_dialog/WhatsNewDialog.tsx": {
+  "A new version of Vortex is available.": {
+   "liczba": false
+  },
+  "No release notes are available for this update.": {
+   "liczba": false
+  },
+  "What's New in {{version}}": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/vortex_benchmarks/benchmarks/filesystemEnumerate.ts": {
+  "Directory": {
+   "liczba": false
+  },
+  "Iterations": {
+   "liczba": false
+  },
+  "Recursively enumerates and counts all files in a directory through window.api.fs, with and without includeStatus. Point it at a directory with many small files, like a pnpm store.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/extensions/vortex_benchmarks/index.ts": {
+  "Benchmarks": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/IPCDownloadAdapter.ts": {
+  "File already downloaded": {
+   "liczba": false
+  },
+  "Re-download": {
+   "liczba": false
+  },
+  "Use existing": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/menu.ts": {
+  "Copy missing translations to clipboard": {
+   "liczba": false
+  },
+  "File": {
+   "liczba": false
+  },
+  "Performance": {
+   "liczba": false
+  },
+  "Profiling": {
+   "liczba": false
+  },
+  "Profiling done": {
+   "liczba": false
+  },
+  "Record missing translations": {
+   "liczba": false
+  },
+  "Reset Zoom": {
+   "liczba": false
+  },
+  "Reset Zoom (hidden)": {
+   "liczba": false
+  },
+  "Start/Stop Profiling": {
+   "liczba": false
+  },
+  "Stop (Ctrl+Shift+Alt+P)": {
+   "liczba": false
+  },
+  "Toggle Developer Tools": {
+   "liczba": false
+  },
+  "Zoom In": {
+   "liczba": false
+  },
+  "Zoom In (hidden)": {
+   "liczba": false
+  },
+  "Zoom Out": {
+   "liczba": false
+  },
+  "Zoom Out (hidden)": {
+   "liczba": false
+  },
+  "Zoom: {{factor}}%": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/renderer.tsx": {
+  "Application State Corrupted": {
+   "liczba": false
+  },
+  "Application state is invalid. You can try to repair it but you may lose some data.": {
+   "liczba": false
+  },
+  "Failed to update application state": {
+   "liczba": false
+  },
+  "Unhandled exception in extension": {
+   "liczba": false
+  },
+  "Vortex is using a lot of memory and may crash": {
+   "liczba": false
+  },
+  "Vortex isn't set up to handle this protocol: {{url}}": {
+   "liczba": false
+  },
+  "Your system has run out of memory. This only happens if both your physical and virtual memory have run out": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/test-utils/builders.ts": {
+  "A test extension": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/ui/components/display_options/useDisplayOptionsAction.hook.tsx": {
+  "Display options": {
+   "liczba": false
+  },
+  "Reset to default": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/ui/components/form/field/Label.tsx": {
+  "(Required)": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/ui/components/game_tile/GameTile.tsx": {
+  "Community supported": {
+   "liczba": false
+  },
+  "Epic": {
+   "liczba": false
+  },
+  "Game supported by {{name}}": {
+   "liczba": false
+  },
+  "Origin": {
+   "liczba": false
+  },
+  "Steam": {
+   "liczba": false
+  },
+  "Ubisoft": {
+   "liczba": false
+  },
+  "Xbox": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/ui/components/pagination/JumpToPage.tsx": {
+  "Jump to page": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/ui/components/pagination/Pagination.tsx": {
+  "Next page": {
+   "liczba": false
+  },
+  "Previous page": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/ui/components/prose/external_image_placeholder/ExternalImagePlaceholder.tsx": {
+  "“{{alt}}”": {
+   "liczba": false
+  },
+  "{{count}} external images": {
+   "liczba": true
+  },
+  "{{count}} external images with links": {
+   "liczba": true
+  },
+  "{{hosts}}, +{{more}} more": {
+   "liczba": false
+  },
+  "External image": {
+   "liczba": false
+  },
+  "External image from {{from}} · not shown in Vortex": {
+   "liczba": false
+  },
+  "From {{from}} · not shown in Vortex": {
+   "liczba": false
+  },
+  "Linked external image": {
+   "liczba": false
+  },
+  "Linked image “{{alt}}”": {
+   "liczba": false
+  },
+  "Links to": {
+   "liczba": false
+  },
+  "Mod authors: how to host media on Nexus Mods": {
+   "liczba": false
+  },
+  "View on website": {
+   "liczba": false
+  },
+  "Vortex only loads images stored on Nexus Mods. Images from other sites could be swapped for something harmful or used to track you, and an app doesn't have the same protections as your web browser.": {
+   "liczba": false
+  },
+  "Why isn't this image shown?": {
+   "liczba": false
+  },
+  "Why?": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/ui/components/prose/prose_spoiler/ProseSpoiler.tsx": {
+  "Spoiler": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/ui/components/table/table_selection_bar/TableSelectionBar.tsx": {
+  "{{count}} selected": {
+   "liczba": true
+  },
+  "Deselect all": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/ui/components/table/Table.tsx": {
+  "{{name}} group actions": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/ui/components/table/TableGroupMenu.tsx": {
+  "Deselect all in group": {
+   "liczba": false
+  },
+  "Select all in group": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/ui/components/table/useTableSelection.hook.ts": {
+  "Select {{name}}": {
+   "liczba": false
+  },
+  "Select all": {
+   "liczba": false
+  },
+  "Select row": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/ui/components/toolbar/toolbar_search/ToolbarSearch.tsx": {
+  "Close search": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/ui/components/toolbar/ToolbarMenu.tsx": {
+  "Pin {{name}} to the row": {
+   "liczba": false
+  },
+  "Pin {{name}} to the toolbar": {
+   "liczba": false
+  },
+  "Reset pins to default": {
+   "liczba": false
+  },
+  "Unpin {{name}} from the row": {
+   "liczba": false
+  },
+  "Unpin {{name}} from the toolbar": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/ui/components/toolbar/ToolbarOverflow.tsx": {
+  "More actions": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/ui/components/view_picker/ViewPicker.tsx": {
+  "{{name}} view actions": {
+   "liczba": false
+  },
+  "Add view": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/util/errorHandling.ts": {
+  "Extension crashed": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/util/fs.ts": {
+  "Access denied": {
+   "liczba": false
+  },
+  "Access denied (2)": {
+   "liczba": false
+  },
+  "Disk access failed repeatedly. If this is a removable disk (like a network or external drive), please ensure it's connected. Otherwise this may indicate filesystem corruption, you may want to run chkdsk or similar software to scan for problems.": {
+   "liczba": false
+  },
+  "Disk full": {
+   "liczba": false
+  },
+  "File busy": {
+   "liczba": false
+  },
+  "I/O Error": {
+   "liczba": false
+  },
+  "Operation can't continue because the disk is full. Please free up some space and click retry. Cancelling the transfer operation at this point will remove any changes and revert back to the previous state.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/util/GameStoreHelper.ts": {
+  "Failed to launch game store": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/util/message.ts": {
+  "A DLL failed to load. This usually happens because an Antivirus tool has incorrectly quarantined or locked it.": {
+   "liczba": false
+  },
+  "A general I/O error was reported. This may indicate a hardware defect or a removable medium got disconnected, sometimes it may also be caused by the disk being almost full.": {
+   "liczba": false
+  },
+  "A network SSL error occurred. If this problem persists, please update and review any network-related security software in your system (Anti Virus, Firewall, Proxies, ...)": {
+   "liczba": false
+  },
+  "A secure connection could not be established because the server certificate is not valid. In most cases this happens when the date or time on your computer is incorrect. It can also be caused by problems with your internet provider, antivirus software interfering with certificates, or in rare cases by malicious software on your system.": {
+   "liczba": false
+  },
+  "An unknown error occurred. What this means is that Windows or the framework don't provide any useful information to diagnose this problem. Please do not report this issue without saying what exactly you were doing.": {
+   "liczba": false
+  },
+  "Download stalled": {
+   "liczba": false
+  },
+  "Encountered an invalid SSL certificate. If this happens on a network connection to a server that has a proper certificate (like the Nexus Mods API) it may indicate a significant security issue in your system.": {
+   "liczba": false
+  },
+  "Network address \"{{host}}\" could not be resolved. This is often a temporary error, please try again later.": {
+   "liczba": false
+  },
+  "Network address \"{{host}}\" not found.": {
+   "liczba": false
+  },
+  "Network connect was not permitted, please check your firewall settings": {
+   "liczba": false
+  },
+  "Network connection aborted by the server.": {
+   "liczba": false
+  },
+  "Network connection closed unexpectedly.": {
+   "liczba": false
+  },
+  "Network connection refused.": {
+   "liczba": false
+  },
+  "Network connection timed out, please try again.": {
+   "liczba": false
+  },
+  "Network connection to \"{{address}}\" timed out, please try again.": {
+   "liczba": false
+  },
+  "Network protocol error. This is usually a temporary error, please try again later.": {
+   "liczba": false
+  },
+  "Network server not reachable.": {
+   "liczba": false
+  },
+  "No supported deployment method selected, please review the deployment settings in Settings->Mods": {
+   "liczba": false
+  },
+  "Please check your internet connection or, if you are a premium member, try a different preferred download location within your account´s Site Preferences": {
+   "liczba": false
+  },
+  "Reporting to extension author": {
+   "liczba": false
+  },
+  "Since this error was very likely caused by a third-party extension, we will now take you to their issue tracker at [b]{{url}}[/b].<br/><br/>It usually helps a lot investigating issues if you provide your log files (found at [url]{{logPath}}[/url]) but please do keep in mind that those can contain personally identifiable information (like folder names that include your windows account name) or stuff like information about mods you are using.": {
+   "liczba": false
+  },
+  "Temporary name resolution error, please try again later.": {
+   "liczba": false
+  },
+  "The disk is full": {
+   "liczba": false
+  },
+  "The DLL \"{{fileName}}\" failed to load. This usually happens because an Antivirus tool has incorrectly quarantined or locked it.": {
+   "liczba": false
+  },
+  "The filesystem is read-only.": {
+   "liczba": false
+  },
+  "Vortex expected a directory but found a file.": {
+   "liczba": false
+  },
+  "Vortex expected a file but found a directory: \"{{path}}\".": {
+   "liczba": false
+  },
+  "Vortex tried to access \"{{filePath}}\" but it doesn't exist.": {
+   "liczba": false
+  },
+  "Vortex was denied access to \"{{filePath}}\".\nPlease check the permissions of this file or directory.": {
+   "liczba": false
+  },
+  "You have exceeded the daily or hourly rate limit. Visit \"help.nexusmods.com\" and search for \"Rate limit\" for more information. Please try again later.": {
+   "liczba": false
+  },
+  "Your OAuth token has either expired or has been revoked, please log in again to generate a new token.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/util/migrate.ts": {
+  "forcing logout for anything pre-oauth, and deprecating apikey logins": {
+   "liczba": false
+  },
+  "install path is now in a different spot of the store": {
+   "liczba": false
+  },
+  "Migration necessary": {
+   "liczba": false
+  },
+  "Move downloads saved under Nexus domain folders (e.g. skyrimspecialedition) to the internal-id folder (skyrimse) used by the rest of Vortex.": {
+   "liczba": false
+  },
+  "Repair mod and download names polluted with CDN storage paths (\"5c/d3/1f/<guid>\") by 2.4.0-beta.1.": {
+   "liczba": false
+  },
+  "Select empty directory to store downloads": {
+   "liczba": false
+  },
+  "Switch to Modern UI layout for 2.0": {
+   "liczba": false
+  },
+  "The directory structure for downloads was changed so we need to move them. Please note: there will be no progress indication, please be patient.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/util/nativeErrors.ts": {
+  "Accessing \"{{filePath}}\" failed with an error that indicates a hardware problem. This may indicate the disk is defective, if it's a network or cloud drive it may simply indicate temporary network or server problems. Please do not report this to us, this is not a bug in Vortex and we can not provide remote assistance with hardware problems.": {
+   "liczba": false
+  },
+  "Accessing \"{{filePath}}\" failed with an error that indicates file system corruption. If this isn't a temporary problem you may want to run chkdsk or similar software to check for problems. It may also help to reinstall the software that this file belongs to.": {
+   "liczba": false
+  },
+  "Anti Virus denied access": {
+   "liczba": false
+  },
+  "Internal error": {
+   "liczba": false
+  },
+  "Not enough quota": {
+   "liczba": false
+  },
+  "The file \"{{filePath}}\" is currently not accessible, very possibly the network share as a whole is inaccessible due to a network problem or the server being offline.": {
+   "liczba": false
+  },
+  "The file \"{{filePath}}\" is currently not accessible. If this is a network drive, please make sure it's connected. Otherwise make sure the drive letter hasn't changed and if necessary, update the path within Vortex.": {
+   "liczba": false
+  },
+  "The file \"{{filePath}}\" is stored on a cloud storage drive (Microsoft OneDrive) which is currently unavailable. Please check your internet connection and verify the service is running, then retry.": {
+   "liczba": false
+  },
+  "The operation could not be completed because the volume is dirty. Please run chkdsk and try again.": {
+   "liczba": false
+  },
+  "The operation failed with an internal (internal to windows) error. No further error information is available to us.": {
+   "liczba": false
+  },
+  "The operation failed with an unknown windows error code.": {
+   "liczba": false
+  },
+  "Volume dirty": {
+   "liczba": false
+  },
+  "Windows reported an error message regarding \"{{filePath}}\" that indicates the containing folder has limitations that make it unsuitable for what it's being used. A common example of this is if you try to put the staging folder on a OneDrive folder because OneDrive can't deal with hardlinks.": {
+   "liczba": false
+  },
+  "Windows reported insufficient quota writing to \"{{filePath}}\".": {
+   "liczba": false
+  },
+  "Your Anti-Virus Software has blocked access to \"{{filePath}}\".": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/util/relativeTime.ts": {
+  "{{ count }} day ago": {
+   "liczba": true
+  },
+  "{{ count }} hour ago": {
+   "liczba": true
+  },
+  "{{ count }} minute ago": {
+   "liczba": true
+  },
+  "{{ count }} month ago": {
+   "liczba": true
+  },
+  "{{ count }} week ago": {
+   "liczba": true
+  },
+  "{{ count }} year ago": {
+   "liczba": true
+  },
+  "seconds ago": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/util/runElevatedCustomTool.ts": {
+  "Elevation Error": {
+   "liczba": false
+  },
+  "start tool elevated": {
+   "liczba": false
+  },
+  "tool finished": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/util/StarterInfo.ts": {
+  "An Application/Tool dependency is missing, please consult the Application/Tool documentation for required dependencies.": {
+   "liczba": false
+  },
+  "Executable doesn't exist, please check the configuration for the tool you tried to start.": {
+   "liczba": false
+  },
+  "File is not executable, please check the configuration for the tool you tried to start.": {
+   "liczba": false
+  },
+  "Report this to the community extension author, not Vortex support!": {
+   "liczba": false
+  },
+  "The executable is running in the background or is being locked by an external application. Please close any running instances of the tool/game and/or external applications which may be locking the executable and retry.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/util/storeLookup.ts": {
+  "Game store is not installed": {
+   "liczba": false
+  },
+  "Please install/reinstall {{storeId}} to be able to launch this game store.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/views/components/dev_tools/DevToolsMenu.tsx": {
+  "Dev tools": {
+   "liczba": false
+  },
+  "Game art": {
+   "liczba": false
+  },
+  "Light theme": {
+   "liczba": false
+  },
+  "Modern layout": {
+   "liczba": false
+  },
+  "Query devtools": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/views/components/Header/Header.tsx": {
+  "Collapse menu": {
+   "liczba": false
+  },
+  "Open menu": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/views/components/Header/help/HelpMenu.tsx": {
+  "Help": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/views/components/Header/help/useHelpMenu.hook.tsx": {
+  "Create support bundle": {
+   "liczba": false
+  },
+  "Help centre": {
+   "liczba": false
+  },
+  "View logs": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/views/components/Header/premium/PremiumIndicator.tsx": {
+  "Go premium": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/views/components/Header/profile/ProfileSection.tsx": {
+  "Account": {
+   "liczba": false
+  },
+  "Refresh user info": {
+   "liczba": false
+  },
+  "View profile on web": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/views/components/Header/StagingIndicator.tsx": {
+  "STAGING": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/views/components/Header/WindowControls.tsx": {
+  "Minimize": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/views/components/modal_layer/ModalLayer.tsx": {
+  "Copied to clipboard": {
+   "liczba": false
+  },
+  "Copy message": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/views/components/Spine/download_button/DownloadFlyout.tsx": {
+  "{{time}} remaining": {
+   "liczba": false
+  },
+  "+{{ count }} more": {
+   "liczba": true
+  },
+  "Calculating time remaining...": {
+   "liczba": false
+  },
+  "Downloading {{name}}": {
+   "liczba": false
+  },
+  "Paused {{percent}}% remaining": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/views/Dialog.tsx": {
+  "Hide Details": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/views/GameSettings.tsx": {
+  "No game-specific settings available.": {
+   "liczba": false
+  },
+  "Nothing to configure.": {
+   "liczba": false
+  },
+  "Settings for {{game}}.": {
+   "liczba": false
+  },
+  "Settings specific to the game you are managing.": {
+   "liczba": false
+  },
+  "This game has no specific settings in this category.": {
+   "liczba": false
+  },
+  "Vortex settings": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/views/layout/menu/components/apply_button/ApplyButton.tsx": {
+  "Apply your mod changes to the game": {
+   "liczba": false
+  },
+  "Applying": {
+   "liczba": false
+  },
+  "Applying mod changes": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/views/layout/menu/components/DownloadsMenuContent.tsx": {
+  "All downloads": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/views/layout/menu/components/play_button/PlayButton.tsx": {
+  "Launch with": {
+   "liczba": false
+  },
+  "Play": {
+   "liczba": false
+  },
+  "Play {{game}}": {
+   "liczba": false
+  },
+  "Waiting for mod changes to apply": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/views/layout/ProfileSwitcher.tsx": {
+  "Switching to Profile: {{name}}": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/views/layout/Sidebar.tsx": {
+  "General": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/views/MainPageContainer.tsx": {
+  "Unavailable": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/views/Notification.tsx": {
+  "{{ count }} More": {
+   "liczba": true
+  },
+  "Dismiss All": {
+   "liczba": false
+  },
+  "Never show again": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/views/NotificationButton.tsx": {
+  "<Multiple>": {
+   "liczba": false
+  },
+  "No Notifications": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/views/pages/Tools/index.tsx": {
+  "Add tool": {
+   "liczba": false
+  },
+  "Default launcher": {
+   "liczba": false
+  },
+  "Max pinned tools reached ({{count}}/{{max}})": {
+   "liczba": true
+  },
+  "Pin shortcuts to your most used tools in the left menu": {
+   "liczba": false
+  },
+  "Pin shortcuts to your most used tools in the left menu.": {
+   "liczba": false
+  },
+  "Pinned tools {{count}}/{{max}}": {
+   "liczba": true
+  },
+  "Runs instead of the game when you hit Play": {
+   "liczba": false
+  },
+  "Runs instead of the game when you hit Play.": {
+   "liczba": false
+  },
+  "Tools are external programs or launch options used alongside the game.": {
+   "liczba": false
+  },
+  "Use the + button to add a new tool": {
+   "liczba": false
+  },
+  "Use the + button to add a new tool.": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/views/pages/Tools/ToolRow.tsx": {
+  "Already at the bottom": {
+   "liczba": false
+  },
+  "Already at the top": {
+   "liczba": false
+  },
+  "Launch tool": {
+   "liczba": false
+  },
+  "Move down": {
+   "liczba": false
+  },
+  "Move up": {
+   "liczba": false
+  },
+  "Pin tool": {
+   "liczba": false
+  },
+  "Remove default launcher": {
+   "liczba": false
+  },
+  "Set as default launcher": {
+   "liczba": false
+  },
+  "Unpin tool": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/views/QuickLauncher.tsx": {
+  "<None>": {
+   "liczba": false
+  },
+  "Launch": {
+   "liczba": false
+  },
+  "No other games managed": {
+   "liczba": false
+  }
+ },
+ "src/renderer/src/views/Settings.tsx": {
+  "Configure Vortex and manage your preferences.": {
+   "liczba": false
+  },
+  "Other games may require settings here.": {
+   "liczba": false
+  }
+ }
+}

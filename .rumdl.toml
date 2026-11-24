@@ -1,0 +1,5 @@
+[MD013]
+# słownik i README mają długie zdania i tabele; 140 jak szerokość edytora
+line-length = 140
+tables = false
+code-blocks = false

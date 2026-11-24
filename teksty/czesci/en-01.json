@@ -1,0 +1,1338 @@
+{
+ "extensions/changelog-dashlet/src/ChangelogDashlet.tsx": {
+  "What's New": {
+   "liczba": false
+  }
+ },
+ "extensions/changelog-dashlet/src/index.ts": {
+  "Changelog": {
+   "liczba": false
+  }
+ },
+ "extensions/documentation/src/controls/TutorialButton.tsx": {
+  "Dismiss": {
+   "liczba": false
+  },
+  "More Videos by {{author}}": {
+   "liczba": false
+  },
+  "Playing this video will store cookies on your device": {
+   "liczba": false
+  },
+  "YouTube video player": {
+   "liczba": false
+  }
+ },
+ "extensions/documentation/src/controls/TutorialDropdown.tsx": {
+  "Tutorials": {
+   "liczba": false
+  }
+ },
+ "extensions/documentation/src/index.tsx": {
+  "Knowledge base": {
+   "liczba": false
+  }
+ },
+ "extensions/documentation/src/views/DocumentationView.tsx": {
+  "Back": {
+   "liczba": false
+  },
+  "Cancel": {
+   "liczba": false
+  },
+  "Continue": {
+   "liczba": false
+  },
+  "For your safety the knowledge base browser is limited to Vortex's GitHub wiki domain. A link you've clicked lies outside this domain and can only be viewed in your regular browser - please ensure you trust the URL below before allowing Vortex to open that page in your default browser.": {
+   "liczba": false
+  },
+  "Forward": {
+   "liczba": false
+  },
+  "Home": {
+   "liczba": false
+  },
+  "Open in Browser": {
+   "liczba": false
+  }
+ },
+ "extensions/extension-dashlet/src/ExtensionsDashlet.tsx": {
+  "Abstain": {
+   "liczba": false
+  },
+  "By {{author}}": {
+   "liczba": false
+  },
+  "Endorse": {
+   "liczba": false
+  },
+  "Extension installed, please restart Vortex to enable it": {
+   "liczba": false
+  },
+  "Install": {
+   "liczba": false
+  },
+  "Latest Extensions": {
+   "liczba": false
+  },
+  "Not now": {
+   "liczba": false
+  },
+  "Please endorse extensions you like": {
+   "liczba": false
+  }
+ },
+ "extensions/extension-dashlet/src/index.ts": {
+  "Extensions": {
+   "liczba": false
+  }
+ },
+ "extensions/feedback/src/index.tsx": {
+  "Close": {
+   "liczba": false
+  },
+  "Exception": {
+   "liczba": false
+  },
+  "Exception occurred": {
+   "liczba": false
+  },
+  "Feedback": {
+   "liczba": false
+  },
+  "Last Vortex session crashed": {
+   "liczba": false
+  },
+  "More": {
+   "liczba": false
+  },
+  "Please report this on our issue tracker": {
+   "liczba": false
+  },
+  "Report": {
+   "liczba": false
+  },
+  "Report Bug": {
+   "liczba": false
+  },
+  "Send Feedback": {
+   "liczba": false
+  },
+  "View Log/Open issue tracker": {
+   "liczba": false
+  },
+  "View Logs/Open issue tracker": {
+   "liczba": false
+  }
+ },
+ "extensions/feedback/src/views/FeedbackView.tsx": {
+  "Abort": {
+   "liczba": false
+  },
+  "Application Settings": {
+   "liczba": false
+  },
+  "Application State": {
+   "liczba": false
+  },
+  "Ask Question": {
+   "liczba": false
+  },
+  "Attach Special File": {
+   "liczba": false
+  },
+  "Bugreport without log file": {
+   "liczba": false
+  },
+  "Confirm": {
+   "liczba": false
+  },
+  "Continue without log": {
+   "liczba": false
+  },
+  "Describe in detail what you were doing and the feedback you would like to submit.": {
+   "liczba": false
+  },
+  "If you send feedback anonymously we can not give you updates on your report or enquire for more details.": {
+   "liczba": false
+  },
+  "Ok": {
+   "liczba": false
+  },
+  "or": {
+   "liczba": false
+  },
+  "Please make sure you've read the login instructions in Vortex, on the authorisation page and consulted the knowledge base before reporting login issues.": {
+   "liczba": false
+  },
+  "Please provide a meaningful description of at least {{minLength}} characters": {
+   "liczba": false
+  },
+  "Please provide a title": {
+   "liczba": false
+  },
+  "Please select a topic": {
+   "liczba": false
+  },
+  "Please select the type of Feedback you'd like to send in.": {
+   "liczba": false
+  },
+  "Please understand that this is only for feedback for the \"Vortex\" application, all feedback regarding the website \"Nexus Mods\" will be ignored.": {
+   "liczba": false
+  },
+  "Proceed": {
+   "liczba": false
+  },
+  "Provide Feedback": {
+   "liczba": false
+  },
+  "Recent State Changes": {
+   "liczba": false
+  },
+  "Reconsider": {
+   "liczba": false
+  },
+  "Remove": {
+   "liczba": false
+  },
+  "Report Suggestion": {
+   "liczba": false
+  },
+  "Select file to attach": {
+   "liczba": false
+  },
+  "Send anonymously": {
+   "liczba": false
+  },
+  "Send with log": {
+   "liczba": false
+  },
+  "Slow downloads": {
+   "liczba": false
+  },
+  "Sorry, due to large amount of feedback we receive we can't accept feedback from older versions since the issue may already have been addressed.": {
+   "liczba": false
+  },
+  "Sorry, the combined file size must not exceed 40MB": {
+   "liczba": false
+  },
+  "Stop": {
+   "liczba": false
+  },
+  "Submit Feedback": {
+   "liczba": false
+  },
+  "System Information": {
+   "liczba": false
+  },
+  "Thank you for your feedback!\n\nYour feedback will be reviewed before it gets published.": {
+   "liczba": false
+  },
+  "The title needs to be at least {{minLength}} characters": {
+   "liczba": false
+  },
+  "This may be a known issue, please click the title again to see similar issues.": {
+   "liczba": false
+  },
+  "This will attach your Vortex setting to the report, not including confidential data like usernames and passwords. We have no control over what third-party extensions store in settings though.": {
+   "liczba": false
+  },
+  "This will attach your Vortex state to the report. This includes information about things like your downloaded and installed mods, games, profiles and categories. These could be very useful for understanding your feedback but you have to decide if you are willing to share this information. We will, of course, treat your information as confidential.": {
+   "liczba": false
+  },
+  "Title": {
+   "liczba": false
+  },
+  "Topic": {
+   "liczba": false
+  },
+  "Vortex does not impose any speed limitations on downloads, that's handled by the server.": {
+   "liczba": false
+  },
+  "Vortex Log": {
+   "liczba": false
+  },
+  "Vortex Network Log": {
+   "liczba": false
+  },
+  "Vortex outdated": {
+   "liczba": false
+  },
+  "We can not forward your problems to the web department so please don't report temporary speed issues or problems regarding the non-premium speed cap through this form!": {
+   "liczba": false
+  },
+  "Yes, I'm sure": {
+   "liczba": false
+  },
+  "You are about to submit a bug report without a log file. Such reports are almost never enough for identifying the problem. Due to the high volume of feedback we get we can not follow up on reports missing such basic information. If you proceed, please understand that we may overlook your report if we can't tell what went wrong from the error message alone.": {
+   "liczba": false
+  },
+  "You are not logged in. Please include your username in your message to give us a chance to reply.": {
+   "liczba": false
+  },
+  "You may have overlooked the big red warning where we explain that slow downloads aren't usually (never so far) caused by the client.\nYour report is almost certainly going to be ignored unless you have convincing evidence that your case is actually caused by a bug Vortex.\nWe do *not* provide assistance for finding the reason for slow downloads.\nThank you for your understanding.": {
+   "liczba": false
+  },
+  "Your Message": {
+   "liczba": false
+  }
+ },
+ "extensions/fnis-integration/src/index.ts": {
+  "Configure FNIS": {
+   "liczba": false
+  },
+  "Failed to calculate FNIS checksum": {
+   "liczba": false
+  },
+  "Failed to read list of available patches": {
+   "liczba": false
+  },
+  "Failed to run FNIS": {
+   "liczba": false
+  },
+  "FNIS not installed": {
+   "liczba": false
+  },
+  "FNIS outdated": {
+   "liczba": false
+  },
+  "Interface": {
+   "liczba": false
+  },
+  "No": {
+   "liczba": false
+  },
+  "Please select the patches to activate in FNIS (when run automatically!).\nOnly select patches you have the corresponding mod for!\nThis list is stored separately for each profile.": {
+   "liczba": false
+  },
+  "Save": {
+   "liczba": false
+  },
+  "Select patches for this profile": {
+   "liczba": false
+  },
+  "Updating animations (FNIS)": {
+   "liczba": false
+  },
+  "Yes": {
+   "liczba": false
+  },
+  "You have configured Vortex to run FNIS automatically but it's not installed for this game. For the automation to work, FNIS has to be installed and configured for the current game. You can download it from [url]{{url}}[/url].": {
+   "liczba": false
+  },
+  "You have configured Vortex to run FNIS automatically but the installed version of FNIS is too old and doesn't support being embedded. Please download and install at least version 7.4 from [url]{{url}}[/url].": {
+   "liczba": false
+  }
+ },
+ "extensions/fnis-integration/src/Settings.tsx": {
+  "Any time you deploy, Vortex will check if any mod containing animations has changed. If so, it will run FNIS and create or update a mod named \"FNIS Data\". This mod contains the animations generated for your system based on your mod loadout and it is supposed to load after all mods containing animations. This should get set up automatically.\n\nImportant: If FNIS produces an error message it will still open a window and the deployment will be paused until you close FNIS.": {
+   "liczba": false
+  },
+  "Run FNIS on Deployment Event (if necessary)": {
+   "liczba": false
+  },
+  "Run FNIS when applying changes (if necessary)": {
+   "liczba": false
+  },
+  "Running FNIS automatically": {
+   "liczba": false
+  },
+  "Whenever you apply changes, Vortex checks whether any mods containing animations have changed. If necessary, it will run FNIS and create or update a mod named \"FNIS Data\". This mod contains the animations generated for your current mod setup and should load after other mods containing animations. Vortex should configure this automatically.\n\nImportant: If FNIS reports an error, its window will remain open and applying your changes will pause until you close FNIS.": {
+   "liczba": false
+  }
+ },
+ "extensions/gamebryo-archive-invalidation/src/bsaRedirection.ts": {
+  "Failed to add invalidation mod": {
+   "liczba": false
+  }
+ },
+ "extensions/gamebryo-archive-invalidation/src/index.ts": {
+  "Failed to read bsa/ba2 files.": {
+   "liczba": false
+  }
+ },
+ "extensions/gamebryo-archive-invalidation/src/views/Settings.tsx": {
+  "Archive Invalidation": {
+   "liczba": false
+  },
+  "BSA redirection": {
+   "liczba": false
+  },
+  "This adds a mod to vortex that provides Archive Invalidation similar to mods like \"Archive Invalidation Invalidated\".": {
+   "liczba": false
+  }
+ },
+ "extensions/gamebryo-savegame-management/src/index.ts": {
+  "Failed to open savegame directory": {
+   "liczba": false
+  },
+  "Failed to read save games": {
+   "liczba": false
+  },
+  "Failed to remove savegame": {
+   "liczba": false
+  },
+  "Open Directory": {
+   "liczba": false
+  },
+  "Open Save Games": {
+   "liczba": false
+  },
+  "Profile deleted": {
+   "liczba": false
+  },
+  "Profile doesn't exist": {
+   "liczba": false
+  },
+  "Refresh": {
+   "liczba": false
+  },
+  "Restore plugins": {
+   "liczba": false
+  },
+  "Save games": {
+   "liczba": false
+  },
+  "Show": {
+   "liczba": false
+  },
+  "Some plugins are missing and can't be enabled.\n\n{{missingPlugins}}": {
+   "liczba": false
+  },
+  "Some saves couldn't be read": {
+   "liczba": false
+  },
+  "The profile you just deleted had savegames associated with it. Do you want to remove those savegames now? If you don't, they will still be on disk in {{savesPath}} but they won't show up in the game until you move them.": {
+   "liczba": false
+  },
+  "The profile you're trying to import from doesn't exist, did you recently delete it?": {
+   "liczba": false
+  },
+  "Transfer Save Games": {
+   "liczba": false
+  },
+  "Unable to create save game directory: {{dest}}\\ (Please ensure you have enough space and/or full write permissions to the destination folder)": {
+   "liczba": false
+  }
+ },
+ "extensions/gamebryo-savegame-management/src/savegameAttributes.tsx": {
+  "Amount of time that expired in-game": {
+   "liczba": false
+  },
+  "Autosave": {
+   "liczba": false
+  },
+  "Character Level": {
+   "liczba": false
+  },
+  "Character Name": {
+   "liczba": false
+  },
+  "Creation Time": {
+   "liczba": false
+  },
+  "Exitsave": {
+   "liczba": false
+  },
+  "Failed to load screenshot": {
+   "liczba": false
+  },
+  "File creation time": {
+   "liczba": false
+  },
+  "Filename": {
+   "liczba": false
+  },
+  "Filesize": {
+   "liczba": false
+  },
+  "Id of the savegame": {
+   "liczba": false
+  },
+  "Ingame Location": {
+   "liczba": false
+  },
+  "Level of the character": {
+   "liczba": false
+  },
+  "Location during the save": {
+   "liczba": false
+  },
+  "Manual save": {
+   "liczba": false
+  },
+  "Name of the character": {
+   "liczba": false
+  },
+  "Name of the file": {
+   "liczba": false
+  },
+  "Play Time": {
+   "liczba": false
+  },
+  "Plugins": {
+   "liczba": false
+  },
+  "Quicksave": {
+   "liczba": false
+  },
+  "Save Game ID": {
+   "liczba": false
+  },
+  "Savegame plugins": {
+   "liczba": false
+  },
+  "Savegame screenshot": {
+   "liczba": false
+  },
+  "Savegame Type": {
+   "liczba": false
+  },
+  "Screenshot": {
+   "liczba": false
+  },
+  "Size of the file": {
+   "liczba": false
+  },
+  "The broken savegame": {
+   "liczba": false
+  },
+  "Whether this save is a autosave/quicksave or manual one": {
+   "liczba": false
+  }
+ },
+ "extensions/gamebryo-savegame-management/src/views/SavegameList.tsx": {
+  "{{ count }} savegame imported": {
+   "liczba": true
+  },
+  "Confirm Deletion": {
+   "liczba": false
+  },
+  "Copy": {
+   "liczba": false
+  },
+  "Delete": {
+   "liczba": false
+  },
+  "Do you really want to remove these files?": {
+   "liczba": false
+  },
+  "Failed to import savegames": {
+   "liczba": false
+  },
+  "For performance reasons only the {{count}} most recent save games were loaded.": {
+   "liczba": false
+  },
+  "Global": {
+   "liczba": false
+  },
+  "Import": {
+   "liczba": false
+  },
+  "Import from": {
+   "liczba": false
+  },
+  "Import Savegames": {
+   "liczba": false
+  },
+  "Move": {
+   "liczba": false
+  },
+  "Not all savegames could be imported": {
+   "liczba": false
+  },
+  "Please select a profile to import from": {
+   "liczba": false
+  },
+  "Profile": {
+   "liczba": false
+  },
+  "Restore Save Game Plugins": {
+   "liczba": false
+  },
+  "Savegame transfer cancelled": {
+   "liczba": false
+  },
+  "The following files will be imported": {
+   "liczba": false
+  }
+ },
+ "extensions/gamebryo-savegame-management/src/views/Settings.tsx": {
+  "If your games take very long to save when Vortex is running, try disabling this.": {
+   "liczba": false
+  },
+  "Monitor Savegame directory for changes": {
+   "liczba": false
+  },
+  "Savegame folder monitoring": {
+   "liczba": false
+  }
+ },
+ "extensions/gamebryo-test-settings/src/index.ts": {
+  "\"Skyrim - Interface.bsa\" appears to be missing": {
+   "liczba": false
+  },
+  "Failed to read default fonts": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-7daystodie/src/index.tsx": {
+  "7 Days to Die loads mods in alphabetic order so Vortex prefixes the directory names with \"AAA, AAB, AAC, ...\" to ensure they load in the order you set here.": {
+   "liczba": false
+  },
+  "Current Prefix Offset: ": {
+   "liczba": false
+  },
+  "Failed to set prefix offset": {
+   "liczba": false
+  },
+  "Insert new prefix offset for modlets (AAA-ZZZ):": {
+   "liczba": false
+  },
+  "Mods": {
+   "liczba": false
+  },
+  "No active profile for 7dtd": {
+   "liczba": false
+  },
+  "Prefix Offset": {
+   "liczba": false
+  },
+  "Prefix Offset Assign": {
+   "liczba": false
+  },
+  "Prefix Offset Reset": {
+   "liczba": false
+  },
+  "Set": {
+   "liczba": false
+  },
+  "Set New Prefix Offset": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-7daystodie/src/loadOrder.ts": {
+  "Corrupt load order file": {
+   "liczba": false
+  },
+  "Regenerate File": {
+   "liczba": false
+  },
+  "The load order file is in a corrupt state or missing. You can try to fix it yourself or Vortex can regenerate the file for you, but that may result in loss of data. Will only affect load order items you added manually, if any).": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-7daystodie/src/migrations.ts": {
+  "7 Days to Die": {
+   "liczba": false
+  },
+  "Explain": {
+   "liczba": false
+  },
+  "In version 17 of the game 7 Days to Die the way mods are installed has changed considerably. Unfortunately we are now not able to support this change with the way mods were previously installed.\nThis means that for the mods to work correctly you have to reinstall them.\nWe are sorry for the inconvenience.": {
+   "liczba": false
+  },
+  "Mods for 7 Days to Die need to be reinstalled": {
+   "liczba": false
+  },
+  "Understood": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-7daystodie/src/Settings.tsx": {
+  "7DTD Settings": {
+   "liczba": false
+  },
+  "Current User Default Folder": {
+   "liczba": false
+  },
+  "Set User Data Folder": {
+   "liczba": false
+  },
+  "This will allow you to re-select the User Data Folder (UDF) for 7 Days to Die.": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-7daystodie/src/util.ts": {
+  "Choose User Data Folder": {
+   "liczba": false
+  },
+  "Failed to set up UDF": {
+   "liczba": false
+  },
+  "Invalid User Data Folder": {
+   "liczba": false
+  },
+  "Restart Extension": {
+   "liczba": false
+  },
+  "Restart Required": {
+   "liczba": false
+  },
+  "Select UDF": {
+   "liczba": false
+  },
+  "Select User Data Folder": {
+   "liczba": false
+  },
+  "The extension requires a restart to complete the UDF setup. The extension will now exit - please re-activate it via the games page or dashboard.": {
+   "liczba": false
+  },
+  "The modding pattern for 7DTD is changing. The Mods path inside the game directory is being deprecated and mods located in the old path will no longer work in the near future. Please select your User Data Folder (UDF) - Vortex will deploy to this new location. Please NEVER set your UDF path to Vortex's staging folder.": {
+   "liczba": false
+  },
+  "The UDF cannot be set inside Vortex directories. Please select a different folder.": {
+   "liczba": false
+  },
+  "Try Again": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-baldursgate3/src/divineWrapper.ts": {
+  "LSLib requires .NET 8": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-baldursgate3/src/githubDownloader.ts": {
+  "{{name}} Update": {
+   "liczba": false
+  },
+  "Baldur's Gate 3's modding pattern in most (if not all) cases will require a 3rd party tool named \"{{name}}\" to manipulate game files.[br][/br][br][/br]Vortex can download and install this tool for you as a mod entry. Please ensure that the tool is always enabled and deployed on the mods page.[br][/br][br][/br]Please note that some Anti-Virus software may flag this tool as malicious due to the nature of the tool (unpacks .pak files). We suggest you ensure that your security software is configured to allow this tool to install.": {
+   "liczba": false
+  },
+  "Divine tool is missing": {
+   "liczba": false
+  },
+  "Download": {
+   "liczba": false
+  },
+  "Download failed": {
+   "liczba": false
+  },
+  "Failed to install LSLib": {
+   "liczba": false
+  },
+  "Latest: {{latest}}, Installed: {{current}}": {
+   "liczba": false
+  },
+  "Unable to download/install LSLib": {
+   "liczba": false
+  },
+  "Unable to update LSLib": {
+   "liczba": false
+  },
+  "Update for {{name}}": {
+   "liczba": false
+  },
+  "Vortex has detected a newer version of {{name}} ({{latest}}) available to download from {{website}}. You currently have version {{current}} installed.\nVortex can download and attempt to install the new update for you.": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-baldursgate3/src/index.tsx": {
+  "Export to File...": {
+   "liczba": false
+  },
+  "Export to Game": {
+   "liczba": false
+  },
+  "Failed to migrate": {
+   "liczba": false
+  },
+  "Failed to reinstall lslib": {
+   "liczba": false
+  },
+  "Import from BG3MM...": {
+   "liczba": false
+  },
+  "Import from File...": {
+   "liczba": false
+  },
+  "Import from Game": {
+   "liczba": false
+  },
+  "Most mods require this mod.": {
+   "liczba": false
+  },
+  "Open Load Order File": {
+   "liczba": false
+  },
+  "Open Nexus Mods": {
+   "liczba": false
+  },
+  "Re-install LSLib/Divine": {
+   "liczba": false
+  },
+  "Recommended Mod": {
+   "liczba": false
+  },
+  "Recommended Mods": {
+   "liczba": false
+  },
+  "We recommend installing \"Baldur's Gate 3 Mod Fixer\" to be able to mod Baldur's Gate 3.\n\nThis can be downloaded from Nexus Mods and installed using Vortex by pressing \"Open Nexus Mods": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-baldursgate3/src/InfoPanel.tsx": {
+  "A backup is made of the game's modsettings.lsx file before anything is changed.\n        This can be found at %APPDATA%\\Local\\Larian Studios\\Baldur's Gate 3\\PlayerProfiles\\Public\\modsettings.lsx.backup": {
+   "liczba": false
+  },
+  "Close the game": {
+   "liczba": false
+  },
+  "Deploy your mods": {
+   "liczba": false
+  },
+  "Drag and Drop PAK files to reorder how the game loads them. Please note, some mods contain multiple PAK files.": {
+   "liczba": false
+  },
+  "Export can be used to manually update the game's modsettings.lsx file if 'Settings > Mods > Auto export load order' isn't set to do this automatically. \n        It can also be used to export to a different file as a backup.": {
+   "liczba": false
+  },
+  "Failed to read load order": {
+   "liczba": false
+  },
+  "Import and Export": {
+   "liczba": false
+  },
+  "Import from Baldur's Gate 3 Mod Manager": {
+   "liczba": false
+  },
+  "Import is an experimental tool to help migration from a game load order (.lsx file) to Vortex. It works by importing the game's modsettings file\n        and attempts to match up mods that have been installed by Vortex.": {
+   "liczba": false
+  },
+  "Install LSLib": {
+   "liczba": false
+  },
+  "LSLib is not installed": {
+   "liczba": false
+  },
+  "Mod descriptions from mod authors may have information to determine the best order.": {
+   "liczba": false
+  },
+  "Please install the library using the buttons below to manage your load order.": {
+   "liczba": false
+  },
+  "Please note that any mods that are not present in the BG3MM load order file will be placed at the bottom of the load order.": {
+   "liczba": false
+  },
+  "Please run the game before you start modding": {
+   "liczba": false
+  },
+  "Purge your mods": {
+   "liczba": false
+  },
+  "Run the game again - your load order will be maintained": {
+   "liczba": false
+  },
+  "Run the game so that the modsettings.lsx file gets reset to the default values": {
+   "liczba": false
+  },
+  "Some mods may be locked in this list because they are loaded differently by the game and can therefore not be load-ordered by mod managers. \n        If you need to disable such a mod, please do so in Vortex's Mods page.": {
+   "liczba": false
+  },
+  "To successfully switch between different game versions/patches please follow these steps:": {
+   "liczba": false
+  },
+  "To take full advantage of Vortex's Baldurs Gate 3 modding capabilities such as managing the order in which mods are loaded into the game; Vortex requires a 3rd party tool called LSLib.": {
+   "liczba": false
+  },
+  "Vortex can sort your load order based on a BG3MM .json load order file. Any mods that are not installed through Vortex will be ignored.": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-baldursgate3/src/loadOrder.ts": {
+  "Divine executable is missing": {
+   "liczba": false
+  },
+  "Duplicate Entries": {
+   "liczba": false
+  },
+  "Duplicate UUIDs found in the ModOrder section of the .lsx file being imported. This sometimes can cause issues with the load order.": {
+   "liczba": false
+  },
+  "Failed to import BG3MM load order file": {
+   "liczba": false
+  },
+  "Failed to import load order": {
+   "liczba": false
+  },
+  "Failed to read deployment manifest": {
+   "liczba": false
+  },
+  "Failed to read mods directory": {
+   "liczba": false
+  },
+  "Failed to read pak. Please make sure you are using the latest version of LSLib by using the \"Re-install LSLib/Divine\" toolbar button on the Mods page.": {
+   "liczba": false
+  },
+  "Failed to write load order": {
+   "liczba": false
+  },
+  "Failed to write mod settings": {
+   "liczba": false
+  },
+  "Importing JSON File": {
+   "liczba": false
+  },
+  "Importing LSX File": {
+   "liczba": false
+  },
+  "Load Order Exported": {
+   "liczba": false
+  },
+  "Load Order Imported": {
+   "liczba": false
+  },
+  "Please choose a BG3 .lsx file to export to": {
+   "liczba": false
+  },
+  "Please choose a BG3 .lsx file to import from": {
+   "liczba": false
+  },
+  "Please choose a BG3MM .json load order file to import from": {
+   "liczba": false
+  },
+  "Please run the game at least once and create a profile in-game": {
+   "liczba": false
+  },
+  "Reading PAK files. This might take a while...": {
+   "liczba": false
+  },
+  "The load order file is in a corrupt state. You can try to fix it yourself or Vortex can regenerate the file for you, but that may result in loss of data (Will only affect load order items you added manually, if any).": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-baldursgate3/src/migrations.tsx": {
+  "As of Baldur's Gate 3 patch 7, the \"ModFixer\" mod is no longer required. Please feel free to disable it.{{bl}}Additional information about patch 7 troubleshooting can be found here: [url]{{url}}[/url]{{bl}}Please note - if you switch between different game versions/patches - make sure to purge your mods and run the game at least once so that the game can regenerate your \"modsettings.lsx\" file.": {
+   "liczba": false
+  },
+  "Baldur's Gate 3 patch 7": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-baldursgate3/src/modTypes.ts": {
+  "Install as Mod (will likely not work)": {
+   "liczba": false
+  },
+  "Install as Replacer": {
+   "liczba": false
+  },
+  "Mod looks like a replacer": {
+   "liczba": false
+  },
+  "The mod you just installed looks like a \"replacer\", meaning it is intended to replace one of the files shipped with the game.<br/>You should be aware that such a replacer includes a copy of some game data from a specific version of the game and may therefore break as soon as the game gets updated.<br/>Even if doesn't break, it may revert bugfixes that the game developers have made.<br/><br/>Therefore [color=\"red\"]please take extra care to keep this mod updated[/color] and remove it when it no longer matches the game version.": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-baldursgate3/src/Settings.tsx": {
+  "Auto export load order": {
+   "liczba": false
+  },
+  "Baldur's Gate 3": {
+   "liczba": false
+  },
+  "If enabled, when Vortex saves it's load order, it will also update the games load order. \n              If disabled, and you wish the game to use your load order, then this will need to be completed \n              manually using the Export to Game button on the load order screen": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-baldursgate3/src/util.ts": {
+  "\"modsettings.lsx\" file was reset": {
+   "liczba": false
+  },
+  "Invalid meta.lsx file": {
+   "liczba": false
+  },
+  "The game reset the list of active mods and ran without them.\nThis happens when an invalid or incompatible mod is installed. The game will not load any mods if one of them is incompatible, unfortunately there is no easy way to find out which one caused the problem.": {
+   "liczba": false
+  },
+  "The meta.lsx file in \"{{modName}}\" is invalid, please report this to the author": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-bloodstainedritualofthenight/src/index.ts": {
+  "External Mod Files Detected": {
+   "liczba": false
+  },
+  "Import External Mods": {
+   "liczba": false
+  },
+  "Vortex has discovered the following unmanaged/external files in the the game's mods directory:[br][/br][br][/br]{{files}}[br][/br]Please note that the existence of these mods interferes with Vortex's load ordering functionality and as such, they should be removed using the same medium through which they have been added.[br][/br][br][/br]Alternatively, Vortex can try to import these files into its mods list which will allow Vortex to take control over them and display them inside the load ordering page. Vortex's load ordering functionality will not display external mod entries unless imported!": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-falloutnv/src/index.ts": {
+  "{{gameName}} has multiple language options when downloaded from {{storeName}}. [br][/br][br][/br]Vortex has selected the {{selectedLanguage}} variant by default. [br][/br][br][/br]If you would prefer to manage a different language you can change the path to the game using the \"Manually Set Location\" option in the games tab.": {
+   "liczba": false
+  },
+  "Multiple Languages Available": {
+   "liczba": false
+  },
+  "Mutliple Languages Available": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-kingdomcome-deliverance/src/collections/CollectionsDataView.tsx": {
+  "Below is a preview of the load order for the mods that are included in the current collection. If you wish to modify the load please do so by opening the Load Order page; any changes made there will be reflected in this collection.": {
+   "liczba": false
+  },
+  "Load Order": {
+   "liczba": false
+  },
+  "Open Load Order Page": {
+   "liczba": false
+  },
+  "You have no load order entries (for the current mods in the collection)": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-kingdomcome-deliverance/src/index.ts": {
+  "Changing your load order": {
+   "liczba": false
+  },
+  "Drag and drop the mods on the left to reorder them. Kingdom Come: Deliverance uses a mod_order.txt file to define the order in which mods are loaded, Vortex will write the folder names of the displayed mods in the order you have set. Mods placed at the bottom of the load order will have priority over those above them.": {
+   "liczba": false
+  },
+  "Failed to re-instate manually added mods": {
+   "liczba": false
+  },
+  "failed to read kingdom come mods directory": {
+   "liczba": false
+  },
+  "Failed to write to load order file": {
+   "liczba": false
+  },
+  "Kingdom Come: Deliverance Data": {
+   "liczba": false
+  },
+  "Note: Vortex will detect manually added mods as long as these have been added to the mod_order.txt file. Manually added mods are not managed by Vortex - to remove these, you will have to manually erase the entry from the mod_order.txt file.": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-masterchiefcollection/src/index.ts": {
+  "Game(s)": {
+   "liczba": false
+  },
+  "Target Halo game(s) for this mod": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-masterchiefcollection/src/util.ts": {
+  "Failed to read mod manifest file": {
+   "liczba": false
+  },
+  "Failed to write mod manifest file": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-morrowind/src/index.ts": {
+  "{{gameName}} has multiple language options when downloaded from {{storeName}}. [br][/br][br][/br]Vortex has selected the English variant by default. [br][/br][br][/br]If you would prefer to manage a different language you can change the path to the game using the \"Manually Set Location\" option in the games tab.": {
+   "liczba": false
+  },
+  "Default: English": {
+   "liczba": false
+  },
+  "Failed to read list of plugins": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-morrowind/src/views/MorrowindCollectionsDataView.tsx": {
+  " If you believe a load order entry is missing, please ensure the relevant mod is enabled and has been added to the collection.": {
+   "liczba": false
+  },
+  "Go to Load Order Page": {
+   "liczba": false
+  },
+  "Load Order page.": {
+   "liczba": false
+  },
+  "This is a snapshot of the load order information that will be exported with this collection.": {
+   "liczba": false
+  },
+  "You can make changes to this data from the ": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-pillarsofeternity2/src/index.ts": {
+  "Failed to update modorder": {
+   "liczba": false
+  },
+  "Invalid modconfig.json file": {
+   "liczba": false
+  },
+  "Load order": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-pillarsofeternity2/src/views/LoadOrder.tsx": {
+  "Disabled": {
+   "liczba": false
+  },
+  "Enabled": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-stardewvalley/src/configMod/index.ts": {
+  "Sync Mod Configurations": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-stardewvalley/src/configMod/ingest.ts": {
+  "Importing config files...": {
+   "liczba": false
+  },
+  "Starting up...": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-stardewvalley/src/configMod/lifecycle.ts": {
+  "Failed to resolve config mod path": {
+   "liczba": false
+  },
+  "This mod is a collective merge of SDV mod configuration files which Vortex maintains for the mods you have installed. The configuration is maintained through mod updates, but at times it may need to be manually updated": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-stardewvalley/src/configMod/sync.ts": {
+  "Enable": {
+   "liczba": false
+  },
+  "Failed to sync mod configurations": {
+   "liczba": false
+  },
+  "Failed to write mod config": {
+   "liczba": false
+  },
+  "Many Stardew Valley mods generate their own configuration files during game play. By default the generated files are, ingested by their respective mods.[br][/br][br][/br]Unfortunately the mod configuration files are lost when updating or removing a mod.[br][/br][br][/br] This button allows you to Import all of your active mod's configuration files into a single mod which will remain unaffected by mod updates.[br][/br][br][/br]Would you like to enable this functionality? (SMAPI must be installed)": {
+   "liczba": false
+  },
+  "Mod Configuration Sync": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-stardewvalley/src/game/StardewValleyGame.ts": {
+  "SMAPI is required to mod Stardew Valley.": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-stardewvalley/src/installers/stardewValleyInstaller.ts": {
+  "The mod manifest is invalid and can't be read. You can try to install the mod anyway via right-click -> \"Unpack (as-is)\"": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-stardewvalley/src/registration/registerUi.ts": {
+  "Compatibility": {
+   "liczba": false
+  },
+  "Mod configs returned to their respective mods": {
+   "liczba": false
+  },
+  "SMAPI Log": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-stardewvalley/src/smapi/workflow.ts": {
+  "Failed to download/install SMAPI": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-stardewvalley/src/tests.ts": {
+  "SMAPI update required": {
+   "liczba": false
+  },
+  "Some Stardew Valley mods require a newer version of SMAPI to function correctly, you should check for SMAPI updates in the mods page.": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-stardewvalley/src/ui/CompatibilityIcon.tsx": {
+  "No information": {
+   "liczba": false
+  },
+  "SMAPI suggests updating this mod to {{update}}. Please use Vortex to check for mod updates": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-stardewvalley/src/ui/Settings.tsx": {
+  "If checked, when you install a mod for Stardew Valley you may get suggestions for installing further mods, required or recommended by it.This information could be wrong or incomplete so please carefully consider before accepting them.": {
+   "liczba": false
+  },
+  "Manage SDV mod configuration files": {
+   "liczba": false
+  },
+  "Stardew Valley": {
+   "liczba": false
+  },
+  "Use recommendations from the mod manifests": {
+   "liczba": false
+  },
+  "Vortex by default is configured to attempt to pull-in newly created files (mod configuration json files for example) created externally (by the game itself or tools) into their respective mod folders.\n\nUnfortunately the configuration files are lost during mod updates when using this method.\n\nToggling this functionality creates a separate mod configuration \"override\" folder where all of your mod configuration files will be stored. This allows you to manage your mod configuration files on their own, regardless of mod updates. ": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-stardewvalley/src/ui/smapiLog.ts": {
+  "Copy & Share log": {
+   "liczba": false
+  },
+  "No SMAPI logs found.": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-witcher3/src/eventHandlers.ts": {
+  "Failed to restore profile merged files": {
+   "liczba": false
+  },
+  "Failed to run tool": {
+   "liczba": false
+  },
+  "Failed to store profile specific merged items": {
+   "liczba": false
+  },
+  "Run anyway": {
+   "liczba": false
+  },
+  "Run tool": {
+   "liczba": false
+  },
+  "Script Merger and the Remastered edition": {
+   "liczba": false
+  },
+  "The Remastered edition stores its scripts in a different text encoding to earlier releases, and mods that need merging were generally built against the old one. Merging them may produce corrupted scripts.\n\nMods written for the Remastered edition merge themselves and do not need this tool.": {
+   "liczba": false
+  },
+  "The Witcher 3 Remastered": {
+   "liczba": false
+  },
+  "The Witcher 3 Remastered detected - some mods need attention": {
+   "liczba": false
+  },
+  "This edition changes how mods are loaded. A few things to be aware of:[br][/br][br][/br]• Merged scripts from a previous install are no longer valid. Run the Script Merger again, or remove the merged mod, before playing.[br][/br][br][/br]• Script mods built for earlier versions may fail to compile. Map, map pin, Gwent and loot interface mods are the most affected.[br][/br][br][/br]• The game can now switch off locally installed mods by itself. If nothing loads, check the mod settings in game or run Vortex's health checks.[br][/br][br][/br]• Mod folder names longer than 63 characters are ignored by the game.[br][/br][br][/br]• DirectX 11 has been removed, so DirectX 11 only tools will not run.": {
+   "liczba": false
+  },
+  "Witcher 3": {
+   "liczba": false
+  },
+  "Witcher Script merger may need to be executed": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-witcher3/src/healthChecks.ts": {
+  "Checks that mod folder names are short enough for the Remastered edition.": {
+   "liczba": false
+  },
+  "Checks that the Remastered edition is set to load locally installed mods.": {
+   "liczba": false
+  },
+  "Failed to change the game setting": {
+   "liczba": false
+  },
+  "Fix": {
+   "liczba": false
+  },
+  "Setting applied. Restart the game for it to take effect.": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-witcher3/src/iconbarActions.ts": {
+  "Import Load Order": {
+   "liczba": false
+  },
+  "Import Script Merges": {
+   "liczba": false
+  },
+  "Open TW3 Documents Folder": {
+   "liczba": false
+  },
+  "Sort Alphabetically": {
+   "liczba": false
+  },
+  "This action will set priorities by sorting mod folder names alphabetically, which is the order the game itself uses when no priority is set. Are you sure you wish to proceed ?[br][/br][br][/br]Merged scripts stay locked at the top. Everything else is reordered, including mods added manually or by other tools.": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-witcher3/src/index.ts": {
+  "Witcher 3 Data": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-witcher3/src/iniParser.ts": {
+  "Failed to cleanup load order file": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-witcher3/src/installers.ts": {
+  "The Witcher 3 Script Merger is a tool, not a mod — it can't be installed this way.": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-witcher3/src/loadOrder.tsx": {
+  "Collection does not include load order to import": {
+   "liczba": false
+  },
+  "Collection load order has been imported": {
+   "liczba": false
+  },
+  "collection mod is missing": {
+   "liczba": false
+  },
+  "Ensuring mods are deployed...": {
+   "liczba": false
+  },
+  "Failed to sort alphabetically": {
+   "liczba": false
+  },
+  "Importing Load Order": {
+   "liczba": false
+  },
+  "Parsing collection data": {
+   "liczba": false
+  },
+  "Writing Load Order...": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-witcher3/src/menumod.ts": {
+  "Failed to install menu mod": {
+   "liczba": false
+  },
+  "This mod is a collective merge of setting files required by any/all menu mods the user has installed - please do not disable/remove unless all menu mods have been removed from your game first.": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-witcher3/src/mergeBackup.ts": {
+  "Failed to import script merges": {
+   "liczba": false
+  },
+  "Failed to restore merged files": {
+   "liczba": false
+  },
+  "Import Merges": {
+   "liczba": false
+  },
+  "Merged scripts not restored": {
+   "liczba": false
+  },
+  "Merged scripts were not restored": {
+   "liczba": false
+  },
+  "Potential merged data mismatch": {
+   "liczba": false
+  },
+  "Script Merges Import": {
+   "liczba": false
+  },
+  "Script merges imported successfully": {
+   "liczba": false
+  },
+  "The collection you are importing contains script merges which the creator of the collection deemed necessary for the mods to function correctly. Please note that importing these will overwrite any existing script merges you may have effectuated. Please ensure to back up any existing merges (if applicable/required) before proceeding.": {
+   "liczba": false
+  },
+  "The merged scripts saved for this profile were created for a different edition of the game. Restoring them could break script compilation, so they have been left alone. Run the Script Merger again to rebuild them.": {
+   "liczba": false
+  },
+  "Upload Collection": {
+   "liczba": false
+  },
+  "Vortex encountered a permissions related error while attempting to replace:{{bl}}\"{{filePath}}\"{{bl}}Please try to resolve any permissions related issues and return to this dialog when you think you managed to fix it. There are a couple of things you can try to fix this:[br][/br][list][*] Close/Disable any applications that may interfere with Vortex's operations such as the game itself, the witcher script merger, any external modding tools, any anti-virus software. [*] Ensure that your Windows user account has full read/write permissions to the file specified [/list]": {
+   "liczba": false
+  }
+ }
+}

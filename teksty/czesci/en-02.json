@@ -1,0 +1,1337 @@
+{
+ "extensions/games/game-witcher3/src/mergeInventoryParsing.ts": {
+  "Invalid MergeInventory.xml file": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-witcher3/src/mergers.ts": {
+  "Current load order": {
+   "liczba": false
+  },
+  "Failed to merge settings data": {
+   "liczba": false
+  },
+  "Failed to merge XML data": {
+   "liczba": false
+  },
+  "Game is not discovered": {
+   "liczba": false
+  },
+  "Merged settings": {
+   "liczba": false
+  },
+  "Mod settings": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-witcher3/src/migrations.ts": {
+  "Due to a bug, the mod limit patch was not applied correctly. Please Uninstall/Remove your existing mod limit match mod entry in your mods page and re-apply the patch using the \"Apply Mod Limit Patch\" button.": {
+   "liczba": false
+  },
+  "Faulty Witcher 3 Mod Limit Patch detected": {
+   "liczba": false
+  },
+  "Witcher 3 Mod Limit Patch": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-witcher3/src/modLimitPatch.ts": {
+  "Do not ask again": {
+   "liczba": false
+  },
+  "Failed to generate mod limit patch": {
+   "liczba": false
+  },
+  "Generate Patch": {
+   "liczba": false
+  },
+  "Mod Limit Patch": {
+   "liczba": false
+  },
+  "Patch generated successfully": {
+   "liczba": false
+  },
+  "Witcher 3 is restricted to 192 file handles which is quickly reached when adding mods (about ~25 mods) - this mod increases the limit to 500": {
+   "liczba": false
+  },
+  "Witcher 3 is restricted to 192 file handles which is quickly reached when adding mods (about ~25 mods) - Vortex has detected that the current mods environment may be breaching this limit; this issue will usually exhibit itself by the game failing to start up.{{bl}}Vortex can attempt to patch your game executable to increase the available file handles to 500 which should cater for most if not all modding environments.{{bl}}Please note - the patch is applied as a mod which will be generated and automatically enabled; to disable the patch, simply remove or disable the \"Witcher 3 Mod Limit Patcher\" mod and the original game executable will be restored.": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-witcher3/src/scriptmerger.ts": {
+  "Adding Script Merger": {
+   "liczba": false
+  },
+  "Extracting Script Merger": {
+   "liczba": false
+  },
+  "Install Manually": {
+   "liczba": false
+  },
+  "Many Witcher 3 mods add or edit game scripts. When several mods editing the same script are installed, these mods need to be merged using a tool called Witcher 3 Script Merger. Vortex can attempt to download and configure the merger for you automatically - before doing so - please ensure your account has full read/write permissions to your game's directory. The script merger can be installed at a later point if you wish. [br][/br][br][/br][url=https://wiki.nexusmods.com/index.php/Tool_Setup:_Witcher_3_Script_Merger]find out more about the script merger.[/url][br][/br][br][/br]Note: While script merging works well with the vast majority of mods, there is no guarantee for a satisfying outcome in every single case.": {
+   "liczba": false
+  },
+  "Please install Script Merger manually": {
+   "liczba": false
+  },
+  "Script Merger needs setting up again for this copy of the game.": {
+   "liczba": false
+  },
+  "This may take a minute...": {
+   "liczba": false
+  },
+  "W3 Script Merger extracted successfully": {
+   "liczba": false
+  },
+  "Witcher 3 Script Merger": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-witcher3/src/tests.ts": {
+  "Mod Limit Reached": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-witcher3/src/util.ts": {
+  "Download Script Merger": {
+   "liczba": false
+  },
+  "Failed to load INI structure": {
+   "liczba": false
+  },
+  "Vortex is unable to resolve the Script Merger's location. The tool needs to be downloaded and configured manually. [url=https://wiki.nexusmods.com/index.php/Tool_Setup:_Witcher_3_Script_Merger]Find out more about how to configure it as a tool for use in Vortex.[/url][br][/br][br][/br]Note: While script merging works well with the vast majority of mods, there is no guarantee for a satisfying outcome in every single case.": {
+   "liczba": false
+  },
+  "Witcher 3 script merger is missing/misconfigured": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-witcher3/src/views/CollectionsDataView.tsx": {
+  "Additionally - please remember that any script merges (if applicable) done through the script merger utility, should be reviewed before uploading, to only include merges that are necessary for the collection to function correctly. Merged scripts referencing a mod that is not included in your collection will most definitively cause the game to crash!": {
+   "liczba": false
+  },
+  "The Witcher 3 game extension executes a series of file merges for UI/menu mods whenever the mods are deployed - these will be included in the collection. (separate from the ones done using the script merger utility) To ensure that Vortex includes the correct data when uploading this collection, please make sure that the mods are enabled and deployed before attempting to upload the collection.": {
+   "liczba": false
+  },
+  "Witcher 3 Merged Data": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-witcher3/src/views/InfoComponent.tsx": {
+  "Disable All": {
+   "liczba": false
+  },
+  "Enable All ": {
+   "liczba": false
+  },
+  "For Witcher 3, the mod with the lowest index number (by default, the mod sorted at the top) overrides mods with a higher index number.": {
+   "liczba": false
+  },
+  "If you cannot see your mod in this load order, you may need to add it manually (see our wiki for details).": {
+   "liczba": false
+  },
+  "Merges generated by the Witcher 3 Script merger must be loaded first and are locked in the first load order slot.": {
+   "liczba": false
+  },
+  "Modding The Witcher 3 with Vortex.": {
+   "liczba": false
+  },
+  "Please note:": {
+   "liczba": false
+  },
+  "When managing menu mods, mod settings changed inside the game will be detected by Vortex as external changes - that is expected, choose to use the newer file and your settings will be made persistent.": {
+   "liczba": false
+  },
+  "You can adjust the load order for The Witcher 3 by dragging and dropping mods up or down on this page.  If you are using several mods that add scripts you may need to use the Witcher 3 Script merger. For more information see: ": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-witcher3/src/views/ItemRenderer.tsx": {
+  "Not managed by Vortex": {
+   "liczba": false
+  },
+  "View source Mod": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-witcher3/src/views/Settings.tsx": {
+  "Sorts by mod folder name after every deployment, the order the game uses when no priority is set. Merged scripts stay at the top.": {
+   "liczba": false
+  },
+  "The Witcher 3": {
+   "liczba": false
+  }
+ },
+ "extensions/games/game-xrebirth/src/diagnostic.ts": {
+  "Verifies that content.xml mods record their declared name.": {
+   "liczba": false
+  },
+  "Verifies that the installer produced at least one file.": {
+   "liczba": false
+  },
+  "Verifies the install output is content.xml, matches stopPatterns, or is tagged with a known modType.": {
+   "liczba": false
+  }
+ },
+ "extensions/issue-tracker/src/FeedbackResponderDialog.tsx": {
+  "Attach File": {
+   "liczba": false
+  },
+  "Feedback Responder - Where you can help investigate bugs you reported": {
+   "liczba": false
+  },
+  "Feedback response sent successfully": {
+   "liczba": false
+  },
+  "has responded": {
+   "liczba": false
+  },
+  "Issue details could not be fetched yet": {
+   "liczba": false
+  },
+  "No Feedback Response Required": {
+   "liczba": false
+  },
+  "Please provide a response of at least {{minLength}} characters": {
+   "liczba": false
+  },
+  "Type your response here...": {
+   "liczba": false
+  },
+  "Unable to attach file": {
+   "liczba": false
+  },
+  "Vortex Session Log": {
+   "liczba": false
+  },
+  "Your response to": {
+   "liczba": false
+  }
+ },
+ "extensions/issue-tracker/src/index.ts": {
+  "Issues": {
+   "liczba": false
+  }
+ },
+ "extensions/issue-tracker/src/Issues.tsx": {
+  ", planned for {{date}}": {
+   "liczba": false
+  },
+  "{{ count }} comments": {
+   "liczba": true
+  },
+  "{{completion}}%{{planned}}": {
+   "liczba": false
+  },
+  "Bug": {
+   "liczba": false
+  },
+  "Closed": {
+   "liczba": false
+  },
+  "Feedback required": {
+   "liczba": false
+  },
+  "Lucky you...": {
+   "liczba": false
+  },
+  "Milestone: {{title}} ({{state}})": {
+   "liczba": false
+  },
+  "No reported issues": {
+   "liczba": false
+  },
+  "Open": {
+   "liczba": false
+  },
+  "Open Issue Responder": {
+   "liczba": false
+  },
+  "Refresh Issues": {
+   "liczba": false
+  },
+  "Sent too many github API requests - try again later": {
+   "liczba": false
+  },
+  "Your issues": {
+   "liczba": false
+  }
+ },
+ "extensions/local-gamesettings/src/index.ts": {
+  "failed to swap game settings file": {
+   "liczba": false
+  }
+ },
+ "extensions/meta-editor/src/index.ts": {
+  "Mod lookup...": {
+   "liczba": false
+  },
+  "View Meta Data": {
+   "liczba": false
+  }
+ },
+ "extensions/meta-editor/src/views/MetaEditorDialog.tsx": {
+  "Add": {
+   "liczba": false
+  },
+  "File Name": {
+   "liczba": false
+  },
+  "File Version": {
+   "liczba": false
+  },
+  "Rules": {
+   "liczba": false
+  },
+  "Save in local DB": {
+   "liczba": false
+  },
+  "Source URL": {
+   "liczba": false
+  }
+ },
+ "extensions/meta-editor/src/views/RuleEditor.tsx": {
+  "Always load after": {
+   "liczba": false
+  },
+  "Always load before": {
+   "liczba": false
+  },
+  "Browse": {
+   "liczba": false
+  },
+  "Conflicts": {
+   "liczba": false
+  },
+  "File Hash": {
+   "liczba": false
+  },
+  "Logical File Name": {
+   "liczba": false
+  },
+  "Mod ID": {
+   "liczba": false
+  },
+  "Provides the same as": {
+   "liczba": false
+  },
+  "Recommends": {
+   "liczba": false
+  },
+  "Requires": {
+   "liczba": false
+  },
+  "Rule Type": {
+   "liczba": false
+  },
+  "Version Match": {
+   "liczba": false
+  }
+ },
+ "extensions/mo-import/src/index.ts": {
+  "Import From MO": {
+   "liczba": false
+  }
+ },
+ "extensions/mo-import/src/util/import.ts": {
+  "Archive": {
+   "liczba": false
+  }
+ },
+ "extensions/mo-import/src/views/ImportDialog.tsx": {
+  "... or browse for a MO1 or portable MO2 install": {
+   "liczba": false
+  },
+  "Before you continue, please take note of a few things:": {
+   "liczba": false
+  },
+  "Can't import mods from different game: {{gameId}}": {
+   "liczba": false
+  },
+  "Currently importing: {{mod}}": {
+   "liczba": false
+  },
+  "Disable": {
+   "liczba": false
+  },
+  "Don't import": {
+   "liczba": false
+  },
+  "Duplicate": {
+   "liczba": false
+  },
+  "Failed to start import process": {
+   "liczba": false
+  },
+  "Finish": {
+   "liczba": false
+  },
+  "Import archives": {
+   "liczba": false
+  },
+  "Import result": {
+   "liczba": false
+  },
+  "Import successful": {
+   "liczba": false
+  },
+  "Imports only the archives referenced by imported mods": {
+   "liczba": false
+  },
+  "Introduction": {
+   "liczba": false
+  },
+  "Magic happens": {
+   "liczba": false
+  },
+  "MO2 Instances": {
+   "liczba": false
+  },
+  "Mod Archive": {
+   "liczba": false
+  },
+  "Mod Id": {
+   "liczba": false
+  },
+  "Mod Name": {
+   "liczba": false
+  },
+  "Mod Organizer (MO) Migration Tool": {
+   "liczba": false
+  },
+  "Mod Version": {
+   "liczba": false
+  },
+  "Mods will be copied from MO to Vortex. This may take a while.": {
+   "liczba": false
+  },
+  "Nexus id of the mod": {
+   "liczba": false
+  },
+  "No global instances for this this game": {
+   "liczba": false
+  },
+  "No valid MO installation found at this location: {{error}}": {
+   "liczba": false
+  },
+  "Please make sure you have enough disk space to copy the selected mods.": {
+   "liczba": false
+  },
+  "Review": {
+   "liczba": false
+  },
+  "Select a MO2 instance...": {
+   "liczba": false
+  },
+  "Select Mods to import": {
+   "liczba": false
+  },
+  "Setup": {
+   "liczba": false
+  },
+  "Start": {
+   "liczba": false
+  },
+  "Start Import": {
+   "liczba": false
+  },
+  "The filename of the mod archive": {
+   "liczba": false
+  },
+  "The import status of the mod": {
+   "liczba": false
+  },
+  "The mod version": {
+   "liczba": false
+  },
+  "The Name of the mod": {
+   "liczba": false
+  },
+  "There were errors": {
+   "liczba": false
+  },
+  "This mod is already managed by Vortex": {
+   "liczba": false
+  },
+  "This tool is an easy way of transferring your current MO configuration into Vortex.": {
+   "liczba": false
+  },
+  "Whether the mod is already managed by Vortex": {
+   "liczba": false
+  },
+  "You can review the log at": {
+   "liczba": false
+  },
+  "Your original MO installation is not modified.": {
+   "liczba": false
+  }
+ },
+ "extensions/mod-content/src/filetypes.ts": {
+  "Animations": {
+   "liczba": false
+  },
+  "Asset Bundle": {
+   "liczba": false
+  },
+  "Configuration": {
+   "liczba": false
+  },
+  "Executable (Tools and such)": {
+   "liczba": false
+  },
+  "Extends modding capabilities": {
+   "liczba": false
+  },
+  "Game Map": {
+   "liczba": false
+  },
+  "Game Plugins": {
+   "liczba": false
+  },
+  "Graphics Shaders": {
+   "liczba": false
+  },
+  "Installed using a FOMOD installer": {
+   "liczba": false
+  },
+  "Meshes": {
+   "liczba": false
+  },
+  "Music & Sound": {
+   "liczba": false
+  },
+  "Scripts": {
+   "liczba": false
+  },
+  "Textures": {
+   "liczba": false
+  }
+ },
+ "extensions/mod-content/src/index.tsx": {
+  "Content": {
+   "liczba": false
+  },
+  "Failed to determine mod content": {
+   "liczba": false
+  },
+  "No Content": {
+   "liczba": false
+  },
+  "Refresh Content": {
+   "liczba": false
+  }
+ },
+ "extensions/mod-content/src/ModContent.tsx": {
+  "Empty": {
+   "liczba": false
+  }
+ },
+ "extensions/mod-dependency-manager/src/index.tsx": {
+  "[td]{{modName}}[/td][td][color=\"red\"][svg]conflict[/svg][/color][/td][td][list]{{conflicts}}[/list][/td][/tr]": {
+   "liczba": false
+  },
+  "{{count}} dependencies": {
+   "liczba": true
+  },
+  "{{count}} unresolved conflicts": {
+   "liczba": false
+  },
+  "1 unresolved conflict": {
+   "liczba": false
+  },
+  "Apply to Recommended Mods": {
+   "liczba": false
+  },
+  "conflicts with": {
+   "liczba": false
+  },
+  "Cycles": {
+   "liczba": false
+  },
+  "Dependencies": {
+   "liczba": false
+  },
+  "Dependency rules between your mods contain cycles, like \"A after B\" and \"B after A\". You need to remove one of the rules causing the cycle, otherwise your mods can't be applied in the right order.": {
+   "liczba": false
+  },
+  "Deploy Order": {
+   "liczba": false
+  },
+  "Deploy order derived from mod dependencies": {
+   "liczba": false
+  },
+  "disable": {
+   "liczba": false
+  },
+  "disabled": {
+   "liczba": false
+  },
+  "enable": {
+   "liczba": false
+  },
+  "enabled": {
+   "liczba": false
+  },
+  "Failed to determine conflicts": {
+   "liczba": false
+  },
+  "Failed to determine mod conflicts": {
+   "liczba": false
+  },
+  "Failed to disable mod type conflicts": {
+   "liczba": false
+  },
+  "Failed to refresh mod rules": {
+   "liczba": false
+  },
+  "Failed to test for dependencies": {
+   "liczba": false
+  },
+  "failed to update mod rule cache": {
+   "liczba": false
+  },
+  "Install Dependencies": {
+   "liczba": false
+  },
+  "Manage File Conflicts": {
+   "liczba": false
+  },
+  "Manage Rules": {
+   "liczba": false
+  },
+  "Mod has dependencies": {
+   "liczba": true
+  },
+  "Mod rules contain cycles": {
+   "liczba": false
+  },
+  "Relations to other mods": {
+   "liczba": false
+  },
+  "requires": {
+   "liczba": false
+  },
+  "Rules contain cycles": {
+   "liczba": false
+  },
+  "Some mod dependencies are not fulfilled": {
+   "liczba": false
+  },
+  "Sorting mods failed": {
+   "liczba": false
+  },
+  "The mod you {{enabled}} depends on other mods, do you want to {{enable}} those as well?": {
+   "liczba": true
+  },
+  "There are mod dependency rules that aren't fulfilled.": {
+   "liczba": false
+  },
+  "There are unresolved file conflicts": {
+   "liczba": false
+  },
+  "There are unresolved file conflicts. This just means that two or more mods contain the same files and you need to decide which of them loads last and thus provides the files.\n": {
+   "liczba": false
+  },
+  "This will only disable mods not required by something else but it may disable ones you had already enabled manually.": {
+   "liczba": false
+  },
+  "Unresolved conflicts": {
+   "liczba": false
+  },
+  "Unresolved file conflicts": {
+   "liczba": false
+  },
+  "Unresolved mod conflicts or requirements": {
+   "liczba": false
+  },
+  "Workarounds": {
+   "liczba": false
+  }
+ },
+ "extensions/mod-dependency-manager/src/unsolvedConflictsCheck.ts": {
+  "Unresolved Conflict": {
+   "liczba": false
+  },
+  "You have unresolved file conflicts {{more}}. In some cases this can lead to incompatible files being used which can cause all kind of problems inside the game.\nPlease address all file conflicts before running the game.": {
+   "liczba": false
+  }
+ },
+ "extensions/mod-dependency-manager/src/util/DependenciesFilter.tsx": {
+  "Conflict": {
+   "liczba": false
+  },
+  "LO Rule": {
+   "liczba": false
+  },
+  "Unresolved": {
+   "liczba": false
+  }
+ },
+ "extensions/mod-dependency-manager/src/util/disableModTypeConflicts.ts": {
+  "Disabling Cross-ModType Conflicts": {
+   "liczba": false
+  },
+  "Remove file overrides": {
+   "liczba": false
+  },
+  "You are about to disable cross-modtype conflicts - this is not recommended as conflicts across mod types do not adhere to regular deployment rules and are guaranteed to break your modding environment when present.[br][/br][br][/br]If you proceed, and you have such conflicts, the external changes dialog will be raised after each deployment/purge event until you manually remove the conflicting files or disable the mods that are causing the conflict.[br][/br][br][/br]By default, Vortex will now clear any file overrides that were created to resolve cross-modtype conflicts. Please be aware that ALL file overrides will be removed from the mods mentioned below. Uncheck the box if you would rather keep these file overrides and manage them manually.": {
+   "liczba": false
+  },
+  "You have {{total}} mod(s) with file overrides that are involved in a modtype conflict:\n": {
+   "liczba": false
+  }
+ },
+ "extensions/mod-dependency-manager/src/util/modTypeConflictNotification.ts": {
+  "Show column": {
+   "liczba": false
+  },
+  "You have a mod type conflict. Show the Dependencies column to manage it.": {
+   "liczba": false
+  }
+ },
+ "extensions/mod-dependency-manager/src/util/showUnsolvedConflicts.ts": {
+  "Conflicts haven't been calculated yet, please wait a moment": {
+   "liczba": false
+  }
+ },
+ "extensions/mod-dependency-manager/src/views/ConflictEditor.tsx": {
+  "{{ count }} conflicting file": {
+   "liczba": true
+  },
+  "{{ otherMod }} has a rule referencing {{ thisMod }}": {
+   "liczba": false
+  },
+  "after": {
+   "liczba": false
+  },
+  "after (suggested)": {
+   "liczba": false
+  },
+  "After All": {
+   "liczba": false
+  },
+  "Any version": {
+   "liczba": false
+  },
+  "Apply Rule": {
+   "liczba": false
+  },
+  "before": {
+   "liczba": false
+  },
+  "before (suggested)": {
+   "liczba": false
+  },
+  "Before All": {
+   "liczba": false
+  },
+  "Clear Rules": {
+   "liczba": false
+  },
+  "Compatible version": {
+   "liczba": false
+  },
+  "Conflicts haven't been calculated yet": {
+   "liczba": false
+  },
+  "Edit individual files": {
+   "liczba": false
+  },
+  "Filters are applied": {
+   "liczba": false
+  },
+  "Hide Resolved": {
+   "liczba": false
+  },
+  "Load": {
+   "liczba": false
+  },
+  "Multiple": {
+   "liczba": false
+  },
+  "never together with": {
+   "liczba": false
+  },
+  "Only this version": {
+   "liczba": false
+  },
+  "Please remove applied filters to view all conflicts": {
+   "liczba": false
+  },
+  "Remove Rule": {
+   "liczba": false
+  },
+  "Search for a rule...": {
+   "liczba": false
+  },
+  "Show Resolved": {
+   "liczba": false
+  },
+  "This change will only be applied once you choose to \"Save\" the change in the main dialogue window. Please be aware that once saved, this action cannot be undone and the mod rules and file overrides will have to be set again.": {
+   "liczba": false
+  },
+  "This will remove the existing rule so you can set a new one on this mod.": {
+   "liczba": false
+  },
+  "Unavailable when filters are applied": {
+   "liczba": false
+  },
+  "Use Suggested": {
+   "liczba": false
+  },
+  "Vortex can set some of the rules automatically based on the last modified date. Mods with newer files will be loaded after mods with older files, effectively overriding older mods. While this is a quick way to resolve mod conflicts with generally decent results, it is no guarantee for a working mod load order.[br][/br][br][/br]Please note: Vortex will be unable to suggest rules for mods with files that are both older than some and newer than others from a conflicting mod.[br][/br][br][/br]Loading mods in the incorrect order can lead to in-game errors such as:[br][/br][br][/br][list][*]Mods not having an effect on the game[*]Incorrect textures or models showing up [*]The game crashing[/list][br][/br]If you find that your mods don't work correctly you can always come here and change their order.": {
+   "liczba": false
+  },
+  "You are about to apply a group rule (before/after all), to the following mods: [br][/br][br][/br]{{mods}}[br][/br][br][/br]": {
+   "liczba": false
+  },
+  "You have no file conflicts. Wow!": {
+   "liczba": false
+  }
+ },
+ "extensions/mod-dependency-manager/src/views/ConflictGraph.tsx": {
+  "Arrows can be read as \"then\" (A ->- B reads \"A, then B\"), meaning the mod the arrow points towards is the one that overwrites the first one.": {
+   "liczba": false
+  },
+  "Cycle": {
+   "liczba": false
+  },
+  "Failed to highlight cycle": {
+   "liczba": false
+  },
+  "Flip Rule": {
+   "liczba": false
+  },
+  "Highlight Cycle": {
+   "liczba": false
+  },
+  "If there are too many connections you can highlight a single cycle by right-clicking on one of the mods.": {
+   "liczba": false
+  },
+  "Layout": {
+   "liczba": false
+  },
+  "Load Last (among connected)": {
+   "liczba": false
+  },
+  "This screen shows a cluster of mods that form one or more cycles.": {
+   "liczba": false
+  },
+  "You can resolve a cycle by either removing or flipping one rule, so if you have a cycle A->-B->-C->-A you could flip the arrow between C and A to get A->-B->-C-<-A which is no longer a cycle. Repeat this until there are no cycles left.": {
+   "liczba": false
+  }
+ },
+ "extensions/mod-dependency-manager/src/views/DependencyIcon.tsx": {
+  "Conflicts with": {
+   "liczba": false
+  },
+  "Conflicts with: {{conflicts}}": {
+   "liczba": false
+  },
+  "Drag to another mod to define dependency": {
+   "liczba": false
+  },
+  "Loads after": {
+   "liczba": false
+  },
+  "Loads before": {
+   "liczba": false
+  },
+  "No rules": {
+   "liczba": false
+  },
+  "Provides": {
+   "liczba": false
+  },
+  "This mod has files override the deploy order": {
+   "liczba": false
+  }
+ },
+ "extensions/mod-dependency-manager/src/views/Editor.tsx": {
+  "Conflicts with / Can't be deployed together with": {
+   "liczba": false
+  },
+  "Doesn't match the file name": {
+   "liczba": false
+  },
+  "Doesn't match the mod": {
+   "liczba": false
+  },
+  "MD5": {
+   "liczba": false
+  },
+  "Must deploy after": {
+   "liczba": false
+  },
+  "Must deploy before": {
+   "liczba": false
+  },
+  "Name": {
+   "liczba": false
+  },
+  "Name matching": {
+   "liczba": false
+  },
+  "Range invalid": {
+   "liczba": false
+  },
+  "Version matching": {
+   "liczba": false
+  }
+ },
+ "extensions/mod-dependency-manager/src/views/OverrideEditor.tsx": {
+  "Default": {
+   "liczba": false
+  },
+  "Mods were not sorted. You need to fix that before setting file overrides.": {
+   "liczba": false
+  },
+  "Please try to minimize the number of overrides you set up here. Use mod rules to order entire mods.": {
+   "liczba": false
+  },
+  "Preview": {
+   "liczba": false
+  },
+  "Sorting mods": {
+   "liczba": false
+  },
+  "The mod marked as \"Default\" is the one that will provide the file based on current mod rules, if you make no change.": {
+   "liczba": false
+  },
+  "This lists only the files in the selected mod that aren't exclusive to it.": {
+   "liczba": false
+  },
+  "Use this dialog to select which mod should provide a file.": {
+   "liczba": false
+  }
+ },
+ "extensions/mod-dependency-manager/src/views/ProgressFooter.tsx": {
+  "Updating file conflicts": {
+   "liczba": false
+  }
+ },
+ "extensions/mod-dependency-manager/src/views/SearchBox.tsx": {
+  "{{ pos }} of {{ total }}": {
+   "liczba": false
+  },
+  "Next": {
+   "liczba": false
+  },
+  "Prev": {
+   "liczba": false
+  },
+  "Search": {
+   "liczba": false
+  }
+ },
+ "extensions/mod-dependency-manager/src/views/Settings.tsx": {
+  "Cross-ModType Conflicts Detection": {
+   "liczba": false
+  },
+  "Disabling this feature is not recommended. If you have ModType conflicts present in your mods setup, disabling this will result in the External Changes Dialog being raised before any deployment/purge event and certain files not being deployed/purged correctly until you manually resolve the conflict. Please proceed with caution.": {
+   "liczba": false
+  },
+  "Enable/Disable Cross-ModType conflict detection (A purge will execute upon change)": {
+   "liczba": false
+  },
+  "You have disabled Cross-ModType conflict detection on your system. Any conflicts across modtypes will have to be resolved manually outside of Vortex.": {
+   "liczba": false
+  }
+ },
+ "extensions/mod-highlight/src/index.tsx": {
+  "Highlight": {
+   "liczba": false
+  },
+  "Mod Highlight": {
+   "liczba": false
+  },
+  "Mod Notes": {
+   "liczba": false
+  }
+ },
+ "extensions/mod-highlight/src/types/types.tsx": {
+  "Highlight Settings": {
+   "liczba": false
+  },
+  "Select mod icon": {
+   "liczba": false
+  },
+  "Select theme": {
+   "liczba": false
+  }
+ },
+ "extensions/mod-highlight/src/views/HighlightButton.tsx": {
+  "Change Icon": {
+   "liczba": false
+  }
+ },
+ "extensions/mod-highlight/src/views/HighlightIconBar.tsx": {
+  "Highlight your mods": {
+   "liczba": false
+  }
+ },
+ "extensions/mod-highlight/src/views/TextareaNotes.tsx": {
+  "Multiple values": {
+   "liczba": false
+  },
+  "Write your own notes on this mod": {
+   "liczba": false
+  }
+ },
+ "extensions/mod-report/src/index.ts": {
+  "Cannot create report - mod no longer installed": {
+   "liczba": false
+  },
+  "Copy Link": {
+   "liczba": false
+  },
+  "Create Report": {
+   "liczba": false
+  },
+  "Creating report...": {
+   "liczba": false
+  },
+  "Failed to create mod report": {
+   "liczba": false
+  },
+  "Failed to upload report": {
+   "liczba": false
+  },
+  "Generate checksums": {
+   "liczba": false
+  },
+  "Large number of files": {
+   "liczba": false
+  },
+  "Open Report": {
+   "liczba": false
+  },
+  "Report created": {
+   "liczba": false
+  },
+  "Report has been uploaded. You can share this link with people trying to help you.<br/>[color=red]If you lose this link you will have to recreate the report.[/color]<br/><br/>": {
+   "liczba": false
+  },
+  "Report uploaded": {
+   "liczba": false
+  },
+  "Save to file": {
+   "liczba": false
+  },
+  "Share": {
+   "liczba": false
+  },
+  "This mod contains a large number of files, calculating checksums for each may take a while, but without them the report is slightly less useful.": {
+   "liczba": false
+  }
+ },
+ "extensions/modtype-bepinex/src/bepInExDownloader.ts": {
+  "BepInEx Required": {
+   "liczba": false
+  },
+  "Download BepInEx": {
+   "liczba": false
+  },
+  "Failed to download BepInEx dependency": {
+   "liczba": false
+  },
+  "Failed to update BepInEx": {
+   "liczba": false
+  },
+  "The {{game}} game extension requires a widely used 3rd party assembly patching/injection library called Bepis Injector Extensible (BepInEx).{{bl}}Vortex can walk you through the download/installation process; once complete, BepInEx will be available in your mods page to enable/disable just like any other regular mod. Depending on the modding pattern of {{game}}, BepInEx may be a hard requirement for mods to function in-game, in which case you MUST have the library enabled and deployed at all times for the mods to work!{{bl}}To remove the library, simply disable the mod entry for BepInEx.": {
+   "liczba": false
+  }
+ },
+ "extensions/modtype-bepinex/src/githubDownloader.ts": {
+  "Failed to install BepInEx": {
+   "liczba": false
+  },
+  "Unable to download/install BepInEx - do it manually": {
+   "liczba": false
+  },
+  "Unable to update BepInEx": {
+   "liczba": false
+  }
+ },
+ "extensions/modtype-bepinex/src/index.ts": {
+  "Bepis Injector Extensible": {
+   "liczba": false
+  },
+  "Failed to download/install BepInEx": {
+   "liczba": false
+  },
+  "The \"{{game}}\" game extension requires a widely used 3rd party assembly patching/injection library called Bepis Injector Extensible (BepInEx).{{bl}}BepInEx may be a hard requirement for some mods to function in-game in which case you should manually download and install the latest {{bixUrl}} in order for the mods to work!{{bl}}Choose the \"BepInEx_x64_...zip\" variant - you can then drag and drop it inside the mods page's \"Drop area\" to have Vortex install it as any other mod.{{bl}}If you installed the BepInEx package through Vortex, don't forget to enable it and click \"Deploy Mods\", for the package to be linked to your game's directory.": {
+   "liczba": false
+  },
+  "The \"{{game}}\" game extension requires a widely used 3rd party assembly patching/injection library called Bepis Injector Extensible (BepInEx).{{bl}}Vortex has downloaded and installed this library automatically for you, and is currently available in your mods page to enable/disable just like any other regular mod. Depending on the modding pattern of \"{{game}}\", BepInEx may be a hard requirement for mods to function in-game in which case you MUST have the library enabled and deployed at all times for the mods to work!{{bl}}To remove the library, simply disable the mod entry for BepInEx.": {
+   "liczba": false
+  },
+  "The {{game}} extension uses BepInEx": {
+   "liczba": false
+  }
+ },
+ "extensions/modtype-dinput/src/index.ts": {
+  "Confirm mod installation": {
+   "liczba": false
+  },
+  "The mod you're about to install contains dll files that will run with the game, have the same access to your system and can thus cause considerable damage or infect your system with a virus if it's malicious.\nPlease install this mod only if you received it from a trustworthy source and if you have a virus scanner active right now.": {
+   "liczba": false
+  }
+ },
+ "extensions/modtype-gedosato/src/index.ts": {
+  "GeDoSaTo not installed": {
+   "liczba": false
+  },
+  "Ignore": {
+   "liczba": false
+  },
+  "This looks like a mod that requires the tool GeDoSaTo<br />To use it, you should cancel this installation now, get GeDoSaTo and then retry. If you continue now, the mod may not be installed correctly and will not work even after you install GeDoSaTo.<br />Download from here: [url]https://community.pcgamingwiki.com/files/file/897-gedosato/[/url]<br />": {
+   "liczba": false
+  }
+ },
+ "extensions/modtype-umm/src/index.ts": {
+  "Failed to ensure UMM installation": {
+   "liczba": false
+  },
+  "Failed to register UMM game": {
+   "liczba": false
+  }
+ },
+ "extensions/modtype-umm/src/ummDownloader.ts": {
+  "Download UMM": {
+   "liczba": false
+  },
+  "Failed to download UMM dependency": {
+   "liczba": false
+  },
+  "Once you allow Vortex to browse to GitHub - Please scroll down and click on \"{{archiveName}}\"": {
+   "liczba": false
+  },
+  "The {{game}} game extension requires a 3rd party mod patching/injection tool called Unity Mod Manager (UMM).{{bl}}Vortex can walk you through the download/installation process; once complete, UMM will be available as a tool in your dashboard.Depending on the modding pattern of {{game}}, UMM may be a hard requirement for mods to function in-game, in which case you MUST have the tool installed and configured to inject mods into your game. (run the tool for more info)": {
+   "liczba": false
+  },
+  "Unity Mod Manager Required": {
+   "liczba": false
+  }
+ },
+ "extensions/morrowind-plugin-management/src/index.ts": {
+  "Failed to update morrowind.ini": {
+   "liczba": false
+  }
+ },
+ "extensions/mtframework-arc-support/src/ARCWrapper.ts": {
+  "ARCtool has failed.": {
+   "liczba": false
+  }
+ },
+ "extensions/new-file-monitor/src/index.ts": {
+  "Creating snapshots": {
+   "liczba": false
+  }
+ },
+ "extensions/nmm-import-tool/src/importedModAttributes.tsx": {
+  "This archive is already managed by Vortex": {
+   "liczba": false
+  },
+  "Whether the mod/archive is already managed by Vortex": {
+   "liczba": false
+  }
+ },
+ "extensions/nmm-import-tool/src/index.ts": {
+  "Import From NMM": {
+   "liczba": false
+  }
+ },
+ "extensions/nmm-import-tool/src/util/util.ts": {
+  "Vortex is unable to read/open one or more of your archives - please ensure you have full permissions to those files, and that NMM is not running in the background before trying again. Additionally, now would be a good time to add an exception for Vortex to your Anti-Virus software (if you have one)": {
+   "liczba": false
+  }
+ },
+ "extensions/nmm-import-tool/src/views/ImportDialog.tsx": {
+  "\"{{permFile}}\" is access protected. Please ensure your account has full read/write permissions to your game's NMM mods folder and try again.": {
+   "liczba": false
+  },
+  "{{rootPath}} - Size required: {{required}} / {{available}}": {
+   "liczba": false
+  },
+  "Calculating required disk space. Thank you for your patience.": {
+   "liczba": false
+  },
+  "Can't continue": {
+   "liczba": false
+  },
+  "Check again": {
+   "liczba": false
+  },
+  "Checking": {
+   "liczba": false
+  },
+  "Don't Import": {
+   "liczba": false
+  },
+  "Failed to initialize trace log for NMM import": {
+   "liczba": false
+  },
+  "If you have multiple instances of NMM installed you can select which one to import here:": {
+   "liczba": false
+  },
+  "Importing Mods...": {
+   "liczba": false
+  },
+  "Install imported mods": {
+   "liczba": false
+  },
+  "Looking up archives..": {
+   "liczba": false
+  },
+  "Nexus Mod Manager (NMM) Import Tool": {
+   "liczba": false
+  },
+  "NMM and Vortex would interfere with each other if they both tried to manage the same mods.": {
+   "liczba": false
+  },
+  "NMM needs to be closed during the import process and generally while Vortex is installing mods otherwise it may interfere.": {
+   "liczba": false
+  },
+  "No NMM install found with mods for this game. Please note that only NMM >= 0.63 is supported.": {
+   "liczba": false
+  },
+  "or whether you want to install these yourself at a later time.": {
+   "liczba": false
+  },
+  "Please close NMM": {
+   "liczba": false
+  },
+  "Please disable all mods in NMM": {
+   "liczba": false
+  },
+  "Processing NMM cache information. Thank you for your patience.": {
+   "liczba": false
+  },
+  "Scanning: {{mod}}": {
+   "liczba": false
+  },
+  "The import tool will:": {
+   "liczba": false
+  },
+  "The import tool won’t:": {
+   "liczba": false
+  },
+  "This is an import tool that allows you to bring your mod archives over from an existing NMM installation.": {
+   "liczba": false
+  },
+  "This might take a while, please be patient": {
+   "liczba": false
+  },
+  "Unable to start import process": {
+   "liczba": false
+  },
+  "Vortex cannot validate NMM's mod/archive files - this usually occurs when the NMM configuration is corrupt": {
+   "liczba": false
+  },
+  "whether you would like to start the installation for all imported mods,": {
+   "liczba": false
+  },
+  "You can review the log at: ": {
+   "liczba": false
+  },
+  "You don't have to uninstall the mods, just disable them.": {
+   "liczba": false
+  },
+  "Your selected mod archives have been imported successfully. You can decide now ": {
+   "liczba": false
+  }
+ },
+ "extensions/open-directory/src/index.ts": {
+  "Failed to open game folder": {
+   "liczba": false
+  },
+  "Failed to open mod archive": {
+   "liczba": false
+  },
+  "Failed to open the game mods folder": {
+   "liczba": false
+  },
+  "Open Archive": {
+   "liczba": false
+  },
+  "Open Folder": {
+   "liczba": false
+  },
+  "Open Game Application Data Folder": {
+   "liczba": false
+  },
+  "Open Game Folder": {
+   "liczba": false
+  },
+  "Open Game Mods Folder": {
+   "liczba": false
+  },
+  "Open Game Settings Folder": {
+   "liczba": false
+  },
+  "Open in File Manager": {
+   "liczba": false
+  },
+  "Open Mod Staging Folder": {
+   "liczba": false
+  }
+ },
+ "extensions/quickbms-support/src/index.ts": {
+  "Deprecated QB API": {
+   "liczba": false
+  },
+  "failed to execute qbms operation": {
+   "liczba": false
+  },
+  "Game extension is using deprecated QBMS API calls": {
+   "liczba": false
+  },
+  "List of installed mods": {
+   "liczba": false
+  },
+  "QBMS operation completed": {
+   "liczba": false
+  },
+  "QuickBMS log file": {
+   "liczba": false
+  },
+  "This extension is using deprecated QBMS API calls which will eventually be removed - please inform the extension developer to update it ASAP!": {
+   "liczba": false
+  },
+  "Vortex log file": {
+   "liczba": false
+  }
+ },
+ "extensions/script-extender-error-check/src/index.ts": {
+  "<manually installed>": {
+   "liczba": false
+  },
+  "Extender Error": {
+   "liczba": false
+  },
+  "Last time you ran the game or Creation kit, one or more script extender plugins failed to load; this is according to:<br/>{{errorInformation}}This normally happens when you try to load mods which are not compatible with the installed version of the script extender.<br/>To fix this problem you can check for an update on the mod page of the failed plugin or disable the mod until it is updated.<br/><br/>Error(s) reported:<br/>": {
+   "liczba": false
+  },
+  "Script extender plugin errors": {
+   "liczba": false
+  },
+  "Script extender plugin errors detected": {
+   "liczba": false
+  }
+ },
+ "extensions/script-extender-installer/src/githubDownloader.ts": {
+  "Failed to install script extender": {
+   "liczba": false
+  },
+  "Unable to download/install script extender": {
+   "liczba": false
+  },
+  "Unable to update script extender": {
+   "liczba": false
+  },
+  "Vortex has detected a newer version of {{name}} ({{latest}}) available to download from {{website}}. You currently have version {{current}} installed.\nVortex can download and attempt to install the new update for you.\n\nIf you ignore this message, Vortex will not remind you again until you restart it.": {
+   "liczba": false
+  }
+ }
+}
